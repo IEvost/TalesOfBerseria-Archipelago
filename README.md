@@ -24,7 +24,8 @@ See `SETUP.md` for details. Use a fresh save per seed.
 | `region_keys` | `true` | Lock regions behind Region Keys |
 | `sparklesanity` | `false` | First pickup of each sparkle point is a check |
 | `starting_region_keys` | `0` | Start with the first N keys in story order |
-| `death_link` | `false` | A party wipe kills other DeathLink players; a received death knocks out your party in the next battle |
+| `death_link` | `false` | A party wipe (game over) kills other DeathLink players, and vice versa |
+| `death_link_mode` | `immediate` | `immediate`: a received death starts a battle on the spot and knocks out the party; `next_battle`: it waits for your next battle |
 
 ## How it works (for developers)
 
@@ -47,5 +48,5 @@ Build a release with `./build_release.ps1` (needs the .NET SDK and the game inst
 - Story events that move the party into a new region by cutscene are not blocked; gating applies to map exits.
 - Chests in areas that can only be visited once may be missable; logic assumes regions stay revisitable.
 - Boss-check and goal detection use the game's scenario counter and still need a full playthrough to verify.
-- DeathLink: prologue/scripted battles revive the party instead of a game over, so a received death there
-  has no lasting effect. Sending a death (on game over) is implemented but not yet verified in game.
+- DeathLink in `next_battle` mode: scripted story battles may revive the party instead of a game over, so a
+  death received just before such a battle has no lasting effect (`immediate` mode always uses a plain battle).

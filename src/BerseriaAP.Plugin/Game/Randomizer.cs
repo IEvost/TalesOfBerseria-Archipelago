@@ -166,6 +166,8 @@ internal sealed class Randomizer
             sb.Append($"BERSERIA_AP.active={(active ? "true" : "false")} ");
             sb.Append($"BERSERIA_AP.sparkles={(_ap.SlotFlag("sparklesanity") ? "true" : "false")} ");
             sb.Append($"BERSERIA_AP.deathlink={(_ap.DeathLinkEnabled ? "true" : "false")} ");
+            // death_link_mode: 0 = immediate (force a battle), 1 = next battle
+            sb.Append($"BERSERIA_AP.deathImmediate={(!_ap.SlotFlag("death_link_mode") ? "true" : "false")} ");
             _pushedActive = active;
             if (active) Notify($"Archipelago: {_ap.Status}");
         }

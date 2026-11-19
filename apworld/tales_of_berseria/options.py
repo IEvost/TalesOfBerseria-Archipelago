@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from Options import DeathLink, DefaultOnToggle, PerGameCommonOptions, Range, Toggle
+from Options import Choice, DeathLink, DefaultOnToggle, PerGameCommonOptions, Range, Toggle
 
 
 class RegionKeys(DefaultOnToggle):
@@ -31,9 +31,22 @@ class StartingRegionKeys(Range):
     default = 0
 
 
+class DeathLinkMode(Choice):
+    """
+    How a received DeathLink is applied (only with DeathLink on). The game has no deaths outside battle.
+    immediate: as soon as you can move, a battle starts on the spot and your party is knocked out.
+    next_battle: the death waits until your next battle begins, then knocks out your party.
+    """
+    display_name = "DeathLink Mode"
+    option_immediate = 0
+    option_next_battle = 1
+    default = 0
+
+
 @dataclass
 class BerseriaOptions(PerGameCommonOptions):
     region_keys: RegionKeys
     sparklesanity: Sparklesanity
     starting_region_keys: StartingRegionKeys
     death_link: DeathLink
+    death_link_mode: DeathLinkMode

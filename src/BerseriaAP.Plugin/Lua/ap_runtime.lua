@@ -265,14 +265,30 @@ end
 
 local function deathTick()
   local over = GS.Is(GS.GAMESTATE_BATTLE_GAMEOVER)
-  if over and not AP.wasOver then
-    if AP.killedByLink then AP.killedByLink = false else emit("DEATH") end
-  end
+  -- A game over caused by a received DeathLink is never reported back. The marker stays set until
+  -- the player is free in the field again: scripted battles can toggle the game-over state repeatedly
+  -- (e.g. the prologue's automatic revive), and each toggle must stay suppressed.
+  if over and not AP.wasOver and not AP.killedByLink then emit("DEATH") end
   AP.wasOver = over
 
   local inBattle = GS.Is(GS.GAMESTATE_BATTLE_MAIN)
+
+  -- Immediate mode: start a battle on the spot (plain prologue enemy group, no story script).
+  -- Waits until the player is free in the field and no message box is still queued/showing.
+  if AP.pendingDeath and AP.deathImmediate and not inBattle and not AP.forcingBattle
+     and #AP.msgs == 0 and not AP.presenting
+     and GS.IsPlayerFree() and GS.Is(GS.GAMESTATE_GAME) then
+    local ok, err = pcall(TO13.Battle.SetBattleEvent, AP.deathBattleGroup or "EGP_URI0")
+    if ok then AP.forcingBattle = true; AP.forceTick = AP.tick else emit("ERROR", "SetBattleEvent: " .. tostring(err)) end
+  end
+  -- Safety: if the forced battle never started (~10 s), allow another attempt.
+  if AP.forcingBattle and not inBattle and GS.IsPlayerFree() and (AP.tick - (AP.forceTick or 0)) > 100 then
+    AP.forcingBattle = false
+  end
+
   if AP.pendingDeath and inBattle then
     AP.pendingDeath = false
+    AP.forcingBattle = false
     AP.killedByLink = true
     local ok, err = pcall(AP.KillParty)
     emit(ok and "DEATHLINK_APPLIED" or "ERROR", ok and "" or ("KillParty: " .. tostring(err)))
