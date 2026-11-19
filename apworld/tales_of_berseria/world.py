@@ -27,7 +27,7 @@ ITEM_BY_NAME: dict[str, dict] = {i["name"]: i for i in ITEMS}
 GAME_ITEM_NAME: dict[int, str] = {i["game_id"]: i["name"] for i in ITEMS if i["kind"] == "game"}
 KEY_NAME_BY_REGION: dict[str, str] = {i["region"]: i["name"] for i in ITEMS if i["kind"] == "key"}
 GALD_BUNDLES: list[tuple[int, str]] = sorted((i["count"], i["name"]) for i in ITEMS if i["kind"] == "gald")
-CONSUMABLES = [n for n in ("Apple Gel", "Orange Gel", "Lemon Gel", "Life Bottle") if n in ITEM_BY_NAME]
+CONSUMABLES = [n for n in ("Apple Gel", "Peach Gel", "Grape Gel", "Life Bottle") if n in ITEM_BY_NAME]
 FINAL_BOSS_SCENARIO: int = DATA["goal_scenario"]
 
 CLASSIFICATION = {

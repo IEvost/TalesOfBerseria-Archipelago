@@ -24,7 +24,7 @@
   <ItemGroup>
     <PackageReference Include="Archipelago.MultiClient.Net" Version="6.7.1" />
   </ItemGroup>
-  <Target Name="Deploy" AfterTargets="Build">
+  <Target Name="Deploy" AfterTargets="Build" Condition="'$(SkipDeploy)' != 'true'">
     <ItemGroup><DeployFiles Include="$(OutDir)*.dll" Exclude="$(OutDir)BepInEx*.dll;$(OutDir)Il2Cpp*.dll;$(OutDir)MonoMod*.dll" /></ItemGroup>
     <Copy SourceFiles="@(DeployFiles)" DestinationFolder="$(GameDir)\BepInEx\plugins\BerseriaAP" />
   </Target>

@@ -254,7 +254,7 @@ internal static class Gen
             itemArr.Add(new JsonObject { ["id"] = BaseId + ItemGald + g, ["name"] = $"{g} Gald", ["kind"] = "gald", ["count"] = g, ["class"] = "filler" });
         // Every game item that appears as fixed chest content (plus common consumables) becomes an AP item.
         var gameItemIds = new SortedSet<uint>(tbRec.Values.Select(j => (uint)(long)j["Item"]!).Where(x => x > 2 && items.ContainsKey(x)));
-        foreach (var label in new[] { "ITEMNO_APPLE_GUMMI", "ITEMNO_ORANGE_GUMMI", "ITEMNO_LEMON_GUMMI", "ITEMNO_LIFE_BOTTLE" })
+        foreach (var label in new[] { "ITEMNO_APPLE_GUMMI", "ITEMNO_PEACH_GUMMI", "ITEMNO_GRAPE_GUMMI", "ITEMNO_LIFE_BOTTLE" })
         {
             var hit = items.Values.FirstOrDefault(x => x.Label == label);
             if (hit != null) gameItemIds.Add(hit.Id);
