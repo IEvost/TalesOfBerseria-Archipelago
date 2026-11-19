@@ -45,7 +45,9 @@ Build a release with `./build_release.ps1` (needs the .NET SDK and the game inst
 
 ## Known limitations
 
-- Story events that move the party into a new region by cutscene are not blocked; gating applies to map exits.
+- Region locks apply to map exits, warp points, map shortcuts and ship voyages. Story events that move the
+  party into a new region by cutscene are not blocked. The warp-point and voyage menus were verified by direct
+  calls only; their full in-game flow still needs a check once those features unlock in the story.
 - Chests in areas that can only be visited once may be missable; logic assumes regions stay revisitable.
 - Boss-check and goal detection use the game's scenario counter and still need a full playthrough to verify.
 - DeathLink in `next_battle` mode: scripted story battles may revive the party instead of a game over, so a

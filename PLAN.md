@@ -61,7 +61,7 @@ functions, the plugin hooks the embedded Lua VM and patches the game's own Lua m
 Still to verify or do:
 - Katz box and sparkle checks in game (code written, not yet triggered)
 - Boss checks and goal (scenario counter) over real story progress
-- Gating for transitions not done via map links (fast travel/warp points, story cutscenes)
+- Warp point / voyage menus: verify the full in-game flow once unlocked (blocking verified via direct calls)
 - Missable chests in one-time areas
 
 ## 5. Risks

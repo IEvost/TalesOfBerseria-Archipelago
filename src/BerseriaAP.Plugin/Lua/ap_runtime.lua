@@ -105,40 +105,49 @@ do
 end
 
 -- ---------------------------------------------------------------------------
--- Region keys: refuse map links whose destination region is locked.
+-- Region keys: refuse travel into locked regions.
+--   * map links (walking between maps)          AreaMapLink.ExecuteChangeMap
+--   * warp points, jumps, map shortcuts         TO13.ChangeMap.Initialize(TYPE_WARP|TYPE_JUMP|TYPE_ESCAPE, map, ...)
+--   * ship voyages                              TO13.Menu.RequestChangeMap(TYPE_WARP, map, ...)
+-- Return/reload/restore and story events are never blocked (they only return the player
+-- somewhere already visited, or are required by the story).
 -- ---------------------------------------------------------------------------
 local function regionOf(map)
   if type(map) ~= "string" or map:sub(1, 4) ~= "MAP_" then return nil end
   return map:sub(5, 7)
 end
 
+-- Returns true (and shows the lock message, rate-limited) if travelling to `dest` must be refused.
+local function travelBlocked(dest, how)
+  if not AP.locked then return false end -- enforced even while disconnected
+  local dr, cr = regionOf(dest), regionOf(TO13.Map.GetName())
+  if not dr or dr == cr or not AP.locked[dr] then return false end
+  local now = AP.tick or 0
+  if now >= AP.lockCooldown then
+    AP.lockCooldown = now + 30 -- ~3 s at the 10 Hz poll rate
+    emit("BLOCKED", dr, tostring(dest), how)
+    AP.msgs[#AP.msgs + 1] = AP.lockText and AP.lockText[dr] or ("This region is locked by Archipelago (" .. dr .. ").")
+  end
+  return true
+end
+AP.TravelBlocked = travelBlocked
+
 do
   local orig = keepOrig("MapLink.ExecuteChangeMap", MapLink.ExecuteChangeMap)
   MapLink.ExecuteChangeMap = function(self, ...)
-    if AP.debug and self.param then
-      local ok, d1, d2 = pcall(self.param.GetMap, self.param)
-      emit("DEBUG", "MapLink.ExecuteChangeMap", tostring(ok), type(d1), tostring(d1), tostring(d2))
-    end
-    if AP.locked and self.param then -- enforced even while disconnected
+    if self.param then
       local ok, dest = pcall(self.param.GetMap, self.param)
-      local dr, cr = regionOf(ok and dest), regionOf(TO13.Map.GetName())
-      if dr and dr ~= cr and AP.locked[dr] then
-        local now = AP.tick or 0
-        if now >= AP.lockCooldown then
-          AP.lockCooldown = now + 30 -- ~3 s at the 10 Hz poll rate
-          emit("BLOCKED", dr, tostring(dest))
-          AP.msgs[#AP.msgs + 1] = AP.lockText and AP.lockText[dr] or ("This region is locked by Archipelago (" .. dr .. ").")
-        end
-        return
-      end
+      if ok and travelBlocked(dest, "link") then return end
     end
     return orig(self, ...)
   end
 end
 
--- Diagnostics: log every ChangeMap entry point (enabled with AP.debug = true).
 do
   local CM = TO13.ChangeMap
+  local gated = { [CM.TYPE_WARP] = "warp", [CM.TYPE_JUMP] = "jump", [CM.TYPE_ESCAPE] = "shortcut" }
+
+  -- ChangeMap.Initialize(type, map, locator, ...) and diagnostics for all ChangeMap entry points.
   for _, fname in ipairs({ "Initialize", "InitializeLink", "InitializeReturn", "InitializeReload", "InitializeRestart", "InitializeRestore" }) do
     local orig = keepOrig("CM." .. fname, CM[fname])
     if type(orig) == "function" then
@@ -152,12 +161,30 @@ do
             end
             AP.out[#AP.out + 1] = table.concat(parts, "\t")
           end
+          if fname == "Initialize" then
+            local kind, dest = ...
+            if gated[kind] and travelBlocked(dest, gated[kind]) then return end
+          end
           return orig(...)
         end
       end)
       if not ok then emit("DEBUG", "cannot wrap ChangeMap." .. fname) end
     end
   end
+
+  -- Ship voyages request the change from the voyage menu, then fade out. When refused, fade back in
+  -- once the menu has finished so the player is not left on a black screen.
+  local origReq = keepOrig("Menu.RequestChangeMap", TO13.Menu.RequestChangeMap)
+  local ok = pcall(function()
+    TO13.Menu.RequestChangeMap = function(kind, dest, ...)
+      if gated[kind] and travelBlocked(dest, "voyage") then
+        AP.fadeInAfterBlock = (AP.tick or 0) + 20
+        return
+      end
+      return origReq(kind, dest, ...)
+    end
+  end)
+  if not ok then emit("DEBUG", "cannot wrap Menu.RequestChangeMap") end
 end
 
 -- ---------------------------------------------------------------------------
@@ -302,6 +329,11 @@ function AP.Poll()
   AP.tick = (AP.tick or 0) + 1
   pumpMessages()
   if AP.deathlink then deathTick() end
+  -- A refused ship voyage leaves the screen faded out: bring it back.
+  if AP.fadeInAfterBlock and AP.tick >= AP.fadeInAfterBlock then
+    AP.fadeInAfterBlock = nil
+    if TO13.Fade.IsOut() then pcall(TO13.Fade.In, 18) end
+  end
   local sc = TO13.Scenario.GetScenarioFlag()
   if sc ~= AP.lastScenario then
     AP.lastScenario = sc
