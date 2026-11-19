@@ -49,6 +49,21 @@
 | 5 | APWorld: items, locations, regions/logic by story chapter, options | `.apworld`, generated seed | No |
 | 6 | Polish: DeathLink, shops (optional), Katz/sparkles toggles, installer/README | Release zip | Yes: playtest |
 
+## Status (2026-11-19)
+
+Phases 0–5 are done and verified in game against a local server: hooks, chest checks with scouted
+messages, item delivery (consumables, gald, keys) with a save-bound counter, region-key gating at map
+exits, apworld generation (passes Archipelago's world tests), release packaging (`build_release.ps1`).
+
+The architecture changed from the original plan for the better: instead of reverse-engineering native
+functions, the plugin hooks the embedded Lua VM and patches the game's own Lua modules (see README).
+
+Still to verify or do:
+- Katz box and sparkle checks in game (code written, not yet triggered)
+- Boss checks and goal (scenario counter) over real story progress
+- Gating for transitions not done via map links (fast travel/warp points, story cutscenes)
+- Missable chests in one-time areas; DeathLink; an in-game connect UI instead of the config file
+
 ## 5. Risks
 
 * **Linear story:** Berseria has very little natural gating. Logic will mostly be "location X needs story chapter N", unless we add artificial gates (see the open questions).
