@@ -21,6 +21,7 @@ DATA: dict = json.loads(pkgutil.get_data(__name__, "game_data.json").decode("utf
 REGIONS: list[dict] = DATA["regions"]
 REGION_BY_CODE: dict[str, dict] = {r["code"]: r for r in REGIONS}
 STORY: list[dict] = sorted((r for r in REGIONS if r["story"]), key=lambda r: r["order"])
+STORY_INDEX: dict[str, int] = {r["code"]: i for i, r in enumerate(STORY)}
 LOCATIONS: list[dict] = DATA["locations"]
 ITEMS: list[dict] = DATA["items"]
 ITEM_BY_NAME: dict[str, dict] = {i["name"]: i for i in ITEMS}
@@ -99,9 +100,20 @@ class BerseriaWorld(World):
         Story battles happen at a fixed point of the story, possibly while revisiting an early region.
         They are logically placed in the latest story region already reached at that point.
         """
-        if loc["type"] != "boss":
-            return loc["region"]
-        reached = [r for r in STORY if scenario_of(r["first_event"]) <= loc["scenario"]]
+        if loc["type"] == "boss":
+            return BerseriaWorld._story_region_at(loc["scenario"])
+        # Maps the story only opens later than their region (e.g. Earthpulse strata) wait for that point.
+        first = loc.get("map_first_event")
+        if first and REGION_BY_CODE[loc["region"]]["story"]:
+            late = BerseriaWorld._story_region_at(scenario_of(first))
+            if STORY_INDEX[late] > STORY_INDEX[loc["region"]]:
+                return late
+        return loc["region"]
+
+    @staticmethod
+    def _story_region_at(scenario: int) -> str:
+        """Latest story region already reached at the given scenario (story) point."""
+        reached = [r for r in STORY if scenario_of(r["first_event"]) <= scenario]
         return reached[-1]["code"] if reached else STORY[0]["code"]
 
     # ------------------------------------------------------------------ regions

@@ -441,6 +441,7 @@
       "map": "MAP_RGL_T00",
       "vanilla_item": 1,
       "vanilla_count": 800,
+      "map_first_event": "MEP_060_090_010",
       "rank": 1,
       "level": 14
     },
@@ -453,6 +454,7 @@
       "map": "MAP_RGL_T01",
       "vanilla_item": 67108970,
       "vanilla_count": 1,
+      "map_first_event": "MEP_060_195_010",
       "rank": 3,
       "level": 15
     },
@@ -465,6 +467,7 @@
       "map": "MAP_RGL_T01",
       "vanilla_item": 83886105,
       "vanilla_count": 1,
+      "map_first_event": "MEP_060_195_010",
       "rank": 2,
       "level": 14
     },
@@ -477,6 +480,7 @@
       "map": "MAP_RGL_T02",
       "vanilla_item": 16777228,
       "vanilla_count": 1,
+      "map_first_event": "MEP_060_150_010",
       "rank": 1,
       "level": 14
     },
@@ -489,6 +493,7 @@
       "map": "MAP_RGL_T03",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_060_690_012",
       "rank": 1,
       "level": 14
     },
@@ -501,6 +506,7 @@
       "map": "MAP_WRG_D05",
       "vanilla_item": 1,
       "vanilla_count": 1600,
+      "map_first_event": "MEP_100_130_010",
       "rank": 1,
       "level": 23
     },
@@ -513,6 +519,7 @@
       "map": "MAP_WRG_D05",
       "vanilla_item": 100663305,
       "vanilla_count": 1,
+      "map_first_event": "MEP_100_130_010",
       "rank": 2,
       "level": 23
     },
@@ -525,6 +532,7 @@
       "map": "MAP_WRG_D01",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 23
     },
@@ -537,6 +545,7 @@
       "map": "MAP_WRG_D02",
       "vanilla_item": 33554435,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 23
     },
@@ -549,6 +558,7 @@
       "map": "MAP_WRG_D03",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 23
     },
@@ -561,6 +571,7 @@
       "map": "MAP_WRG_D03",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 23
     },
@@ -573,6 +584,7 @@
       "map": "MAP_WRG_D04",
       "vanilla_item": 1,
       "vanilla_count": 1520,
+      "map_first_event": null,
       "rank": 1,
       "level": 23
     },
@@ -585,6 +597,7 @@
       "map": "MAP_WRG_D07",
       "vanilla_item": 67108871,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 23
     },
@@ -597,6 +610,7 @@
       "map": "MAP_WRG_D07",
       "vanilla_item": 33554447,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 23
     },
@@ -609,6 +623,7 @@
       "map": "MAP_NOG_F00",
       "vanilla_item": 33554435,
       "vanilla_count": 1,
+      "map_first_event": "MEP_100_200_010",
       "rank": 1,
       "level": 23
     },
@@ -621,6 +636,7 @@
       "map": "MAP_NOG_F00",
       "vanilla_item": 1,
       "vanilla_count": 1450,
+      "map_first_event": "MEP_100_200_010",
       "rank": 1,
       "level": 23
     },
@@ -633,6 +649,7 @@
       "map": "MAP_NOG_F00",
       "vanilla_item": 100663305,
       "vanilla_count": 1,
+      "map_first_event": "MEP_100_200_010",
       "rank": 2,
       "level": 23
     },
@@ -645,6 +662,7 @@
       "map": "MAP_NOG_F00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_100_200_010",
       "rank": 1,
       "level": 23
     },
@@ -657,6 +675,7 @@
       "map": "MAP_NOG_F00",
       "vanilla_item": 50331714,
       "vanilla_count": 1,
+      "map_first_event": "MEP_100_200_010",
       "rank": 3,
       "level": 23
     },
@@ -669,6 +688,7 @@
       "map": "MAP_NOG_F00",
       "vanilla_item": 33554435,
       "vanilla_count": 1,
+      "map_first_event": "MEP_100_200_010",
       "rank": 1,
       "level": 23
     },
@@ -681,6 +701,7 @@
       "map": "MAP_FGL_F00",
       "vanilla_item": 1,
       "vanilla_count": 320,
+      "map_first_event": "MEP_030_380_010",
       "rank": 1,
       "level": 7
     },
@@ -693,6 +714,7 @@
       "map": "MAP_FGL_F01",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 7
     },
@@ -705,6 +727,7 @@
       "map": "MAP_FGL_F01",
       "vanilla_item": 33554444,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 7
     },
@@ -717,6 +740,7 @@
       "map": "MAP_FGL_F02",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_040_060_010",
       "rank": 1,
       "level": 7
     },
@@ -729,6 +753,7 @@
       "map": "MAP_GBL_F00",
       "vanilla_item": 1,
       "vanilla_count": 8000,
+      "map_first_event": null,
       "rank": 1,
       "level": 52
     },
@@ -741,6 +766,7 @@
       "map": "MAP_GBL_F01",
       "vanilla_item": 83886096,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 52
     },
@@ -753,6 +779,7 @@
       "map": "MAP_GBL_F01",
       "vanilla_item": 83886117,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 52
     },
@@ -765,6 +792,7 @@
       "map": "MAP_GBL_F01",
       "vanilla_item": 1,
       "vanilla_count": 10000,
+      "map_first_event": null,
       "rank": 1,
       "level": 52
     },
@@ -777,6 +805,7 @@
       "map": "MAP_GBL_F02",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": "MEP_190_140_010",
       "rank": 1,
       "level": 52
     },
@@ -789,6 +818,7 @@
       "map": "MAP_GBL_F02",
       "vanilla_item": 33554439,
       "vanilla_count": 1,
+      "map_first_event": "MEP_190_140_010",
       "rank": 1,
       "level": 52
     },
@@ -801,6 +831,7 @@
       "map": "MAP_GBL_F03",
       "vanilla_item": 67108879,
       "vanilla_count": 1,
+      "map_first_event": "MEP_210_010_100",
       "rank": 3,
       "level": 54
     },
@@ -813,6 +844,7 @@
       "map": "MAP_HRV_P00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_040_500_100",
       "rank": 1,
       "level": 8
     },
@@ -825,6 +857,7 @@
       "map": "MAP_HRV_T00",
       "vanilla_item": 83886103,
       "vanilla_count": 1,
+      "map_first_event": "MEP_040_140_012",
       "rank": 2,
       "level": 8
     },
@@ -837,6 +870,7 @@
       "map": "MAP_HRV_T00",
       "vanilla_item": 33554433,
       "vanilla_count": 1,
+      "map_first_event": "MEP_040_140_012",
       "rank": 1,
       "level": 8
     },
@@ -849,6 +883,7 @@
       "map": "MAP_MEI_P00",
       "vanilla_item": 1,
       "vanilla_count": 10500,
+      "map_first_event": "MEP_190_110_012",
       "rank": 1,
       "level": 53
     },
@@ -861,6 +896,7 @@
       "map": "MAP_MEI_T00",
       "vanilla_item": 67108900,
       "vanilla_count": 1,
+      "map_first_event": "MEP_190_100_100",
       "rank": 3,
       "level": 54
     },
@@ -873,6 +909,7 @@
       "map": "MAP_MEI_T00",
       "vanilla_item": 16777226,
       "vanilla_count": 1,
+      "map_first_event": "MEP_190_100_100",
       "rank": 1,
       "level": 53
     },
@@ -885,6 +922,7 @@
       "map": "MAP_MEI_T00",
       "vanilla_item": 33554439,
       "vanilla_count": 1,
+      "map_first_event": "MEP_190_100_100",
       "rank": 1,
       "level": 53
     },
@@ -897,6 +935,7 @@
       "map": "MAP_AVL_T00",
       "vanilla_item": 100663297,
       "vanilla_count": 1,
+      "map_first_event": "MEP_020_170_010",
       "rank": 2,
       "level": 5
     },
@@ -909,6 +948,7 @@
       "map": "MAP_AVL_T00",
       "vanilla_item": 16777217,
       "vanilla_count": 1,
+      "map_first_event": "MEP_020_170_010",
       "rank": 1,
       "level": 5
     },
@@ -921,6 +961,7 @@
       "map": "MAP_BZL_T00",
       "vanilla_item": 67108907,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 8
     },
@@ -933,6 +974,7 @@
       "map": "MAP_BZL_T00",
       "vanilla_item": 1,
       "vanilla_count": 450,
+      "map_first_event": null,
       "rank": 1,
       "level": 8
     },
@@ -945,6 +987,7 @@
       "map": "MAP_RND_T00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 23
     },
@@ -957,6 +1000,7 @@
       "map": "MAP_RND_T00",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 23
     },
@@ -969,6 +1013,7 @@
       "map": "MAP_RND_T00",
       "vanilla_item": 83886085,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 23
     },
@@ -981,6 +1026,7 @@
       "map": "MAP_HRI_T00",
       "vanilla_item": 33554436,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_230_010",
       "rank": 1,
       "level": 29
     },
@@ -993,6 +1039,7 @@
       "map": "MAP_HRI_T00",
       "vanilla_item": 1,
       "vanilla_count": 2250,
+      "map_first_event": "MEP_110_230_010",
       "rank": 1,
       "level": 29
     },
@@ -1005,6 +1052,7 @@
       "map": "MAP_HRI_T00",
       "vanilla_item": 16777229,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_230_010",
       "rank": 1,
       "level": 29
     },
@@ -1017,6 +1065,7 @@
       "map": "MAP_HRI_T00",
       "vanilla_item": 33554436,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_230_010",
       "rank": 1,
       "level": 29
     },
@@ -1029,6 +1078,7 @@
       "map": "MAP_STB_T00",
       "vanilla_item": 33554448,
       "vanilla_count": 1,
+      "map_first_event": "MEP_130_390_010",
       "rank": 1,
       "level": 37
     },
@@ -1041,6 +1091,7 @@
       "map": "MAP_STB_T00",
       "vanilla_item": 33554437,
       "vanilla_count": 1,
+      "map_first_event": "MEP_130_390_010",
       "rank": 1,
       "level": 37
     },
@@ -1053,6 +1104,7 @@
       "map": "MAP_STB_T00",
       "vanilla_item": 33554451,
       "vanilla_count": 1,
+      "map_first_event": "MEP_130_390_010",
       "rank": 1,
       "level": 37
     },
@@ -1065,6 +1117,7 @@
       "map": "MAP_LNL_P00",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": "MEP_150_060_800_Script",
       "rank": 1,
       "level": 44
     },
@@ -1077,6 +1130,7 @@
       "map": "MAP_LNL_P00",
       "vanilla_item": 16777219,
       "vanilla_count": 1,
+      "map_first_event": "MEP_150_060_800_Script",
       "rank": 1,
       "level": 44
     },
@@ -1089,6 +1143,7 @@
       "map": "MAP_EXT_T00",
       "vanilla_item": 1,
       "vanilla_count": 765,
+      "map_first_event": null,
       "rank": 1,
       "level": 63
     },
@@ -1101,6 +1156,7 @@
       "map": "MAP_EXT_T00",
       "vanilla_item": 16777221,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 63
     },
@@ -1113,6 +1169,7 @@
       "map": "MAP_EXT_T00",
       "vanilla_item": 33554441,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 63
     },
@@ -1125,6 +1182,7 @@
       "map": "MAP_EXT_T00",
       "vanilla_item": 33554441,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 63
     },
@@ -1137,6 +1195,7 @@
       "map": "MAP_BRN_F00",
       "vanilla_item": 100663300,
       "vanilla_count": 1,
+      "map_first_event": "MEP_050_050_800_Script",
       "rank": 2,
       "level": 10
     },
@@ -1149,6 +1208,7 @@
       "map": "MAP_BRN_F01",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_050_220_100",
       "rank": 1,
       "level": 10
     },
@@ -1161,6 +1221,7 @@
       "map": "MAP_BRN_F02",
       "vanilla_item": 83886108,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 26
     },
@@ -1173,6 +1234,7 @@
       "map": "MAP_BRN_F04",
       "vanilla_item": 1,
       "vanilla_count": 1750,
+      "map_first_event": null,
       "rank": 1,
       "level": 25
     },
@@ -1185,6 +1247,7 @@
       "map": "MAP_BRN_F04",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 25
     },
@@ -1197,6 +1260,7 @@
       "map": "MAP_BRN_F06",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 26
     },
@@ -1209,6 +1273,7 @@
       "map": "MAP_DAN_F00",
       "vanilla_item": 83886084,
       "vanilla_count": 1,
+      "map_first_event": "MEP_060_260_100",
       "rank": 2,
       "level": 14
     },
@@ -1221,6 +1286,7 @@
       "map": "MAP_DAN_F01",
       "vanilla_item": 100663300,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 14
     },
@@ -1233,6 +1299,7 @@
       "map": "MAP_DAN_F01",
       "vanilla_item": 1,
       "vanilla_count": 750,
+      "map_first_event": null,
       "rank": 1,
       "level": 14
     },
@@ -1245,6 +1312,7 @@
       "map": "MAP_DAN_F02",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 14
     },
@@ -1257,6 +1325,7 @@
       "map": "MAP_DAN_F04",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_070_170_100",
       "rank": 1,
       "level": 14
     },
@@ -1269,6 +1338,7 @@
       "map": "MAP_DAN_F04",
       "vanilla_item": 16777217,
       "vanilla_count": 1,
+      "map_first_event": "MEP_070_170_100",
       "rank": 1,
       "level": 14
     },
@@ -1281,6 +1351,7 @@
       "map": "MAP_ALD_F00",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": "MEP_130_350_010",
       "rank": 1,
       "level": 36
     },
@@ -1293,6 +1364,7 @@
       "map": "MAP_ALD_F01",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 36
     },
@@ -1305,6 +1377,7 @@
       "map": "MAP_ALD_F01",
       "vanilla_item": 117440518,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 36
     },
@@ -1317,6 +1390,7 @@
       "map": "MAP_ALD_F01",
       "vanilla_item": 1,
       "vanilla_count": 3600,
+      "map_first_event": null,
       "rank": 1,
       "level": 36
     },
@@ -1329,6 +1403,7 @@
       "map": "MAP_ALD_F01",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 36
     },
@@ -1341,6 +1416,7 @@
       "map": "MAP_ALD_F01",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 36
     },
@@ -1353,6 +1429,7 @@
       "map": "MAP_ALD_F02",
       "vanilla_item": 16777224,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 36
     },
@@ -1365,6 +1442,7 @@
       "map": "MAP_ALD_F02",
       "vanilla_item": 33554451,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 36
     },
@@ -1377,6 +1455,7 @@
       "map": "MAP_ALD_F03",
       "vanilla_item": 33554437,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 36
     },
@@ -1389,6 +1468,7 @@
       "map": "MAP_BLG_F00",
       "vanilla_item": 117440516,
       "vanilla_count": 1,
+      "map_first_event": "MEP_080_220_010",
       "rank": 2,
       "level": 19
     },
@@ -1401,6 +1481,7 @@
       "map": "MAP_BLG_F00",
       "vanilla_item": 1,
       "vanilla_count": 1100,
+      "map_first_event": "MEP_080_220_010",
       "rank": 1,
       "level": 19
     },
@@ -1413,6 +1494,7 @@
       "map": "MAP_BLG_F00",
       "vanilla_item": 50331735,
       "vanilla_count": 1,
+      "map_first_event": "MEP_080_220_010",
       "rank": 3,
       "level": 19
     },
@@ -1425,6 +1507,7 @@
       "map": "MAP_BLG_F00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_080_220_010",
       "rank": 1,
       "level": 19
     },
@@ -1437,6 +1520,7 @@
       "map": "MAP_BLG_F00",
       "vanilla_item": 67108930,
       "vanilla_count": 1,
+      "map_first_event": "MEP_080_220_010",
       "rank": 3,
       "level": 19
     },
@@ -1449,6 +1533,7 @@
       "map": "MAP_MCL_F00",
       "vanilla_item": 33554436,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 28
     },
@@ -1461,6 +1546,7 @@
       "map": "MAP_MCL_F00",
       "vanilla_item": 100663306,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 28
     },
@@ -1473,6 +1559,7 @@
       "map": "MAP_MCL_F01",
       "vanilla_item": 1,
       "vanilla_count": 2050,
+      "map_first_event": "MEP_110_130_012",
       "rank": 1,
       "level": 28
     },
@@ -1485,6 +1572,7 @@
       "map": "MAP_MCL_F01",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_130_012",
       "rank": 1,
       "level": 28
     },
@@ -1497,6 +1585,7 @@
       "map": "MAP_PRN_F00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 40
     },
@@ -1509,6 +1598,7 @@
       "map": "MAP_PRN_F01",
       "vanilla_item": 100663309,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 40
     },
@@ -1521,6 +1611,7 @@
       "map": "MAP_PRN_F01",
       "vanilla_item": 1,
       "vanilla_count": 4350,
+      "map_first_event": null,
       "rank": 1,
       "level": 40
     },
@@ -1533,6 +1624,7 @@
       "map": "MAP_PRN_F01",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 40
     },
@@ -1545,6 +1637,7 @@
       "map": "MAP_PRN_F01",
       "vanilla_item": 33554448,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 40
     },
@@ -1557,6 +1650,7 @@
       "map": "MAP_PRN_F02",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 40
     },
@@ -1569,6 +1663,7 @@
       "map": "MAP_CUR_F00",
       "vanilla_item": 16777221,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 49
     },
@@ -1581,6 +1676,7 @@
       "map": "MAP_CUR_F00",
       "vanilla_item": 67108982,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 50
     },
@@ -1593,6 +1689,7 @@
       "map": "MAP_CUR_F00",
       "vanilla_item": 67108961,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 50
     },
@@ -1605,6 +1702,7 @@
       "map": "MAP_SNM_D00",
       "vanilla_item": 16777217,
       "vanilla_count": 1,
+      "map_first_event": "MEP_020_150_100",
       "rank": 1,
       "level": 42
     },
@@ -1617,6 +1715,7 @@
       "map": "MAP_SNM_D00",
       "vanilla_item": 16777217,
       "vanilla_count": 1,
+      "map_first_event": "MEP_020_150_100",
       "rank": 1,
       "level": 42
     },
@@ -1629,6 +1728,7 @@
       "map": "MAP_HDL_D00",
       "vanilla_item": 1,
       "vanilla_count": 500,
+      "map_first_event": null,
       "rank": 1,
       "level": 8
     },
@@ -1641,6 +1741,7 @@
       "map": "MAP_HDL_D00",
       "vanilla_item": 16777217,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 8
     },
@@ -1653,6 +1754,7 @@
       "map": "MAP_HDL_D03",
       "vanilla_item": 50331691,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 8
     },
@@ -1665,6 +1767,7 @@
       "map": "MAP_HDL_D04",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 8
     },
@@ -1677,6 +1780,7 @@
       "map": "MAP_HDL_D05",
       "vanilla_item": 1,
       "vanilla_count": 530,
+      "map_first_event": null,
       "rank": 1,
       "level": 8
     },
@@ -1689,6 +1793,7 @@
       "map": "MAP_DVA_D00",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 37
     },
@@ -1701,6 +1806,7 @@
       "map": "MAP_DVA_D01",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 37
     },
@@ -1713,6 +1819,7 @@
       "map": "MAP_DVA_D02",
       "vanilla_item": 16777229,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 37
     },
@@ -1725,6 +1832,7 @@
       "map": "MAP_DVA_D02",
       "vanilla_item": 33554437,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 37
     },
@@ -1737,6 +1845,7 @@
       "map": "MAP_DVA_D03",
       "vanilla_item": 100663308,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 37
     },
@@ -1749,6 +1858,7 @@
       "map": "MAP_DVA_D04",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 37
     },
@@ -1761,6 +1871,7 @@
       "map": "MAP_DVA_D04",
       "vanilla_item": 1,
       "vanilla_count": 3700,
+      "map_first_event": null,
       "rank": 1,
       "level": 37
     },
@@ -1773,6 +1884,7 @@
       "map": "MAP_ZMR_D00",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1785,6 +1897,7 @@
       "map": "MAP_ZMR_D00",
       "vanilla_item": 1,
       "vanilla_count": 10200,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1797,6 +1910,7 @@
       "map": "MAP_ZMR_D01",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1809,6 +1923,7 @@
       "map": "MAP_ZMR_D02",
       "vanilla_item": 16777226,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1821,6 +1936,7 @@
       "map": "MAP_ZMR_D02",
       "vanilla_item": 16777219,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1833,6 +1949,7 @@
       "map": "MAP_ZMR_D03",
       "vanilla_item": 1,
       "vanilla_count": 13200,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1845,6 +1962,7 @@
       "map": "MAP_ZMR_D03",
       "vanilla_item": 33554440,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1857,6 +1975,7 @@
       "map": "MAP_ZMR_D04",
       "vanilla_item": 16777219,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1869,6 +1988,7 @@
       "map": "MAP_ZMR_D04",
       "vanilla_item": 1,
       "vanilla_count": 11700,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1881,6 +2001,7 @@
       "map": "MAP_ZMR_D05",
       "vanilla_item": 16777221,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1893,6 +2014,7 @@
       "map": "MAP_ZMR_D05",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 57
     },
@@ -1905,6 +2027,7 @@
       "map": "MAP_ZMR_D05",
       "vanilla_item": 50331686,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 61
     },
@@ -1917,6 +2040,7 @@
       "map": "MAP_UDG_D01",
       "vanilla_item": 16777217,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 16
     },
@@ -1929,6 +2053,7 @@
       "map": "MAP_UDG_D03",
       "vanilla_item": 100663302,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 16
     },
@@ -1941,6 +2066,7 @@
       "map": "MAP_UDG_D03",
       "vanilla_item": 33554434,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 16
     },
@@ -1953,6 +2079,7 @@
       "map": "MAP_UDG_D06",
       "vanilla_item": 1,
       "vanilla_count": 880,
+      "map_first_event": null,
       "rank": 1,
       "level": 16
     },
@@ -1965,6 +2092,7 @@
       "map": "MAP_UDG_D11",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 16
     },
@@ -1977,6 +2105,7 @@
       "map": "MAP_IBL_D00",
       "vanilla_item": 83886085,
       "vanilla_count": 1,
+      "map_first_event": "MEP_080_120_100",
       "rank": 3,
       "level": 20
     },
@@ -1989,6 +2118,7 @@
       "map": "MAP_IBL_D02",
       "vanilla_item": 1,
       "vanilla_count": 1050,
+      "map_first_event": null,
       "rank": 1,
       "level": 18
     },
@@ -2001,6 +2131,7 @@
       "map": "MAP_IBL_D04",
       "vanilla_item": 67108949,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 20
     },
@@ -2013,6 +2144,7 @@
       "map": "MAP_IBL_D05",
       "vanilla_item": 83886085,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 20
     },
@@ -2025,6 +2157,7 @@
       "map": "MAP_IBL_D10",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 18
     },
@@ -2037,6 +2170,7 @@
       "map": "MAP_IBL_D20",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": "MEP_080_050_012",
       "rank": 1,
       "level": 18
     },
@@ -2049,6 +2183,7 @@
       "map": "MAP_IBL_D20",
       "vanilla_item": 50331733,
       "vanilla_count": 1,
+      "map_first_event": "MEP_080_050_012",
       "rank": 3,
       "level": 20
     },
@@ -2061,6 +2196,7 @@
       "map": "MAP_IBL_D20",
       "vanilla_item": 1,
       "vanilla_count": 1100,
+      "map_first_event": "MEP_080_050_012",
       "rank": 1,
       "level": 18
     },
@@ -2073,6 +2209,7 @@
       "map": "MAP_MRG_D00",
       "vanilla_item": 117440538,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 43
     },
@@ -2085,6 +2222,7 @@
       "map": "MAP_MRG_D01",
       "vanilla_item": 67108897,
       "vanilla_count": 1,
+      "map_first_event": "MEP_140_160_012",
       "rank": 2,
       "level": 41
     },
@@ -2097,6 +2235,7 @@
       "map": "MAP_MRG_D01",
       "vanilla_item": 50331660,
       "vanilla_count": 1,
+      "map_first_event": "MEP_140_160_012",
       "rank": 2,
       "level": 41
     },
@@ -2109,6 +2248,7 @@
       "map": "MAP_MRG_D02",
       "vanilla_item": 16777224,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 41
     },
@@ -2121,6 +2261,7 @@
       "map": "MAP_MRG_D02",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 41
     },
@@ -2133,6 +2274,7 @@
       "map": "MAP_MRG_D04",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 41
     },
@@ -2145,6 +2287,7 @@
       "map": "MAP_MRG_D05",
       "vanilla_item": 50331744,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 41
     },
@@ -2157,6 +2300,7 @@
       "map": "MAP_MRG_D06",
       "vanilla_item": 16777219,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 41
     },
@@ -2169,6 +2313,7 @@
       "map": "MAP_HRV_P00",
       "vanilla_item": 100663299,
       "vanilla_count": 1,
+      "map_first_event": "MEP_040_500_100",
       "rank": 2,
       "level": 8
     },
@@ -2181,6 +2326,7 @@
       "map": "MAP_HRV_T00",
       "vanilla_item": 50331649,
       "vanilla_count": 1,
+      "map_first_event": "MEP_040_140_012",
       "rank": 3,
       "level": 8
     },
@@ -2193,6 +2339,7 @@
       "map": "MAP_BRN_F02",
       "vanilla_item": 16777218,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 25
     },
@@ -2205,6 +2352,7 @@
       "map": "MAP_RBN_D01",
       "vanilla_item": 50331671,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 10
     },
@@ -2217,6 +2365,7 @@
       "map": "MAP_RBN_D04",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 10
     },
@@ -2229,6 +2378,7 @@
       "map": "MAP_RBN_D04",
       "vanilla_item": 1,
       "vanilla_count": 640,
+      "map_first_event": null,
       "rank": 1,
       "level": 10
     },
@@ -2241,6 +2391,7 @@
       "map": "MAP_RBN_D06",
       "vanilla_item": 67108888,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 10
     },
@@ -2253,6 +2404,7 @@
       "map": "MAP_VTG_D01",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 11
     },
@@ -2265,6 +2417,7 @@
       "map": "MAP_VTG_D03",
       "vanilla_item": 1,
       "vanilla_count": 720,
+      "map_first_event": "MEP_050_330_010",
       "rank": 1,
       "level": 11
     },
@@ -2277,6 +2430,7 @@
       "map": "MAP_VTG_D04",
       "vanilla_item": 1,
       "vanilla_count": 680,
+      "map_first_event": "MEP_050_260_012",
       "rank": 1,
       "level": 11
     },
@@ -2289,6 +2443,7 @@
       "map": "MAP_VTG_D05",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 11
     },
@@ -2301,6 +2456,7 @@
       "map": "MAP_VTG_D50",
       "vanilla_item": 100663300,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 11
     },
@@ -2313,6 +2469,7 @@
       "map": "MAP_VTG_D51",
       "vanilla_item": 50331672,
       "vanilla_count": 1,
+      "map_first_event": "MEP_050_300_100",
       "rank": 3,
       "level": 11
     },
@@ -2325,6 +2482,7 @@
       "map": "MAP_SXN_I00",
       "vanilla_item": 33554433,
       "vanilla_count": 1,
+      "map_first_event": "MEP_060_220_010",
       "rank": 1,
       "level": 13
     },
@@ -2337,6 +2495,7 @@
       "map": "MAP_SXN_P00",
       "vanilla_item": 1,
       "vanilla_count": 760,
+      "map_first_event": "MEP_050_510_800_Script",
       "rank": 1,
       "level": 13
     },
@@ -2349,6 +2508,7 @@
       "map": "MAP_SXN_P00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_050_510_800_Script",
       "rank": 1,
       "level": 13
     },
@@ -2361,6 +2521,7 @@
       "map": "MAP_SXN_P00",
       "vanilla_item": 1,
       "vanilla_count": 720,
+      "map_first_event": "MEP_050_510_800_Script",
       "rank": 1,
       "level": 13
     },
@@ -2373,6 +2534,7 @@
       "map": "MAP_SXN_P00",
       "vanilla_item": 50331652,
       "vanilla_count": 1,
+      "map_first_event": "MEP_050_510_800_Script",
       "rank": 2,
       "level": 13
     },
@@ -2385,6 +2547,7 @@
       "map": "MAP_RBN_D11",
       "vanilla_item": 50331675,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 26
     },
@@ -2397,6 +2560,7 @@
       "map": "MAP_RBN_D12",
       "vanilla_item": 1,
       "vanilla_count": 1750,
+      "map_first_event": null,
       "rank": 1,
       "level": 26
     },
@@ -2409,6 +2573,7 @@
       "map": "MAP_RBN_D12",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 26
     },
@@ -2421,6 +2586,7 @@
       "map": "MAP_RBN_D20",
       "vanilla_item": 1,
       "vanilla_count": 1800,
+      "map_first_event": null,
       "rank": 1,
       "level": 26
     },
@@ -2433,6 +2599,7 @@
       "map": "MAP_RBN_D20",
       "vanilla_item": 67108913,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 26
     },
@@ -2445,6 +2612,7 @@
       "map": "MAP_GRS_D01",
       "vanilla_item": 100663301,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 14
     },
@@ -2457,6 +2625,7 @@
       "map": "MAP_GRS_D01",
       "vanilla_item": 16777228,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 14
     },
@@ -2469,6 +2638,7 @@
       "map": "MAP_GRS_D02",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 14
     },
@@ -2481,6 +2651,7 @@
       "map": "MAP_GRS_D02",
       "vanilla_item": 117440515,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 14
     },
@@ -2493,6 +2664,7 @@
       "map": "MAP_GRS_D03",
       "vanilla_item": 1,
       "vanilla_count": 880,
+      "map_first_event": "MEP_060_330_010",
       "rank": 1,
       "level": 14
     },
@@ -2505,6 +2677,7 @@
       "map": "MAP_GRS_D03",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_060_330_010",
       "rank": 1,
       "level": 14
     },
@@ -2517,6 +2690,7 @@
       "map": "MAP_GRS_D04",
       "vanilla_item": 67108973,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 14
     },
@@ -2529,6 +2703,7 @@
       "map": "MAP_GRS_D06",
       "vanilla_item": 33554446,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 14
     },
@@ -2541,6 +2716,7 @@
       "map": "MAP_GBL_F01",
       "vanilla_item": 100663298,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 52
     },
@@ -2553,6 +2729,7 @@
       "map": "MAP_UDG_D04",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 16
     },
@@ -2565,6 +2742,7 @@
       "map": "MAP_RGP_D01",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 16
     },
@@ -2577,6 +2755,7 @@
       "map": "MAP_RGP_D03",
       "vanilla_item": 100663302,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 16
     },
@@ -2589,6 +2768,7 @@
       "map": "MAP_SNG_D00",
       "vanilla_item": 100663303,
       "vanilla_count": 1,
+      "map_first_event": "MEP_070_210_010",
       "rank": 2,
       "level": 18
     },
@@ -2601,6 +2781,7 @@
       "map": "MAP_SNG_D00",
       "vanilla_item": 100663303,
       "vanilla_count": 1,
+      "map_first_event": "MEP_070_210_010",
       "rank": 2,
       "level": 18
     },
@@ -2613,6 +2794,7 @@
       "map": "MAP_SNG_D00",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": "MEP_070_210_010",
       "rank": 1,
       "level": 18
     },
@@ -2625,6 +2807,7 @@
       "map": "MAP_SNG_D01",
       "vanilla_item": 50331653,
       "vanilla_count": 1,
+      "map_first_event": "MEP_070_230_010",
       "rank": 3,
       "level": 18
     },
@@ -2637,6 +2820,7 @@
       "map": "MAP_CMK_D04",
       "vanilla_item": 16777223,
       "vanilla_count": 3,
+      "map_first_event": "MEP_170_010_010",
       "rank": 1,
       "level": 47
     },
@@ -2649,6 +2833,7 @@
       "map": "MAP_CMK_D04",
       "vanilla_item": 16777218,
       "vanilla_count": 5,
+      "map_first_event": "MEP_170_010_010",
       "rank": 1,
       "level": 47
     },
@@ -2661,6 +2846,7 @@
       "map": "MAP_CMK_D05",
       "vanilla_item": 16777219,
       "vanilla_count": 3,
+      "map_first_event": "MEP_170_070_010",
       "rank": 1,
       "level": 47
     },
@@ -2673,6 +2859,7 @@
       "map": "MAP_CMK_D05",
       "vanilla_item": 16777223,
       "vanilla_count": 3,
+      "map_first_event": "MEP_170_070_010",
       "rank": 1,
       "level": 47
     },
@@ -2685,6 +2872,7 @@
       "map": "MAP_CMK_D05",
       "vanilla_item": 100663312,
       "vanilla_count": 1,
+      "map_first_event": "MEP_170_070_010",
       "rank": 2,
       "level": 47
     },
@@ -2697,6 +2885,7 @@
       "map": "MAP_CMK_D06",
       "vanilla_item": 16777218,
       "vanilla_count": 5,
+      "map_first_event": "MEP_170_110_010",
       "rank": 1,
       "level": 47
     },
@@ -2709,6 +2898,7 @@
       "map": "MAP_CMK_D06",
       "vanilla_item": 16777223,
       "vanilla_count": 3,
+      "map_first_event": "MEP_170_110_010",
       "rank": 1,
       "level": 47
     },
@@ -2721,6 +2911,7 @@
       "map": "MAP_CMK_D07",
       "vanilla_item": 16777218,
       "vanilla_count": 5,
+      "map_first_event": "MEP_170_150_013",
       "rank": 1,
       "level": 47
     },
@@ -2733,6 +2924,7 @@
       "map": "MAP_CMK_D07",
       "vanilla_item": 16777222,
       "vanilla_count": 5,
+      "map_first_event": "MEP_170_150_013",
       "rank": 1,
       "level": 47
     },
@@ -2745,6 +2937,7 @@
       "map": "MAP_CMK_D08",
       "vanilla_item": 16777244,
       "vanilla_count": 3,
+      "map_first_event": "MEP_170_180_010",
       "rank": 1,
       "level": 47
     },
@@ -2757,6 +2950,7 @@
       "map": "MAP_IBL_D00",
       "vanilla_item": 33554434,
       "vanilla_count": 1,
+      "map_first_event": "MEP_080_120_100",
       "rank": 1,
       "level": 18
     },
@@ -2769,6 +2963,7 @@
       "map": "MAP_VST_D01",
       "vanilla_item": 100663304,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 21
     },
@@ -2781,6 +2976,7 @@
       "map": "MAP_VST_D03",
       "vanilla_item": 1,
       "vanilla_count": 1200,
+      "map_first_event": null,
       "rank": 1,
       "level": 21
     },
@@ -2793,6 +2989,7 @@
       "map": "MAP_VST_D06",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 21
     },
@@ -2805,6 +3002,7 @@
       "map": "MAP_VST_D08",
       "vanilla_item": 67108951,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 22
     },
@@ -2817,6 +3015,7 @@
       "map": "MAP_VST_D09",
       "vanilla_item": 50331712,
       "vanilla_count": 1,
+      "map_first_event": "MEP_090_190_012",
       "rank": 3,
       "level": 22
     },
@@ -2829,6 +3028,7 @@
       "map": "MAP_VST_D13",
       "vanilla_item": 33554434,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 21
     },
@@ -2841,6 +3041,7 @@
       "map": "MAP_CDN_I00",
       "vanilla_item": 1,
       "vanilla_count": 1450,
+      "map_first_event": null,
       "rank": 1,
       "level": 22
     },
@@ -2853,6 +3054,7 @@
       "map": "MAP_CDN_P00",
       "vanilla_item": 67108932,
       "vanilla_count": 1,
+      "map_first_event": "MEP_090_320_100",
       "rank": 3,
       "level": 22
     },
@@ -2865,6 +3067,7 @@
       "map": "MAP_CDN_P00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_090_320_100",
       "rank": 1,
       "level": 22
     },
@@ -2877,6 +3080,7 @@
       "map": "MAP_IZR_P00",
       "vanilla_item": 33554436,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_020_800_Script",
       "rank": 1,
       "level": 28
     },
@@ -2889,6 +3093,7 @@
       "map": "MAP_IZR_T00",
       "vanilla_item": 33554447,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_060_012",
       "rank": 1,
       "level": 28
     },
@@ -2901,6 +3106,7 @@
       "map": "MAP_IZR_T00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_060_012",
       "rank": 1,
       "level": 28
     },
@@ -2913,6 +3119,7 @@
       "map": "MAP_IZR_T01",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 28
     },
@@ -2925,6 +3132,7 @@
       "map": "MAP_IZR_T01",
       "vanilla_item": 100663306,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 28
     },
@@ -2937,6 +3145,7 @@
       "map": "MAP_IZR_T01",
       "vanilla_item": 50331676,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 29
     },
@@ -2949,6 +3158,7 @@
       "map": "MAP_MCL_F01",
       "vanilla_item": 16777218,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_130_012",
       "rank": 1,
       "level": 28
     },
@@ -2961,6 +3171,7 @@
       "map": "MAP_MCL_F01",
       "vanilla_item": 83886108,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_130_012",
       "rank": 3,
       "level": 29
     },
@@ -2973,6 +3184,7 @@
       "map": "MAP_MNA_D00",
       "vanilla_item": 16777218,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_260_012",
       "rank": 1,
       "level": 29
     },
@@ -2985,6 +3197,7 @@
       "map": "MAP_MNA_D01",
       "vanilla_item": 33554436,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 29
     },
@@ -2997,6 +3210,7 @@
       "map": "MAP_MNA_D01",
       "vanilla_item": 67108978,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 29
     },
@@ -3009,6 +3223,7 @@
       "map": "MAP_MNA_D03",
       "vanilla_item": 83886109,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 29
     },
@@ -3021,6 +3236,7 @@
       "map": "MAP_MNA_D04",
       "vanilla_item": 1,
       "vanilla_count": 2250,
+      "map_first_event": null,
       "rank": 1,
       "level": 29
     },
@@ -3033,6 +3249,7 @@
       "map": "MAP_MNA_D04",
       "vanilla_item": 67108957,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 29
     },
@@ -3045,6 +3262,7 @@
       "map": "MAP_MNA_D05",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 29
     },
@@ -3057,6 +3275,7 @@
       "map": "MAP_MNA_D05",
       "vanilla_item": 83886088,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 29
     },
@@ -3069,6 +3288,7 @@
       "map": "MAP_PRM_D00",
       "vanilla_item": 1,
       "vanilla_count": 2500,
+      "map_first_event": null,
       "rank": 1,
       "level": 30
     },
@@ -3081,6 +3301,7 @@
       "map": "MAP_PRM_D02",
       "vanilla_item": 16777229,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 30
     },
@@ -3093,6 +3314,7 @@
       "map": "MAP_PRM_D03",
       "vanilla_item": 1,
       "vanilla_count": 2400,
+      "map_first_event": "MEP_110_320_100",
       "rank": 1,
       "level": 30
     },
@@ -3105,6 +3327,7 @@
       "map": "MAP_PRM_D03",
       "vanilla_item": 83886088,
       "vanilla_count": 1,
+      "map_first_event": "MEP_110_320_100",
       "rank": 2,
       "level": 30
     },
@@ -3117,6 +3340,7 @@
       "map": "MAP_PRM_D04",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 30
     },
@@ -3129,6 +3353,7 @@
       "map": "MAP_PRM_D05",
       "vanilla_item": 50331741,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 30
     },
@@ -3141,6 +3366,7 @@
       "map": "MAP_ALD_F01",
       "vanilla_item": 50331763,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 36
     },
@@ -3153,6 +3379,7 @@
       "map": "MAP_DVA_D03",
       "vanilla_item": 1,
       "vanilla_count": 3600,
+      "map_first_event": null,
       "rank": 1,
       "level": 37
     },
@@ -3165,6 +3392,7 @@
       "map": "MAP_DVA_D04",
       "vanilla_item": 67108917,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 38
     },
@@ -3177,6 +3405,7 @@
       "map": "MAP_FDS_D01",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 38
     },
@@ -3189,6 +3418,7 @@
       "map": "MAP_FDS_D03",
       "vanilla_item": 117440538,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 38
     },
@@ -3201,6 +3431,7 @@
       "map": "MAP_FDS_D04",
       "vanilla_item": 16777228,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 38
     },
@@ -3213,6 +3444,7 @@
       "map": "MAP_FDS_D04",
       "vanilla_item": 16777224,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 38
     },
@@ -3225,6 +3457,7 @@
       "map": "MAP_FDS_D05",
       "vanilla_item": 1,
       "vanilla_count": 3800,
+      "map_first_event": null,
       "rank": 1,
       "level": 38
     },
@@ -3237,6 +3470,7 @@
       "map": "MAP_FDS_D05",
       "vanilla_item": 67108896,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 38
     },
@@ -3249,6 +3483,7 @@
       "map": "MAP_FDS_D06",
       "vanilla_item": 33554448,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 38
     },
@@ -3261,6 +3496,7 @@
       "map": "MAP_FDS_D06",
       "vanilla_item": 117440538,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 38
     },
@@ -3273,6 +3509,7 @@
       "map": "MAP_FDS_D07",
       "vanilla_item": 100663308,
       "vanilla_count": 1,
+      "map_first_event": "MEP_130_652_010_Script",
       "rank": 2,
       "level": 37
     },
@@ -3285,6 +3522,7 @@
       "map": "MAP_FDS_D07",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_130_652_010_Script",
       "rank": 1,
       "level": 38
     },
@@ -3297,6 +3535,7 @@
       "map": "MAP_TRE_T00",
       "vanilla_item": 33554448,
       "vanilla_count": 1,
+      "map_first_event": "MEP_140_060_010",
       "rank": 1,
       "level": 40
     },
@@ -3309,6 +3548,7 @@
       "map": "MAP_TRE_T00",
       "vanilla_item": 1,
       "vanilla_count": 4350,
+      "map_first_event": "MEP_140_060_010",
       "rank": 1,
       "level": 40
     },
@@ -3321,6 +3561,7 @@
       "map": "MAP_TRE_T00",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": "MEP_140_060_010",
       "rank": 1,
       "level": 40
     },
@@ -3333,6 +3574,7 @@
       "map": "MAP_TRE_T00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_140_060_010",
       "rank": 1,
       "level": 40
     },
@@ -3345,6 +3587,7 @@
       "map": "MAP_MRG_D07",
       "vanilla_item": 100663309,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 41
     },
@@ -3357,6 +3600,7 @@
       "map": "MAP_BEL_D00",
       "vanilla_item": 16777222,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 44
     },
@@ -3369,6 +3613,7 @@
       "map": "MAP_BEL_D01",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 44
     },
@@ -3381,6 +3626,7 @@
       "map": "MAP_BEL_D01",
       "vanilla_item": 1,
       "vanilla_count": 5600,
+      "map_first_event": null,
       "rank": 1,
       "level": 44
     },
@@ -3393,6 +3639,7 @@
       "map": "MAP_BEL_D02",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_160_010_010",
       "rank": 1,
       "level": 44
     },
@@ -3405,6 +3652,7 @@
       "map": "MAP_BEL_D03",
       "vanilla_item": 16777219,
       "vanilla_count": 1,
+      "map_first_event": "MEP_150_120_012",
       "rank": 1,
       "level": 44
     },
@@ -3417,6 +3665,7 @@
       "map": "MAP_BEL_D03",
       "vanilla_item": 1,
       "vanilla_count": 6000,
+      "map_first_event": "MEP_150_120_012",
       "rank": 1,
       "level": 44
     },
@@ -3429,6 +3678,7 @@
       "map": "MAP_BEL_D04",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 44
     },
@@ -3441,6 +3691,7 @@
       "map": "MAP_BEL_D04",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 44
     },
@@ -3453,6 +3704,7 @@
       "map": "MAP_BEL_D04",
       "vanilla_item": 100663311,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 44
     },
@@ -3465,6 +3717,7 @@
       "map": "MAP_BEL_D05",
       "vanilla_item": 16777225,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 44
     },
@@ -3477,6 +3730,7 @@
       "map": "MAP_BEL_D05",
       "vanilla_item": 117440519,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 44
     },
@@ -3489,6 +3743,7 @@
       "map": "MAP_BEL_D06",
       "vanilla_item": 117440529,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 47
     },
@@ -3501,6 +3756,7 @@
       "map": "MAP_BEL_D06",
       "vanilla_item": 50331682,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 47
     },
@@ -3513,6 +3769,7 @@
       "map": "MAP_BEL_D07",
       "vanilla_item": 83886093,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 47
     },
@@ -3525,6 +3782,7 @@
       "map": "MAP_BEL_D07",
       "vanilla_item": 50331724,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 47
     },
@@ -3537,6 +3795,7 @@
       "map": "MAP_CLC_D00",
       "vanilla_item": 16777221,
       "vanilla_count": 1,
+      "map_first_event": "MEP_160_240_015",
       "rank": 1,
       "level": 48
     },
@@ -3549,6 +3808,7 @@
       "map": "MAP_CLC_D00",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": "MEP_160_240_015",
       "rank": 1,
       "level": 48
     },
@@ -3561,6 +3821,7 @@
       "map": "MAP_CLC_D01",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 48
     },
@@ -3573,6 +3834,7 @@
       "map": "MAP_KRR_D01",
       "vanilla_item": 50331748,
       "vanilla_count": 1,
+      "map_first_event": "MEP_200_120_012",
       "rank": 2,
       "level": 53
     },
@@ -3585,6 +3847,7 @@
       "map": "MAP_KRR_D01",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": "MEP_200_120_012",
       "rank": 1,
       "level": 53
     },
@@ -3597,6 +3860,7 @@
       "map": "MAP_KRR_D02",
       "vanilla_item": 67108964,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 53
     },
@@ -3609,6 +3873,7 @@
       "map": "MAP_KRR_D02",
       "vanilla_item": 33554452,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 53
     },
@@ -3621,6 +3886,7 @@
       "map": "MAP_KRC_D00",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 53
     },
@@ -3633,6 +3899,7 @@
       "map": "MAP_KRC_D01",
       "vanilla_item": 16777219,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 53
     },
@@ -3645,6 +3912,7 @@
       "map": "MAP_KRC_D01",
       "vanilla_item": 16777226,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 53
     },
@@ -3657,6 +3925,7 @@
       "map": "MAP_KRC_D01",
       "vanilla_item": 100663313,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 53
     },
@@ -3669,6 +3938,7 @@
       "map": "MAP_KRC_D03",
       "vanilla_item": 1,
       "vanilla_count": 11500,
+      "map_first_event": null,
       "rank": 1,
       "level": 53
     },
@@ -3681,6 +3951,7 @@
       "map": "MAP_KRC_D03",
       "vanilla_item": 16777226,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 53
     },
@@ -3693,6 +3964,7 @@
       "map": "MAP_KRC_D04",
       "vanilla_item": 67108922,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 53
     },
@@ -3705,6 +3977,7 @@
       "map": "MAP_KRC_D05",
       "vanilla_item": 16777221,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 53
     },
@@ -3717,6 +3990,7 @@
       "map": "MAP_KRC_D05",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 53
     },
@@ -3729,6 +4003,7 @@
       "map": "MAP_KNN_D03",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -3741,6 +4016,7 @@
       "map": "MAP_KNN_D02",
       "vanilla_item": 16777226,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -3753,6 +4029,7 @@
       "map": "MAP_KNN_D02",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -3765,6 +4042,7 @@
       "map": "MAP_KNN_D10",
       "vanilla_item": 16777220,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -3777,6 +4055,7 @@
       "map": "MAP_KNN_D05",
       "vanilla_item": 67108881,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 61
     },
@@ -3789,6 +4068,7 @@
       "map": "MAP_KNN_D08",
       "vanilla_item": 16777220,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -3801,6 +4081,7 @@
       "map": "MAP_KNN_D08",
       "vanilla_item": 50331665,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 61
     },
@@ -3813,6 +4094,7 @@
       "map": "MAP_KNN_D11",
       "vanilla_item": 16777244,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -3825,6 +4107,7 @@
       "map": "MAP_KNN_D11",
       "vanilla_item": 50331664,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 59
     },
@@ -3837,6 +4120,7 @@
       "map": "MAP_KNN_D12",
       "vanilla_item": 16777221,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -3849,6 +4133,7 @@
       "map": "MAP_KNN_D05",
       "vanilla_item": 50331707,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 61
     },
@@ -3861,6 +4146,7 @@
       "map": "MAP_KNN_D12",
       "vanilla_item": 16777220,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -3873,6 +4159,7 @@
       "map": "MAP_KNN_D12",
       "vanilla_item": 16777220,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -3885,6 +4172,7 @@
       "map": "MAP_TTN_D02",
       "vanilla_item": 100663298,
       "vanilla_count": 1,
+      "map_first_event": "MEP_030_190_100",
       "rank": 2,
       "level": 33
     },
@@ -3897,6 +4185,7 @@
       "map": "MAP_TTN_D03",
       "vanilla_item": 1,
       "vanilla_count": 320,
+      "map_first_event": "MEP_030_250_010",
       "rank": 1,
       "level": 33
     },
@@ -3909,6 +4198,7 @@
       "map": "MAP_TTN_D06",
       "vanilla_item": 100663307,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 2,
       "level": 33
     },
@@ -3921,6 +4211,7 @@
       "map": "MAP_TTN_D07",
       "vanilla_item": 16777227,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 33
     },
@@ -3933,6 +4224,7 @@
       "map": "MAP_TTN_D11",
       "vanilla_item": 117440513,
       "vanilla_count": 1,
+      "map_first_event": "MEP_030_140_012",
       "rank": 2,
       "level": 33
     },
@@ -3945,6 +4237,7 @@
       "map": "MAP_TTN_D12",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 33
     },
@@ -3957,6 +4250,7 @@
       "map": "MAP_TTN_D21",
       "vanilla_item": 50331699,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 33
     },
@@ -3969,6 +4263,7 @@
       "map": "MAP_HRV_I02",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 8
     },
@@ -3981,6 +4276,7 @@
       "map": "MAP_HRV_I02",
       "vanilla_item": 1,
       "vanilla_count": 480,
+      "map_first_event": null,
       "rank": 1,
       "level": 8
     },
@@ -3993,6 +4289,7 @@
       "map": "MAP_TOW_T00",
       "vanilla_item": 1,
       "vanilla_count": 1820,
+      "map_first_event": "MEP_100_300_100",
       "rank": 1,
       "level": 27
     },
@@ -4005,6 +4302,7 @@
       "map": "MAP_TOW_T00",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": "MEP_100_300_100",
       "rank": 1,
       "level": 27
     },
@@ -4017,6 +4315,7 @@
       "map": "MAP_TOW_T00",
       "vanilla_item": 50331716,
       "vanilla_count": 1,
+      "map_first_event": "MEP_100_300_100",
       "rank": 3,
       "level": 29
     },
@@ -4029,6 +4328,7 @@
       "map": "MAP_TOW_T00",
       "vanilla_item": 67108934,
       "vanilla_count": 1,
+      "map_first_event": "MEP_100_300_100",
       "rank": 3,
       "level": 29
     },
@@ -4041,6 +4341,7 @@
       "map": "MAP_EX2_D08",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4053,6 +4354,7 @@
       "map": "MAP_EX2_D08",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4065,6 +4367,7 @@
       "map": "MAP_EX2_D08",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4077,6 +4380,7 @@
       "map": "MAP_EX2_D08",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4089,6 +4393,7 @@
       "map": "MAP_EX2_D08",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4101,6 +4406,7 @@
       "map": "MAP_EX2_D08",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4113,6 +4419,7 @@
       "map": "MAP_EX2_D08",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4125,6 +4432,7 @@
       "map": "MAP_EX2_D08",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4137,6 +4445,7 @@
       "map": "MAP_EX2_D08",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4149,6 +4458,7 @@
       "map": "MAP_EX2_D21",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4161,6 +4471,7 @@
       "map": "MAP_EX2_D21",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4173,6 +4484,7 @@
       "map": "MAP_EX2_D21",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4185,6 +4497,7 @@
       "map": "MAP_EX2_D21",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4197,6 +4510,7 @@
       "map": "MAP_EX2_D21",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4209,6 +4523,7 @@
       "map": "MAP_EX2_D21",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4221,6 +4536,7 @@
       "map": "MAP_EX2_D21",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4233,6 +4549,7 @@
       "map": "MAP_EX2_D21",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4245,6 +4562,7 @@
       "map": "MAP_EX2_D21",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4257,6 +4575,7 @@
       "map": "MAP_EX2_D35",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4269,6 +4588,7 @@
       "map": "MAP_EX2_D35",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4281,6 +4601,7 @@
       "map": "MAP_EX2_D35",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4293,6 +4614,7 @@
       "map": "MAP_EX2_D35",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4305,6 +4627,7 @@
       "map": "MAP_EX2_D35",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4317,6 +4640,7 @@
       "map": "MAP_EX2_D35",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4329,6 +4653,7 @@
       "map": "MAP_EX2_D35",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4341,6 +4666,7 @@
       "map": "MAP_EX2_D35",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4353,6 +4679,7 @@
       "map": "MAP_EX2_D35",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4365,6 +4692,7 @@
       "map": "MAP_EX2_D50",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4377,6 +4705,7 @@
       "map": "MAP_EX2_D50",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4389,6 +4718,7 @@
       "map": "MAP_EX2_D50",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4401,6 +4731,7 @@
       "map": "MAP_EX2_D50",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4413,6 +4744,7 @@
       "map": "MAP_EX2_D50",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4425,6 +4757,7 @@
       "map": "MAP_EX2_D50",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4437,6 +4770,7 @@
       "map": "MAP_EX2_D50",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4449,6 +4783,7 @@
       "map": "MAP_EX2_D50",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4461,6 +4796,7 @@
       "map": "MAP_EX2_D50",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4473,6 +4809,7 @@
       "map": "MAP_EX2_D64",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4485,6 +4822,7 @@
       "map": "MAP_EX2_D64",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4497,6 +4835,7 @@
       "map": "MAP_EX2_D64",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4509,6 +4848,7 @@
       "map": "MAP_EX2_D64",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4521,6 +4861,7 @@
       "map": "MAP_EX2_D64",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4533,6 +4874,7 @@
       "map": "MAP_EX2_D64",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4545,6 +4887,7 @@
       "map": "MAP_EX2_D64",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4557,6 +4900,7 @@
       "map": "MAP_EX2_D64",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4569,6 +4913,7 @@
       "map": "MAP_EX2_D64",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4581,6 +4926,7 @@
       "map": "MAP_EX2_D78",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4593,6 +4939,7 @@
       "map": "MAP_EX2_D78",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4605,6 +4952,7 @@
       "map": "MAP_EX2_D78",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4617,6 +4965,7 @@
       "map": "MAP_EX2_D78",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4629,6 +4978,7 @@
       "map": "MAP_EX2_D78",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4641,6 +4991,7 @@
       "map": "MAP_EX2_D78",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4653,6 +5004,7 @@
       "map": "MAP_EX2_D78",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4665,6 +5017,7 @@
       "map": "MAP_EX2_D78",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4677,6 +5030,7 @@
       "map": "MAP_EX2_D78",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4689,6 +5043,7 @@
       "map": "MAP_EX2_D00",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4701,6 +5056,7 @@
       "map": "MAP_EX2_D00",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4713,6 +5069,7 @@
       "map": "MAP_EX2_D00",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4725,6 +5082,7 @@
       "map": "MAP_EX2_D00",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4737,6 +5095,7 @@
       "map": "MAP_EX2_D02",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4749,6 +5108,7 @@
       "map": "MAP_EX2_D02",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4761,6 +5121,7 @@
       "map": "MAP_EX2_D02",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4773,6 +5134,7 @@
       "map": "MAP_EX2_D03",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4785,6 +5147,7 @@
       "map": "MAP_EX2_D03",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4797,6 +5160,7 @@
       "map": "MAP_EX2_D04",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4809,6 +5173,7 @@
       "map": "MAP_EX2_D04",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4821,6 +5186,7 @@
       "map": "MAP_EX2_D04",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4833,6 +5199,7 @@
       "map": "MAP_EX2_D13",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4845,6 +5212,7 @@
       "map": "MAP_EX2_D15",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4857,6 +5225,7 @@
       "map": "MAP_EX2_D17",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4869,6 +5238,7 @@
       "map": "MAP_EX2_D17",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4881,6 +5251,7 @@
       "map": "MAP_EX2_D26",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4893,6 +5264,7 @@
       "map": "MAP_EX2_D27",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4905,6 +5277,7 @@
       "map": "MAP_EX2_D30",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4917,6 +5290,7 @@
       "map": "MAP_EX2_D30",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4929,6 +5303,7 @@
       "map": "MAP_EX2_D32",
       "vanilla_item": 2,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4941,6 +5316,7 @@
       "map": "MAP_EX2_D32",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4953,6 +5329,7 @@
       "map": "MAP_EX2_D42",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4965,6 +5342,7 @@
       "map": "MAP_EX2_D42",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4977,6 +5355,7 @@
       "map": "MAP_EX2_D44",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -4989,6 +5368,7 @@
       "map": "MAP_EX2_D44",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5001,6 +5381,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5013,6 +5394,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5025,6 +5407,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5037,6 +5420,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5049,6 +5433,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5061,6 +5446,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5073,6 +5459,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5085,6 +5472,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5097,6 +5485,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 2,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5109,6 +5498,7 @@
       "map": "MAP_EX2_D46",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5121,6 +5511,7 @@
       "map": "MAP_EX2_D55",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5133,6 +5524,7 @@
       "map": "MAP_EX2_D56",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5145,6 +5537,7 @@
       "map": "MAP_EX2_D59",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5157,6 +5550,7 @@
       "map": "MAP_EX2_D59",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5169,6 +5563,7 @@
       "map": "MAP_EX2_D61",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5181,6 +5576,7 @@
       "map": "MAP_EX2_D61",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5193,6 +5589,7 @@
       "map": "MAP_EX2_D61",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5205,6 +5602,7 @@
       "map": "MAP_EX2_D61",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5217,6 +5615,7 @@
       "map": "MAP_EX2_D61",
       "vanilla_item": 2,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5229,6 +5628,7 @@
       "map": "MAP_EX2_D71",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5241,6 +5641,7 @@
       "map": "MAP_EX2_D71",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5253,6 +5654,7 @@
       "map": "MAP_EX2_D72",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5265,6 +5667,7 @@
       "map": "MAP_EX2_D73",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5277,6 +5680,7 @@
       "map": "MAP_EX2_D73",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5289,6 +5693,7 @@
       "map": "MAP_EX2_D75",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5301,6 +5706,7 @@
       "map": "MAP_EX2_D75",
       "vanilla_item": 2,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5313,6 +5719,7 @@
       "map": "MAP_EX2_D75",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5325,6 +5732,7 @@
       "map": "MAP_EX2_D75",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5337,6 +5745,7 @@
       "map": "MAP_EX2_D75",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5349,6 +5758,7 @@
       "map": "MAP_EX2_D75",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5361,6 +5771,7 @@
       "map": "MAP_EX2_D75",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5373,6 +5784,7 @@
       "map": "MAP_EX2_D75",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5385,6 +5797,7 @@
       "map": "MAP_EX2_D75",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5397,6 +5810,7 @@
       "map": "MAP_EX2_D83",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5409,6 +5823,7 @@
       "map": "MAP_EX2_D83",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5421,6 +5836,7 @@
       "map": "MAP_EX2_D87",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5433,6 +5849,7 @@
       "map": "MAP_EX2_D87",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5445,6 +5862,7 @@
       "map": "MAP_EX2_D88",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5457,6 +5875,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5469,6 +5888,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5481,6 +5901,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5493,6 +5914,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5505,6 +5927,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5517,6 +5940,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 2,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5529,6 +5953,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5541,6 +5966,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5553,6 +5979,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5565,6 +5992,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5577,6 +6005,7 @@
       "map": "MAP_EX2_D89",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5589,6 +6018,7 @@
       "map": "MAP_EX2_D90",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5601,6 +6031,7 @@
       "map": "MAP_EX2_D90",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5613,6 +6044,7 @@
       "map": "MAP_EX2_D90",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5625,6 +6057,7 @@
       "map": "MAP_KNN_D11",
       "vanilla_item": 16777223,
       "vanilla_count": 1,
+      "map_first_event": null,
       "rank": 1,
       "level": 59
     },
@@ -5637,6 +6070,7 @@
       "map": "MAP_CLC_D00",
       "vanilla_item": 16777223,
       "vanilla_count": 5,
+      "map_first_event": "MEP_160_240_015",
       "rank": 1,
       "level": 48
     },
@@ -5649,6 +6083,7 @@
       "map": "MAP_CLC_D00",
       "vanilla_item": 16777218,
       "vanilla_count": 5,
+      "map_first_event": "MEP_160_240_015",
       "rank": 1,
       "level": 48
     },
@@ -5661,6 +6096,7 @@
       "map": "MAP_CLC_D01",
       "vanilla_item": 16777219,
       "vanilla_count": 5,
+      "map_first_event": null,
       "rank": 1,
       "level": 48
     },
@@ -5673,6 +6109,7 @@
       "map": "MAP_EX2_D86",
       "vanilla_item": 0,
       "vanilla_count": 0,
+      "map_first_event": null,
       "rank": 3,
       "level": 1
     },
@@ -5683,7 +6120,8 @@
       "name": "Hellawes - City Katz Box 1",
       "region": "HRV",
       "map": "MAP_HRV_T00",
-      "souls": 15
+      "souls": 15,
+      "map_first_event": "MEP_040_140_012"
     },
     {
       "id": 7710003,
@@ -5692,7 +6130,8 @@
       "name": "Beardsley - Village Katz Box 1",
       "region": "BZL",
       "map": "MAP_BZL_T00",
-      "souls": 15
+      "souls": 15,
+      "map_first_event": null
     },
     {
       "id": 7710004,
@@ -5701,7 +6140,8 @@
       "name": "Hadlow Hollow - Entrance Katz Box 1",
       "region": "HDL",
       "map": "MAP_HDL_D00",
-      "souls": 25
+      "souls": 25,
+      "map_first_event": null
     },
     {
       "id": 7710005,
@@ -5710,7 +6150,8 @@
       "name": "Coastal Cave - Cliffside Cave Path Katz Box 1",
       "region": "RBN",
       "map": "MAP_RBN_D05",
-      "souls": 35
+      "souls": 35,
+      "map_first_event": null
     },
     {
       "id": 7710006,
@@ -5719,7 +6160,8 @@
       "name": "Burnack Plateau - Inspection Point Katz Box 1",
       "region": "BRN",
       "map": "MAP_BRN_F03",
-      "souls": 145
+      "souls": 145,
+      "map_first_event": "MEP_100_250_012"
     },
     {
       "id": 7710007,
@@ -5728,7 +6170,8 @@
       "name": "Vortigern - Eastern Span Katz Box 1",
       "region": "VTG",
       "map": "MAP_VTG_D51",
-      "souls": 35
+      "souls": 35,
+      "map_first_event": "MEP_050_300_100"
     },
     {
       "id": 7710008,
@@ -5737,7 +6180,8 @@
       "name": "Port Zekson - Docks Katz Box 1",
       "region": "SXN",
       "map": "MAP_SXN_P00",
-      "souls": 75
+      "souls": 75,
+      "map_first_event": "MEP_050_510_800_Script"
     },
     {
       "id": 7710009,
@@ -5746,7 +6190,8 @@
       "name": "Danann Highway - Mountain Stream Katz Box 1",
       "region": "DAN",
       "map": "MAP_DAN_F02",
-      "souls": 95
+      "souls": 95,
+      "map_first_event": null
     },
     {
       "id": 7710010,
@@ -5755,7 +6200,8 @@
       "name": "Loegres - Fountain Plaza Katz Box 1",
       "region": "RGL",
       "map": "MAP_RGL_T01",
-      "souls": 95
+      "souls": 95,
+      "map_first_event": "MEP_060_195_010"
     },
     {
       "id": 7710011,
@@ -5764,7 +6210,8 @@
       "name": "Galles Lake Road - Southern Fork Katz Box 1",
       "region": "GRS",
       "map": "MAP_GRS_D01",
-      "souls": 75
+      "souls": 75,
+      "map_first_event": null
     },
     {
       "id": 7710012,
@@ -5773,7 +6220,8 @@
       "name": "Barona Catacombs - B3 Katz Box 1",
       "region": "UDG",
       "map": "MAP_UDG_D03",
-      "souls": 65
+      "souls": 65,
+      "map_first_event": null
     },
     {
       "id": 7710013,
@@ -5782,7 +6230,8 @@
       "name": "Loegres Villa - Deepest Depths Katz Box 1",
       "region": "RGP",
       "map": "MAP_RGP_D07",
-      "souls": 65
+      "souls": 65,
+      "map_first_event": "MEP_060_660_100"
     },
     {
       "id": 7710014,
@@ -5791,7 +6240,8 @@
       "name": "Empyrean\u0027s Throne - Outer Garden Katz Box 1",
       "region": "SNG",
       "map": "MAP_SNG_D00",
-      "souls": 80
+      "souls": 80,
+      "map_first_event": "MEP_070_210_010"
     },
     {
       "id": 7710015,
@@ -5800,7 +6250,8 @@
       "name": "Yvolg Ruins - Middle Level - Forked Passage Katz Box 1",
       "region": "IBL",
       "map": "MAP_IBL_D10",
-      "souls": 80
+      "souls": 80,
+      "map_first_event": null
     },
     {
       "id": 7710016,
@@ -5809,7 +6260,8 @@
       "name": "Brigid Ravine - Brigid Ravine Katz Box 1",
       "region": "BLG",
       "map": "MAP_BLG_F00",
-      "souls": 70
+      "souls": 70,
+      "map_first_event": "MEP_080_220_010"
     },
     {
       "id": 7710017,
@@ -5818,7 +6270,8 @@
       "name": "Vester Tunnels - Southeastern Area Katz Box 1",
       "region": "VST",
       "map": "MAP_VST_D11",
-      "souls": 100
+      "souls": 100,
+      "map_first_event": null
     },
     {
       "id": 7710018,
@@ -5827,7 +6280,8 @@
       "name": "Port Cadnix - Docks Katz Box 1",
       "region": "CDN",
       "map": "MAP_CDN_P00",
-      "souls": 110
+      "souls": 110,
+      "map_first_event": "MEP_090_320_100"
     },
     {
       "id": 7710019,
@@ -5836,7 +6290,8 @@
       "name": "Reneed - Village Katz Box 1",
       "region": "RND",
       "map": "MAP_RND_T00",
-      "souls": 125
+      "souls": 125,
+      "map_first_event": null
     },
     {
       "id": 7710020,
@@ -5845,7 +6300,8 @@
       "name": "Warg Forest - Southern Fork Katz Box 1",
       "region": "WRG",
       "map": "MAP_WRG_D05",
-      "souls": 115
+      "souls": 115,
+      "map_first_event": "MEP_100_130_010"
     },
     {
       "id": 7710021,
@@ -5854,7 +6310,8 @@
       "name": "Fens of Nog - Fens of Nog Katz Box 1",
       "region": "NOG",
       "map": "MAP_NOG_F00",
-      "souls": 145
+      "souls": 145,
+      "map_first_event": "MEP_100_200_010"
     },
     {
       "id": 7710022,
@@ -5863,7 +6320,8 @@
       "name": "Lothringen - Interior Katz Box 1",
       "region": "TOW",
       "map": "MAP_TOW_T00",
-      "souls": 140
+      "souls": 140,
+      "map_first_event": "MEP_100_300_100"
     },
     {
       "id": 7710023,
@@ -5872,7 +6330,8 @@
       "name": "Yseult - City Katz Box 1",
       "region": "IZR",
       "map": "MAP_IZR_T01",
-      "souls": 170
+      "souls": 170,
+      "map_first_event": null
     },
     {
       "id": 7710024,
@@ -5881,7 +6340,8 @@
       "name": "Maclir Beach - Rock Gate Beach Katz Box 1",
       "region": "MCL",
       "map": "MAP_MCL_F00",
-      "souls": 185
+      "souls": 185,
+      "map_first_event": null
     },
     {
       "id": 7710025,
@@ -5890,7 +6350,8 @@
       "name": "Haria - Village Katz Box 1",
       "region": "HRI",
       "map": "MAP_HRI_T00",
-      "souls": 185
+      "souls": 185,
+      "map_first_event": "MEP_110_230_010"
     },
     {
       "id": 7710026,
@@ -5899,7 +6360,8 @@
       "name": "Manann Reef - Reef Outer Path Katz Box 1",
       "region": "MNA",
       "map": "MAP_MNA_D04",
-      "souls": 165
+      "souls": 165,
+      "map_first_event": null
     },
     {
       "id": 7710027,
@@ -5908,7 +6370,8 @@
       "name": "Palamides Temple - Depths Katz Box 1",
       "region": "PRM",
       "map": "MAP_PRM_D03",
-      "souls": 200
+      "souls": 200,
+      "map_first_event": "MEP_110_320_100"
     },
     {
       "id": 7710028,
@@ -5917,7 +6380,8 @@
       "name": "Titania - B2 - Cells Katz Box 1",
       "region": "TTN",
       "map": "MAP_TTN_D21",
-      "souls": 275
+      "souls": 275,
+      "map_first_event": null
     },
     {
       "id": 7710029,
@@ -5926,7 +6390,8 @@
       "name": "Aldina Plains - Central Area Katz Box 1",
       "region": "ALD",
       "map": "MAP_ALD_F01",
-      "souls": 225
+      "souls": 225,
+      "map_first_event": null
     },
     {
       "id": 7710030,
@@ -5935,7 +6400,8 @@
       "name": "Stonebury - Village Katz Box 1",
       "region": "STB",
       "map": "MAP_STB_T00",
-      "souls": 200
+      "souls": 200,
+      "map_first_event": "MEP_130_390_010"
     },
     {
       "id": 7710031,
@@ -5944,7 +6410,8 @@
       "name": "Faldies Ruins - Main Passage Katz Box 1",
       "region": "FDS",
       "map": "MAP_FDS_D01",
-      "souls": 320
+      "souls": 320,
+      "map_first_event": null
     },
     {
       "id": 7710032,
@@ -5953,7 +6420,8 @@
       "name": "Taliesin - City Katz Box 1",
       "region": "TRE",
       "map": "MAP_TRE_T00",
-      "souls": 230
+      "souls": 230,
+      "map_first_event": "MEP_140_060_010"
     },
     {
       "id": 7710033,
@@ -5962,7 +6430,8 @@
       "name": "Perniya Cliffside Path - Lake Shore Path Katz Box 1",
       "region": "PRN",
       "map": "MAP_PRN_F01",
-      "souls": 245
+      "souls": 245,
+      "map_first_event": null
     },
     {
       "id": 7710034,
@@ -5971,7 +6440,8 @@
       "name": "Morgana Woods - Central Area Katz Box 1",
       "region": "MRG",
       "map": "MAP_MRG_D03",
-      "souls": 250
+      "souls": 250,
+      "map_first_event": null
     },
     {
       "id": 7710035,
@@ -5980,7 +6450,8 @@
       "name": "Aball - Outside Velvet\u0027s Home Katz Box 1",
       "region": "AVL",
       "map": "MAP_AVL_T01",
-      "souls": 250
+      "souls": 250,
+      "map_first_event": "MEP_025_160_010"
     },
     {
       "id": 7710036,
@@ -5989,7 +6460,8 @@
       "name": "Tranquil Woods - Shrine of Tranquility Katz Box 1",
       "region": "SNM",
       "map": "MAP_SNM_D01",
-      "souls": 250
+      "souls": 250,
+      "map_first_event": "MEP_025_260_010"
     },
     {
       "id": 7710037,
@@ -5998,7 +6470,8 @@
       "name": "Lionel Island Wharf - Lionel Island Wharf Katz Box 1",
       "region": "LNL",
       "map": "MAP_LNL_P00",
-      "souls": 275
+      "souls": 275,
+      "map_first_event": "MEP_150_060_800_Script"
     },
     {
       "id": 7710038,
@@ -6007,7 +6480,8 @@
       "name": "Baird Marsh - Eastern Area Katz Box 1",
       "region": "BEL",
       "map": "MAP_BEL_D03",
-      "souls": 300
+      "souls": 300,
+      "map_first_event": "MEP_150_120_012"
     },
     {
       "id": 7710039,
@@ -6016,7 +6490,8 @@
       "name": "Hexen Isle - Testing Ground Katz Box 1",
       "region": "CUR",
       "map": "MAP_CUR_F00",
-      "souls": 300
+      "souls": 300,
+      "map_first_event": null
     },
     {
       "id": 7710040,
@@ -6025,7 +6500,8 @@
       "name": "Gaiburk Ice Field - Frozen Waterfall Katz Box 1",
       "region": "GBL",
       "map": "MAP_GBL_F01",
-      "souls": 335
+      "souls": 335,
+      "map_first_event": null
     },
     {
       "id": 7710041,
@@ -6034,7 +6510,8 @@
       "name": "Meirchio - Docks Katz Box 1",
       "region": "MEI",
       "map": "MAP_MEI_P00",
-      "souls": 335
+      "souls": 335,
+      "map_first_event": "MEP_190_110_012"
     },
     {
       "id": 7710042,
@@ -6043,7 +6520,8 @@
       "name": "Mount Killaraus - Cauldron Katz Box 1",
       "region": "KRR",
       "map": "MAP_KRR_D01",
-      "souls": 375
+      "souls": 375,
+      "map_first_event": "MEP_200_120_012"
     },
     {
       "id": 7710043,
@@ -6052,7 +6530,8 @@
       "name": "Innominat - Cosmic Earthpulse - Lower Level Katz Box 1",
       "region": "KNN",
       "map": "MAP_KNN_D10",
-      "souls": 410
+      "souls": 410,
+      "map_first_event": null
     },
     {
       "id": 7710044,
@@ -6061,7 +6540,8 @@
       "name": "Davahl Forest - Western Area Katz Box 1",
       "region": "DVA",
       "map": "MAP_DVA_D02",
-      "souls": 375
+      "souls": 375,
+      "map_first_event": null
     },
     {
       "id": 7710045,
@@ -6070,7 +6550,8 @@
       "name": "Zamahl Grotto - Eastern Area Katz Box 1",
       "region": "ZMR",
       "map": "MAP_ZMR_D01",
-      "souls": 375
+      "souls": 375,
+      "map_first_event": null
     },
     {
       "id": 7710047,
@@ -6079,7 +6560,8 @@
       "name": "Coastal Cave - Twisting Caves Katz Box 1",
       "region": "RBN",
       "map": "MAP_RBN_D12",
-      "souls": 135
+      "souls": 135,
+      "map_first_event": null
     },
     {
       "id": 7710048,
@@ -6088,7 +6570,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1",
       "region": "ARN",
       "map": "MAP_ARN_D00",
-      "souls": 150
+      "souls": 150,
+      "map_first_event": null
     },
     {
       "id": 7710049,
@@ -6097,7 +6580,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1 (2)",
       "region": "ARN",
       "map": "MAP_ARN_D01",
-      "souls": 230
+      "souls": 230,
+      "map_first_event": null
     },
     {
       "id": 7710050,
@@ -6106,7 +6590,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1 (3)",
       "region": "ARN",
       "map": "MAP_ARN_D02",
-      "souls": 200
+      "souls": 200,
+      "map_first_event": null
     },
     {
       "id": 7710051,
@@ -6115,7 +6600,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1 (4)",
       "region": "ARN",
       "map": "MAP_ARN_D03",
-      "souls": 315
+      "souls": 315,
+      "map_first_event": null
     },
     {
       "id": 7710052,
@@ -6124,7 +6610,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1 (5)",
       "region": "ARN",
       "map": "MAP_ARN_D04",
-      "souls": 115
+      "souls": 115,
+      "map_first_event": null
     },
     {
       "id": 7710053,
@@ -6133,7 +6620,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1 (6)",
       "region": "ARN",
       "map": "MAP_ARN_D05",
-      "souls": 265
+      "souls": 265,
+      "map_first_event": null
     },
     {
       "id": 7710054,
@@ -6142,7 +6630,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1 (7)",
       "region": "ARN",
       "map": "MAP_ARN_D06",
-      "souls": 225
+      "souls": 225,
+      "map_first_event": null
     },
     {
       "id": 7710055,
@@ -6151,7 +6640,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1 (8)",
       "region": "ARN",
       "map": "MAP_ARN_D07",
-      "souls": 375
+      "souls": 375,
+      "map_first_event": null
     },
     {
       "id": 7710056,
@@ -6160,7 +6650,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1 (9)",
       "region": "ARN",
       "map": "MAP_ARN_D08",
-      "souls": 135
+      "souls": 135,
+      "map_first_event": null
     },
     {
       "id": 7710057,
@@ -6169,7 +6660,8 @@
       "name": "Class 4 Administrative Zone - Battle Arena Katz Box 1 (10)",
       "region": "ARN",
       "map": "MAP_ARN_D09",
-      "souls": 450
+      "souls": 450,
+      "map_first_event": null
     },
     {
       "id": 7710058,
@@ -6178,7 +6670,8 @@
       "name": "Normin Island - Normin Island Katz Box 1",
       "region": "EXI",
       "map": "MAP_EXI_T00",
-      "souls": 525
+      "souls": 525,
+      "map_first_event": null
     },
     {
       "id": 7710059,
@@ -6187,7 +6680,8 @@
       "name": "The Heavenly Steppes - Earthpulse Katz Box 1",
       "region": "EX2",
       "map": "MAP_EX2_D00",
-      "souls": 525
+      "souls": 525,
+      "map_first_event": null
     },
     {
       "id": 7720002,

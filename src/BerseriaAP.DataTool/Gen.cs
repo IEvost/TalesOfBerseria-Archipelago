@@ -78,6 +78,10 @@ internal static class Gen
             }
             eventMap.Sort((x, y) => string.CompareOrdinal(x.Ev, y.Ev));
         }
+        // First story event that takes place on each map (when known): used to delay logic for maps the story
+        // only opens late (e.g. Earthpulse strata), even if their region was visited earlier.
+        var mapFirstEvent = new Dictionary<string, string>();
+        foreach (var (e, m) in eventMap) mapFirstEvent.TryAdd(m, e);
         var storyOrder = new List<string>();
         foreach (var (e, m) in eventMap)
         {
@@ -192,6 +196,7 @@ internal static class Gen
                 ["id"] = BaseId + LocChest + id, ["key"] = $"TB:{id}", ["type"] = "chest",
                 ["name"] = Place(map, "Chest"), ["region"] = Code(map), ["map"] = map,
                 ["vanilla_item"] = item, ["vanilla_count"] = (int)j["Count"]!,
+                ["map_first_event"] = mapFirstEvent.GetValueOrDefault(map),
                 ["rank"] = (int)j["Rank"]!, ["level"] = (int)j["Level"]!,
             });
         }
@@ -203,6 +208,7 @@ internal static class Gen
                 ["id"] = BaseId + LocKatz + id, ["key"] = $"CB:{id}", ["type"] = "katz",
                 ["name"] = Place(map, "Katz Box"), ["region"] = Code(map), ["map"] = map,
                 ["souls"] = (int)j["Spirit"]!,
+                ["map_first_event"] = mapFirstEvent.GetValueOrDefault(map),
             });
         }
         foreach (var (id, map) in tpMap.OrderBy(kv => kv.Key))
