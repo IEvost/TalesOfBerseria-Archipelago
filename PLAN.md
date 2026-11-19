@@ -62,7 +62,7 @@ Still to verify or do:
 - Katz box and sparkle checks in game (code written, not yet triggered)
 - Boss checks and goal (scenario counter) over real story progress
 - Gating for transitions not done via map links (fast travel/warp points, story cutscenes)
-- Missable chests in one-time areas; DeathLink; an in-game connect UI instead of the config file
+- Missable chests in one-time areas; DeathLink sending (game over) needs an in-game test
 
 ## 5. Risks
 

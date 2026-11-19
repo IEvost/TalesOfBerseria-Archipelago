@@ -119,7 +119,7 @@ do
       local ok, d1, d2 = pcall(self.param.GetMap, self.param)
       emit("DEBUG", "MapLink.ExecuteChangeMap", tostring(ok), type(d1), tostring(d1), tostring(d2))
     end
-    if AP.active and AP.locked and self.param then
+    if AP.locked and self.param then -- enforced even while disconnected
       local ok, dest = pcall(self.param.GetMap, self.param)
       local dr, cr = regionOf(ok and dest), regionOf(TO13.Map.GetName())
       if dr and dr ~= cr and AP.locked[dr] then
@@ -244,10 +244,48 @@ function AP.Notify(text)
   AP.msgs[#AP.msgs + 1] = text
 end
 
+-- ---------------------------------------------------------------------------
+-- DeathLink
+-- ---------------------------------------------------------------------------
+local GS = TO13.GameState
+
+function AP.KillParty()
+  local ids = TO13.PartyOrder.GetPartyIdTable()
+  for _, pid in ipairs(ids) do
+    local st = TO13.PCStatus[pid]
+    if st then st:SetParameter(TO13.CPCStatus.PCSP_ID_HP, 0) end
+  end
+end
+
+-- A received death waits for the next battle (the field has no way to die).
+function AP.ReceiveDeath(text)
+  AP.pendingDeath = true
+  AP.Notify(text)
+end
+
+local function deathTick()
+  local over = GS.Is(GS.GAMESTATE_BATTLE_GAMEOVER)
+  if over and not AP.wasOver then
+    if AP.killedByLink then AP.killedByLink = false else emit("DEATH") end
+  end
+  AP.wasOver = over
+
+  local inBattle = GS.Is(GS.GAMESTATE_BATTLE_MAIN)
+  if AP.pendingDeath and inBattle then
+    AP.pendingDeath = false
+    AP.killedByLink = true
+    local ok, err = pcall(AP.KillParty)
+    emit(ok and "DEATHLINK_APPLIED" or "ERROR", ok and "" or ("KillParty: " .. tostring(err)))
+  end
+  -- Forget the "caused by DeathLink" marker once the battle is over without a game over.
+  if AP.killedByLink and GS.IsPlayerFree() then AP.killedByLink = false end
+end
+
 -- Called by C# every ~100 ms. Returns newline-separated events.
 function AP.Poll()
   AP.tick = (AP.tick or 0) + 1
   pumpMessages()
+  if AP.deathlink then deathTick() end
   local sc = TO13.Scenario.GetScenarioFlag()
   if sc ~= AP.lastScenario then
     AP.lastScenario = sc

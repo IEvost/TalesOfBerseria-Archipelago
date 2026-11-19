@@ -1,5 +1,6 @@
 using System.Collections.Concurrent;
 using Archipelago.MultiClient.Net;
+using Archipelago.MultiClient.Net.BounceFeatures.DeathLink;
 using Archipelago.MultiClient.Net.Enums;
 using Archipelago.MultiClient.Net.Models;
 using Archipelago.MultiClient.Net.Packets;
@@ -18,7 +19,13 @@ internal sealed class ApClient
 
     ArchipelagoSession? _session;
     public bool Connected => _session?.Socket.Connected == true && SlotData != null;
-    public string Status { get; private set; } = "Not connected";
+    string _status = "Not connected";
+    /// <summary>Human-readable connection status; every change is also posted to the message log.</summary>
+    public string Status
+    {
+        get => _status;
+        private set { _status = value; ChatLog.Enqueue("[AP] " + value); }
+    }
     public Dictionary<string, object> ? SlotData { get; private set; }
     public int Slot { get; private set; }
     public string SeedName { get; private set; } = "";
@@ -70,6 +77,17 @@ internal sealed class ApClient
             Status = $"Connected as {slot}";
             SafeLog.Info($"{Status} (slot {Slot}, seed {SeedName})");
             await ScoutAllAsync();
+            if (SlotFlag("death_link"))
+            {
+                _deathLink = session.CreateDeathLinkService();
+                _deathLink.OnDeathLinkReceived += d =>
+                {
+                    var who = d.Source ?? "someone";
+                    DeathQueue.Enqueue(string.IsNullOrEmpty(d.Cause) ? $"DeathLink: {who} died." : $"DeathLink: {d.Cause}");
+                };
+                _deathLink.EnableDeathLink();
+                SafeLog.Info("DeathLink enabled.");
+            }
             OnConnected?.Invoke();
         }
         catch (Exception e)
@@ -84,6 +102,7 @@ internal sealed class ApClient
         try { _session?.Socket.DisconnectAsync().Wait(2000); } catch { }
         _session = null;
         SlotData = null;
+        _deathLink = null;
         lock (_itemsLock) _received.Clear();
         ScoutText.Clear();
     }
@@ -113,6 +132,18 @@ internal sealed class ApClient
     }
 
     public bool IsChecked(long id) => _session?.Locations.AllLocationsChecked.Contains(id) == true;
+
+    DeathLinkService? _deathLink;
+    /// <summary>Incoming deaths (display text), consumed on the game thread.</summary>
+    public ConcurrentQueue<string> DeathQueue { get; } = new();
+    public bool DeathLinkEnabled => _deathLink != null;
+
+    public void SendDeath(string cause)
+    {
+        if (_deathLink == null || _session == null) return;
+        _deathLink.SendDeathLink(new DeathLink(_session.Players.GetPlayerAlias(Slot), cause));
+        SafeLog.Info("DeathLink sent: " + cause);
+    }
 
     public void SendGoal()
     {

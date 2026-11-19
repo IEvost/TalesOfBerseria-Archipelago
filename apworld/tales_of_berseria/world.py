@@ -196,6 +196,7 @@ class BerseriaWorld(World):
         return {
             "region_keys": int(bool(self.options.region_keys)),
             "sparklesanity": int(bool(self.options.sparklesanity)),
+            "death_link": int(bool(self.options.death_link)),
             "goal_scenario": FINAL_BOSS_SCENARIO,
             "data_base_id": DATA["base_id"],
         }

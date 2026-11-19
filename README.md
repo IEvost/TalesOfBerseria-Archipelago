@@ -12,7 +12,8 @@ An [Archipelago](https://archipelago.gg) multiworld integration for Tales of Ber
 1. Install BepInEx 6 IL2CPP (bleeding edge build 793+) into the game folder and start the game once.
 2. Copy `BepInEx/plugins/BerseriaAP` from the release zip into the game folder.
 3. Put `tales_of_berseria.apworld` into your Archipelago `custom_worlds` folder to generate seeds.
-4. Fill in `BepInEx/config/berseria.archipelago.cfg` (server, slot, password) and start the game.
+4. Start the game. A small **Archipelago window** opens (toggle it with **F1** while the game is in front):
+   enter server, slot name and password and press Connect. Settings are remembered.
 
 See `SETUP.md` for details. Use a fresh save per seed.
 
@@ -23,6 +24,7 @@ See `SETUP.md` for details. Use a fresh save per seed.
 | `region_keys` | `true` | Lock regions behind Region Keys |
 | `sparklesanity` | `false` | First pickup of each sparkle point is a check |
 | `starting_region_keys` | `0` | Start with the first N keys in story order |
+| `death_link` | `false` | A party wipe kills other DeathLink players; a received death knocks out your party in the next battle |
 
 ## How it works (for developers)
 
@@ -45,4 +47,5 @@ Build a release with `./build_release.ps1` (needs the .NET SDK and the game inst
 - Story events that move the party into a new region by cutscene are not blocked; gating applies to map exits.
 - Chests in areas that can only be visited once may be missable; logic assumes regions stay revisitable.
 - Boss-check and goal detection use the game's scenario counter and still need a full playthrough to verify.
-- No DeathLink yet.
+- DeathLink: prologue/scripted battles revive the party instead of a game over, so a received death there
+  has no lasting effect. Sending a death (on game over) is implemented but not yet verified in game.

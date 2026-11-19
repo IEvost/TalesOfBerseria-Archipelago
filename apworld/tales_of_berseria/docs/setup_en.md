@@ -16,14 +16,14 @@
 
 ## Connecting
 
-1. Start the game once with the mod installed, then quit. This creates `BepInEx/config/berseria.archipelago.cfg`.
-2. Open that file and fill in:
-   - `Server` — for example `archipelago.gg:38281`
-   - `Slot` — your player name from your YAML
-   - `Password` — if the room has one
-3. Start the game and load a save (or start a new game). A message box confirms the connection.
+1. Start the game. The **Archipelago window** appears on top of the game (press **F1** while the game is
+   in front to show/hide it).
+2. Enter the server (for example `archipelago.gg:38281`), your slot name and the room password if any,
+   then press **Connect** (or Enter). The window shows the connection status and the server's messages.
+3. Load a save (or start a new game). An in-game message box confirms the connection.
 
-You can also edit and save the config file while the game is running; the mod reconnects automatically.
+The settings are saved to `BepInEx/config/berseria.archipelago.cfg` and the mod connects automatically
+on the next start. Editing that file while the game runs also reconnects.
 
 ## Notes
 

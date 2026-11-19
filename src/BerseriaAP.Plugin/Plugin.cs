@@ -39,6 +39,13 @@ public class Plugin : BasePlugin
         Data = Game.GameData.Load();
         Log.LogInfo($"Game data: {Data.locations.Count} locations, {Data.items.Count} items.");
         WatchConfig();
+        _window = new Ui.ConnectWindow(
+            () => new(_server.Value, _slot.Value, _password.Value),
+            s => { SaveSettings(s); _ = Ap.ConnectAsync(s.Server, s.Slot, s.Password); },
+            () => { Ap.Disconnect(); Ap.ChatLog.Enqueue("Disconnected."); },
+            () => Ap.Status,
+            () => { var l = new List<string>(); while (Ap.ChatLog.TryDequeue(out var m)) l.Add(m); return l; });
+        _window.Start(showImmediately: string.IsNullOrWhiteSpace(_slot.Value));
         // The engine DLL is loaded lazily on Unity's first P/Invoke, after plugins load. Install the hooks
         // the moment it is mapped, before any of its code runs (patching later races the game thread).
         if (GameModule.Init())
@@ -72,6 +79,17 @@ public class Plugin : BasePlugin
         _ = Ap.ConnectAsync(_server.Value.Trim(), _slot.Value.Trim(), _password.Value);
     }
 
+    Ui.ConnectWindow? _window;
+    DateTime _ignoreConfigUntil = DateTime.MinValue;
+
+    /// <summary>Persist settings typed into the connect window (without triggering the file watcher).</summary>
+    void SaveSettings(Ui.ConnectWindow.Settings s)
+    {
+        _ignoreConfigUntil = DateTime.Now.AddSeconds(3);
+        _server.Value = s.Server; _slot.Value = s.Slot; _password.Value = s.Password;
+        Config.Save();
+    }
+
     /// <summary>Reconnect when the user edits and saves the config file while the game is running.</summary>
     void WatchConfig()
     {
@@ -81,6 +99,7 @@ public class Plugin : BasePlugin
         DateTime last = DateTime.MinValue;
         w.Changed += (_, _) =>
         {
+            if (DateTime.Now < _ignoreConfigUntil) return; // our own save from the connect window
             if ((DateTime.Now - last).TotalSeconds < 2) return; // debounce
             last = DateTime.Now;
             Thread.Sleep(300);

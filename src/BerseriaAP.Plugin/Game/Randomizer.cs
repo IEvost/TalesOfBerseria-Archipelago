@@ -67,6 +67,8 @@ internal sealed class Randomizer
 
         // 2) State the runtime needs
         PushState();
+        while (_ap.DeathQueue.TryDequeue(out var death))
+            LuaBridge.Execute($"BERSERIA_AP.ReceiveDeath({Lua.Str(death)}) return 'ok'", "=ap_death");
 
         // 3) Item delivery and resync (only while connected & in normal field gameplay with a save loaded)
         if (_ap.Connected)
@@ -127,6 +129,12 @@ internal sealed class Randomizer
                 case "DEBUG":
                     SafeLog.Info("Runtime debug: " + line.Replace('\t', ' '));
                     break;
+                case "DEATH":
+                    _ap.SendDeath($"{_ap.PlayerName(_ap.Slot)}'s party was wiped out.");
+                    break;
+                case "DEATHLINK_APPLIED":
+                    SafeLog.Info("DeathLink: party knocked out.");
+                    break;
             }
         }
         if (checks.Count > 0)
@@ -157,11 +165,14 @@ internal sealed class Randomizer
         {
             sb.Append($"BERSERIA_AP.active={(active ? "true" : "false")} ");
             sb.Append($"BERSERIA_AP.sparkles={(_ap.SlotFlag("sparklesanity") ? "true" : "false")} ");
+            sb.Append($"BERSERIA_AP.deathlink={(_ap.DeathLinkEnabled ? "true" : "false")} ");
             _pushedActive = active;
             if (active) Notify($"Archipelago: {_ap.Status}");
         }
         // Region locks
-        string locks = active && _ap.SlotFlag("region_keys") ? ComputeLocks() : "";
+        // While disconnected keep the last known locks (no free roaming by going offline).
+        string locks = active ? (_ap.SlotFlag("region_keys") ? ComputeLocks() : "")
+                              : (_pushedLocks == "\u0000" ? "" : _pushedLocks);
         if (locks != _pushedLocks)
         {
             if (locks.Length == 0) sb.Append("BERSERIA_AP.locked=nil ");

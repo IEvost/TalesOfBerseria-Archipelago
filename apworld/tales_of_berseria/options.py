@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from Options import DefaultOnToggle, PerGameCommonOptions, Range, Toggle
+from Options import DeathLink, DefaultOnToggle, PerGameCommonOptions, Range, Toggle
 
 
 class RegionKeys(DefaultOnToggle):
@@ -36,3 +36,4 @@ class BerseriaOptions(PerGameCommonOptions):
     region_keys: RegionKeys
     sparklesanity: Sparklesanity
     starting_region_keys: StartingRegionKeys
+    death_link: DeathLink
