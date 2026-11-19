@@ -46,8 +46,12 @@ $pdir = New-Item -ItemType Directory -Force (Join-Path $stage "BepInEx\plugins\B
 foreach ($f in "BerseriaAP.dll", "Archipelago.MultiClient.Net.dll", "Newtonsoft.Json.dll") { Copy-Item "$pluginOut\$f" $pdir }
 
 Copy-Item "$root\README.md" $stage -ErrorAction SilentlyContinue
+Copy-Item "$root\LICENSE" $stage
 Copy-Item "$root\apworld\tales_of_berseria\docs\setup_en.md" "$stage\SETUP.md"
 
+# Zip entries must use '/' separators. Windows PowerShell 5.1 (.NET Framework) writes '\', which some
+# unzip tools turn into literal file names, so require PowerShell 7+.
+if ($PSVersionTable.PSVersion.Major -lt 7) { throw "Run this script with PowerShell 7+ (pwsh)." }
 $zip = Join-Path $out "BerseriaAP-$version.zip"
 if (Test-Path $zip) { Remove-Item $zip -Force }
 [System.IO.Compression.ZipFile]::CreateFromDirectory($stage, $zip)
