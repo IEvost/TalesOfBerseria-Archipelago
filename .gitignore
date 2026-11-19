@@ -1,0 +1,7 @@
+_downloads/
+_extract/
+bin/
+obj/
+*.user
+.vs/
+__pycache__/

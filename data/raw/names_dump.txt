@@ -1,0 +1,372 @@
+LOC	ALD	Aldina Plains - Land of Vitality	Aldina Plains
+MAP	MAP_ALD_F00	Western Area
+MAP	MAP_ALD_F01	Central Area
+MAP	MAP_ALD_F02	Eastern Area
+MAP	MAP_ALD_F03	Mountain Peaks
+LOC	ARN		
+MAP	MAP_ARN_D00	Battle Arena
+MAP	MAP_ARN_D01	Battle Arena
+MAP	MAP_ARN_D02	Battle Arena
+MAP	MAP_ARN_D03	Battle Arena
+MAP	MAP_ARN_D04	Battle Arena
+MAP	MAP_ARN_D05	Battle Arena
+MAP	MAP_ARN_D06	Battle Arena
+MAP	MAP_ARN_D07	Battle Arena
+MAP	MAP_ARN_D08	Battle Arena
+MAP	MAP_ARN_D09	Battle Arena
+LOC	AVL	Aball - Village of Longing	Aball - Village of Longing
+MAP	MAP_AVL_I00	Velvet's Home
+MAP	MAP_AVL_T00	Village
+MAP	MAP_AVL_T01	Outside Velvet's Home
+LOC	BEL	Baird Marsh - Domain of the Old Kingdom	Baird Marsh
+MAP	MAP_BEL_D00	Entrance
+MAP	MAP_BEL_D01	Southern Area
+MAP	MAP_BEL_D02	Central Area
+MAP	MAP_BEL_D03	Eastern Area
+MAP	MAP_BEL_D04	Northeastern Area
+MAP	MAP_BEL_D05	Northern Area
+MAP	MAP_BEL_D06	Depths
+MAP	MAP_BEL_D07	Blossomed Ruins
+LOC	BLG	Brigid Ravine - Valley of Howling Winds	Brigid Ravine
+MAP	MAP_BLG_F00	Brigid Ravine
+LOC	BRN	Burnack Plateau - The Great Junction	Burnack Plateau
+MAP	MAP_BRN_F00	Coastal Cave Entrance
+MAP	MAP_BRN_F01	Fortress Exterior
+MAP	MAP_BRN_F02	Stone Bridge Path
+MAP	MAP_BRN_F03	Inspection Point
+MAP	MAP_BRN_F04	Rock Fountain Vista
+MAP	MAP_BRN_F05	Exorcist Tower Exterior
+MAP	MAP_BRN_F06	Cave Ravine
+LOC	BZL	Beardsley - Snow-Covered Hamlet	Beardsley - Snow-Covered Hamlet
+MAP	MAP_BZL_I00	Inn
+MAP	MAP_BZL_T00	Village
+LOC	CDN	Port Cadnix - Mining Base	Port Cadnix
+MAP	MAP_CDN_I00	Storehouse
+MAP	MAP_CDN_I01	Inn
+MAP	MAP_CDN_P00	Docks
+LOC	CLC	The Calix - Realm of Testing	The Calix
+MAP	MAP_CLC_D00	The Calix I
+MAP	MAP_CLC_D01	The Calix II
+LOC	CMK		
+MAP	MAP_CMK_D04	1st Stratum
+MAP	MAP_CMK_D05	2nd Stratum
+MAP	MAP_CMK_D06	3rd Stratum
+MAP	MAP_CMK_D07	4th Stratum
+MAP	MAP_CMK_D08	5th Stratum
+LOC	CUR	Hexen Isle - An Island Wiped from Existence	Hexen Isle
+MAP	MAP_CUR_F00	Testing Ground
+LOC	DAN	Danann Highway - Lifeblood of Trade	Danann Highway
+MAP	MAP_DAN_F00	Path to Docks
+MAP	MAP_DAN_F01	Outside Loegres
+MAP	MAP_DAN_F02	Mountain Stream
+MAP	MAP_DAN_F03	Inspection Point
+MAP	MAP_DAN_F04	Northern Area
+LOC	DVA	Davahl Forest - Fog-Shrouded Mystery	Davahl Forest
+MAP	MAP_DVA_D00	Entrance
+MAP	MAP_DVA_D01	Forked Path
+MAP	MAP_DVA_D02	Western Area
+MAP	MAP_DVA_D03	Eastern Area
+MAP	MAP_DVA_D04	Deepest Depths
+LOC	EX2	The Heavenly Steppes - World's Enigma	The Heavenly Steppes
+MAP	MAP_EX2_D00	Earthpulse
+MAP	MAP_EX2_D02	Shifted Killaraus - Igneous Cavern
+MAP	MAP_EX2_D03	Shifted Killaraus - Cliff Path
+MAP	MAP_EX2_D04	Shifted Killaraus - Cavern of Lava
+MAP	MAP_EX2_D08	???
+MAP	MAP_EX2_D13	???
+MAP	MAP_EX2_D15	???
+MAP	MAP_EX2_D17	???
+MAP	MAP_EX2_D21	???
+MAP	MAP_EX2_D26	???
+MAP	MAP_EX2_D27	???
+MAP	MAP_EX2_D30	???
+MAP	MAP_EX2_D32	Shifted Yvolg - Deepest Depths
+MAP	MAP_EX2_D35	???
+MAP	MAP_EX2_D42	???
+MAP	MAP_EX2_D44	???
+MAP	MAP_EX2_D46	Shifted Aldina
+MAP	MAP_EX2_D50	???
+MAP	MAP_EX2_D55	???
+MAP	MAP_EX2_D56	???
+MAP	MAP_EX2_D59	???
+MAP	MAP_EX2_D61	Shifted Lothringen
+MAP	MAP_EX2_D64	???
+MAP	MAP_EX2_D71	???
+MAP	MAP_EX2_D72	???
+MAP	MAP_EX2_D73	???
+MAP	MAP_EX2_D75	Shifted Hexen Isle
+MAP	MAP_EX2_D78	???
+MAP	MAP_EX2_D83	???
+MAP	MAP_EX2_D86	???
+MAP	MAP_EX2_D87	???
+MAP	MAP_EX2_D88	???
+MAP	MAP_EX2_D89	Shifted Empyrean's Throne - Garden
+MAP	MAP_EX2_D90	Shifted Empyrean's Throne - Shrine
+LOC	EXI	Normin Island - Isle of Terror	Normin Island
+MAP	MAP_EXI_T00	Normin Island
+LOC	EXT	Katz Korner - Dreamlike Paradise	Katz Korner
+MAP	MAP_EXT_T00	Katz Korner
+LOC	FDS	Faldies Ruins - Northern Checkpoint	Faldies Ruins
+MAP	MAP_FDS_D00	South Gates
+MAP	MAP_FDS_D01	Main Passage
+MAP	MAP_FDS_D02	Hall to the Underground
+MAP	MAP_FDS_D03	North Gates
+MAP	MAP_FDS_D04	Underground Passage
+MAP	MAP_FDS_D05	Jail
+MAP	MAP_FDS_D06	Sealed Chamber
+MAP	MAP_FDS_D07	Underground Corridor
+MAP	MAP_FDS_D08	Deepest Depths
+LOC	FGL	Figahl Icecaps - Land of Dancing White	Figahl Icecaps
+MAP	MAP_FGL_F00	Landing Point
+MAP	MAP_FGL_F01	Coastline
+MAP	MAP_FGL_F02	Hellawes Vicinity
+LOC	GBL	Gaiburk Ice Field - Edge of Survivability	Gaiburk Ice Field
+MAP	MAP_GBL_F00	Frigid Lake
+MAP	MAP_GBL_F01	Frozen Waterfall
+MAP	MAP_GBL_F02	Misty Snowfield
+MAP	MAP_GBL_F03	Foothills
+LOC	GRS	Galles Lake Road - Yawning Wetlands	Galles Lake Road
+MAP	MAP_GRS_D00	Highway-Side Entrance
+MAP	MAP_GRS_D01	Southern Fork
+MAP	MAP_GRS_D02	Northern Fork
+MAP	MAP_GRS_D03	Source of Red Rocks
+MAP	MAP_GRS_D04	Lake Ring Road
+MAP	MAP_GRS_D05	Plains-Side Entrance
+MAP	MAP_GRS_D06	Lake Road Overhang
+LOC	HDL	Hadlow Hollow - Cavern in the Northern Marsh	Hadlow Hollow
+MAP	MAP_HDL_D00	Entrance
+MAP	MAP_HDL_D02	Forked Path
+MAP	MAP_HDL_D03	Hall
+MAP	MAP_HDL_D04	Central Area
+MAP	MAP_HDL_D05	Depths
+MAP	MAP_HDL_D06	Deepest Depths
+LOC	HRI	Haria - Home of Old Beliefs	Haria - Home of Old Beliefs
+MAP	MAP_HRI_I00	Inn
+MAP	MAP_HRI_I01	Inn - Guest Room
+MAP	MAP_HRI_T00	Village
+LOC	HRV	Hellawes - Tranquil Boreal Capital	Hellawes - Tranquil Boreal Capital
+MAP	MAP_HRV_I00	Sanctuary
+MAP	MAP_HRV_I01	Tavern
+MAP	MAP_HRV_I02	Storehouse
+MAP	MAP_HRV_I03	Inn
+MAP	MAP_HRV_I04	Inn - Guest Room
+MAP	MAP_HRV_P00	Docks
+MAP	MAP_HRV_T00	City
+LOC	IBL	Yvolg Ruins - Forgotten Edifice	Yvolg Ruins
+MAP	MAP_IBL_D00	Entrance
+MAP	MAP_IBL_D01	Upper Level - Passage
+MAP	MAP_IBL_D02	Middle Level - Dead End
+MAP	MAP_IBL_D03	Middle Level - Forked Passage
+MAP	MAP_IBL_D04	Middle Level - Dead End
+MAP	MAP_IBL_D05	Middle Level - Dead End
+MAP	MAP_IBL_D10	Middle Level - Forked Passage
+MAP	MAP_IBL_D11	Middle Level - Passage
+MAP	MAP_IBL_D12	Middle Level - Passage
+MAP	MAP_IBL_D13	Middle Level - Way to the Depths
+MAP	MAP_IBL_D20	Deepest Depths
+LOC	IZR	Yseult - City of the Southern Seas	Yseult - City of the Southern Seas
+MAP	MAP_IZR_I00	Sanctuary
+MAP	MAP_IZR_I01	Tavern
+MAP	MAP_IZR_I02	Inn
+MAP	MAP_IZR_P00	Docks
+MAP	MAP_IZR_T00	Front Gates
+MAP	MAP_IZR_T01	City
+LOC	KNN	Innominat - Incarnation in the Sky	Innominat
+MAP	MAP_KNN_D00	Between Heaven and Earth
+MAP	MAP_KNN_D01	Telluric Ring - Lower Level
+MAP	MAP_KNN_D02	Telluric Ring - Central Level
+MAP	MAP_KNN_D03	Telluric Ring - Upper Level
+MAP	MAP_KNN_D04	Sublime Ring - 5th Layer
+MAP	MAP_KNN_D05	Sublime Ring - 2nd Layer
+MAP	MAP_KNN_D06	Sublime Ring - 1st Layer
+MAP	MAP_KNN_D07	Sublime Ring - 4th Layer
+MAP	MAP_KNN_D08	Sublime Ring - 3rd Layer
+MAP	MAP_KNN_D10	Cosmic Earthpulse - Lower Level
+MAP	MAP_KNN_D11	Cosmic Earthpulse - Central Level
+MAP	MAP_KNN_D12	Cosmic Earthpulse - Upper Level
+LOC	KRC		
+MAP	MAP_KRC_D00	Entrance
+MAP	MAP_KRC_D01	Frozen Cavern
+MAP	MAP_KRC_D02	Chamber of Purgatory
+MAP	MAP_KRC_D03	Cauldron Depths - Lower Level
+MAP	MAP_KRC_D04	Cauldron Depths - Upper Level
+MAP	MAP_KRC_D05	Cauldron Depths - The Pit
+LOC	KRR	Mount Killaraus - Lifespring Font	Mount Killaraus
+MAP	MAP_KRR_D00	Snowy Path
+MAP	MAP_KRR_D01	Cauldron
+MAP	MAP_KRR_D02	Mountainside
+MAP	MAP_KRR_D03	Summit
+LOC	LNL	Lionel Island Wharf - The Frontier	Lionel Island Wharf
+MAP	MAP_LNL_P00	Lionel Island Wharf
+LOC	MCL	Maclir Beach - Thundering Southern Seas	Maclir Beach
+MAP	MAP_MCL_F00	Rock Gate Beach
+MAP	MAP_MCL_F01	Boulder Beach
+MAP	MAP_MCL_F02	Ruins Exterior - Beach
+LOC	MEI	Meirchio - City of Ice and Snow	Meirchio - City of Ice and Snow
+MAP	MAP_MEI_I00	Sanctuary
+MAP	MAP_MEI_I01	Inn
+MAP	MAP_MEI_I02	Inn - Guest Room
+MAP	MAP_MEI_P00	Docks
+MAP	MAP_MEI_T00	City
+LOC	MNA	Manann Reef - Wondrous Rock Formations	Manann Reef
+MAP	MAP_MNA_D00	Reef Entrance
+MAP	MAP_MNA_D01	Great Reef Path
+MAP	MAP_MNA_D02	Far Shore Vista
+MAP	MAP_MNA_D03	Sea Crossing
+MAP	MAP_MNA_D04	Reef Outer Path
+MAP	MAP_MNA_D05	Path to Ruins
+LOC	MRG	Morgana Woods - Crimson Sea of Trees	Morgana Woods
+MAP	MAP_MRG_D00	Western Entrance
+MAP	MAP_MRG_D01	Forked Path
+MAP	MAP_MRG_D02	Side Path
+MAP	MAP_MRG_D03	Central Area
+MAP	MAP_MRG_D04	Small Hall
+MAP	MAP_MRG_D05	Fishing Hole
+MAP	MAP_MRG_D06	Eastern Entrance
+MAP	MAP_MRG_D07	Lair of the Beast
+LOC	NOG	Fens of Nog - Secluded Waters	Fens of Nog
+MAP	MAP_NOG_F00	Fens of Nog
+LOC	PRM	Palamides Temple - Southern Ruins	Palamides Temple
+MAP	MAP_PRM_D00	Entrance
+MAP	MAP_PRM_D01	Small Room
+MAP	MAP_PRM_D02	Small Room
+MAP	MAP_PRM_D03	Depths
+MAP	MAP_PRM_D04	West Stair Hall
+MAP	MAP_PRM_D05	East Stair Hall
+MAP	MAP_PRM_D06	Deepest Depths
+LOC	PRN	Perniya Cliffside Path - Along the Silent Shores	Perniya Cliffside Path
+MAP	MAP_PRN_F00	Taliesin Exterior
+MAP	MAP_PRN_F01	Lake Shore Path
+MAP	MAP_PRN_F02	Aball Exterior
+LOC	RBN		
+MAP	MAP_RBN_D00	Coast Side Entrance
+MAP	MAP_RBN_D01	Ivy-Covered Cave
+MAP	MAP_RBN_D03	Forked Path
+MAP	MAP_RBN_D04	Cave Detour
+MAP	MAP_RBN_D05	Cliffside Cave Path
+MAP	MAP_RBN_D06	Plateau-Side Entrance
+MAP	MAP_RBN_D10	Plateau-Side Entrance
+MAP	MAP_RBN_D11	Dead End
+MAP	MAP_RBN_D12	Twisting Caves
+MAP	MAP_RBN_D20	Deepest Depths
+LOC	RDP		
+MAP	MAP_RDP_I00	Storehouse
+MAP	MAP_RDP_P00	Docks
+LOC	RGL	Loegres - Jewel of the Empire	Loegres - Jewel of the Empire
+MAP	MAP_RGL_I00	Sanctuary
+MAP	MAP_RGL_I01	Tavern
+MAP	MAP_RGL_I02	Inn
+MAP	MAP_RGL_I03	Tavern - Small Room
+MAP	MAP_RGL_T00	Outside Front Gates
+MAP	MAP_RGL_T01	Fountain Plaza
+MAP	MAP_RGL_T02	Castle Exterior
+MAP	MAP_RGL_T03	In Front of Sanctuary
+LOC	RGP	Loegres Villa - Abbey Command	Loegres Villa
+MAP	MAP_RGP_D00	Library
+MAP	MAP_RGP_D01	Small Room
+MAP	MAP_RGP_D02	Small Room
+MAP	MAP_RGP_D03	Small Room
+MAP	MAP_RGP_D04	Corridor
+MAP	MAP_RGP_D05	Corridor
+MAP	MAP_RGP_D06	Worship Hall
+MAP	MAP_RGP_D07	Deepest Depths
+LOC	RND	Reneed - Waterside Village	Reneed - Waterside Village
+MAP	MAP_RND_I00	Inn
+MAP	MAP_RND_I01	Inn - Guest Room
+MAP	MAP_RND_T00	Village
+LOC	SNG	The Empyrean's Throne - A New Temple	Empyrean's Throne
+MAP	MAP_SNG_D00	Outer Garden
+MAP	MAP_SNG_D01	Upper Temple
+LOC	SNM	Tranquil Woods - Autumn-Colored Forest	Tranquil Woods
+MAP	MAP_SNM_D00	Forest Interior
+MAP	MAP_SNM_D01	Shrine of Tranquility
+LOC	STB	Stonebury - Pioneer Settlement	Stonebury - Pioneer Settlement
+MAP	MAP_STB_I00	Inn
+MAP	MAP_STB_T00	Village
+LOC	SXN	Port Zekson - Crossroads of Commerce	Port Zekson
+MAP	MAP_SXN_I00	Storehouse
+MAP	MAP_SXN_I01	Inn
+MAP	MAP_SXN_P00	Docks
+LOC	TOW	Lothringen - Tower of the Exorcists	Lothringen - Tower of the Exorcists
+MAP	MAP_TOW_T00	Interior
+LOC	TRE	Taliesin - Cliff City of the East	Taliesin - Cliff City of the East
+MAP	MAP_TRE_I00	Sanctuary
+MAP	MAP_TRE_I01	Tavern
+MAP	MAP_TRE_I02	Inn
+MAP	MAP_TRE_I03	Inn - Guest Room
+MAP	MAP_TRE_P00	Docks
+MAP	MAP_TRE_T00	City
+LOC	TTN	Titania - Island Prison	Titania - Island Prison
+MAP	MAP_TTN_D00	Front Entrance
+MAP	MAP_TTN_D01	Back Entrance
+MAP	MAP_TTN_D02	Corridor
+MAP	MAP_TTN_D03	North Watchtower
+MAP	MAP_TTN_D05	Passage to the Outer Path
+MAP	MAP_TTN_D06	South Watchtower
+MAP	MAP_TTN_D07	Small Room
+MAP	MAP_TTN_D10	B1 - Corridor
+MAP	MAP_TTN_D11	B1 - Cells
+MAP	MAP_TTN_D12	B1 - Cells
+MAP	MAP_TTN_D13	B1 - Small Room
+MAP	MAP_TTN_D20	B2 - Corridor
+MAP	MAP_TTN_D21	B2 - Cells
+MAP	MAP_TTN_D30	B3 - High-Security Cells
+MAP	MAP_TTN_D50	Front Docks
+MAP	MAP_TTN_D51	Back Docks
+MAP	MAP_TTN_D52	Outer Path
+LOC	UDG	Barona Catacombs - City Drainage System	Barona Catacombs
+MAP	MAP_UDG_D00	B1 - City Side
+MAP	MAP_UDG_D01	B2 - City Side - Western Passage
+MAP	MAP_UDG_D02	B2 - City Side - Hidden Chamber
+MAP	MAP_UDG_D03	B3
+MAP	MAP_UDG_D04	B2 - Villa Side
+MAP	MAP_UDG_D05	B2 - Villa Side - Hidden Chamber
+MAP	MAP_UDG_D06	B1 - Villa Side
+MAP	MAP_UDG_D11	B2 - City Side - Eastern Passage
+LOC	VST	Vester Tunnels - Old Mining Site	Vester Tunnels
+MAP	MAP_VST_D00	Ravine-Side Entrance
+MAP	MAP_VST_D01	Tunnel Belly Chamber
+MAP	MAP_VST_D02	Southern Passage
+MAP	MAP_VST_D03	Hidden Passage
+MAP	MAP_VST_D04	Central Area
+MAP	MAP_VST_D05	Tunnel Hall
+MAP	MAP_VST_D06	Hidden Passage
+MAP	MAP_VST_D07	Passage Crossing
+MAP	MAP_VST_D08	Deepest Depths
+MAP	MAP_VST_D09	Kurogane's Workshop
+MAP	MAP_VST_D10	Port-Side Entrance
+MAP	MAP_VST_D11	Southeastern Area
+MAP	MAP_VST_D12	Eastern Area
+MAP	MAP_VST_D13	Hidden Passage
+LOC	VTG	Vortigern - Sea Gate Fortress	Vortigern - Sea Gate Fortress
+MAP	MAP_VTG_D00	Southwest Service Passage
+MAP	MAP_VTG_D01	Southern Central Gate Passage
+MAP	MAP_VTG_D02	Northeast Passage
+MAP	MAP_VTG_D03	Central Docks Passage
+MAP	MAP_VTG_D04	Central Gate Passage
+MAP	MAP_VTG_D05	West Gate - Southern Chamber
+MAP	MAP_VTG_D06	West Gate - Northern Chamber
+MAP	MAP_VTG_D07	East Gate - Southern Chamber
+MAP	MAP_VTG_D08	East Gate - Northern Chamber
+MAP	MAP_VTG_D09	Control Room
+MAP	MAP_VTG_D50	Western Span
+MAP	MAP_VTG_D51	Eastern Span
+MAP	MAP_VTG_D52	Western Sea Gate Roof
+LOC	WRG	Warg Forest - Emerald Labyrinth	Warg Forest
+MAP	MAP_WRG_D00	Entrance
+MAP	MAP_WRG_D01	Path to the Central Area
+MAP	MAP_WRG_D02	Three-Way Fork
+MAP	MAP_WRG_D03	Northern Fork
+MAP	MAP_WRG_D04	Central Fork
+MAP	MAP_WRG_D05	Southern Fork
+MAP	MAP_WRG_D07	Depths
+MAP	MAP_WRG_D08	Deepest Depths
+LOC	ZMR	Zamahl Grotto - Den of Daemons	Zamahl Grotto
+MAP	MAP_ZMR_D00	Entrance
+MAP	MAP_ZMR_D01	Eastern Area
+MAP	MAP_ZMR_D02	Central Area
+MAP	MAP_ZMR_D03	Southern Area
+MAP	MAP_ZMR_D04	Western Area
+MAP	MAP_ZMR_D05	Northern Area
+LOC	ZZZ	Test Location + Animation	Test + Animation
+MAP	MAP_ZZZ_777	Test Map 777

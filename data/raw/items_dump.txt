@@ -1,0 +1,982 @@
+{"label":"ITEMNO_ALL_DIVIDE","id":16777224,"name":"All-Divide","cat":1,"kind":2,"rank":8,"price":20000,"flag":2}
+{"label":"ITEMNO_APPLE_GUMMI","id":16777217,"name":"Apple Gel","cat":1,"kind":1,"rank":1,"price":100,"flag":3}
+{"label":"ITEMNO_ARCANA_BOTTLE","id":16777227,"name":"Arcane Bottle","cat":1,"kind":2,"rank":7,"price":40000,"flag":2}
+{"label":"ITEMNO_BAG01","id":67108886,"name":"Weathered Bag","cat":4,"kind":14,"rank":1,"price":265,"flag":0}
+{"label":"ITEMNO_BAG02","id":67108887,"name":"Amber Bag","cat":4,"kind":14,"rank":2,"price":306,"flag":0}
+{"label":"ITEMNO_BAG03","id":67108888,"name":"Mercury Satchel","cat":4,"kind":14,"rank":3,"price":428,"flag":0}
+{"label":"ITEMNO_BAG04","id":67108889,"name":"Calcite Bag","cat":4,"kind":14,"rank":4,"price":490,"flag":0}
+{"label":"ITEMNO_BAG05","id":67108890,"name":"Venus Satchel","cat":4,"kind":14,"rank":5,"price":683,"flag":0}
+{"label":"ITEMNO_BAG06","id":67108891,"name":"Fluoric Bag","cat":4,"kind":14,"rank":6,"price":785,"flag":0}
+{"label":"ITEMNO_BAG07","id":67108892,"name":"Mars Satchel","cat":4,"kind":14,"rank":7,"price":1102,"flag":0}
+{"label":"ITEMNO_BAG08","id":67108893,"name":"Amphibole Bag","cat":4,"kind":14,"rank":8,"price":1255,"flag":0}
+{"label":"ITEMNO_BAG09","id":67108894,"name":"Jupiter Satchel","cat":4,"kind":14,"rank":9,"price":1714,"flag":0}
+{"label":"ITEMNO_BAG10","id":67108895,"name":"Feldspar Bag","cat":4,"kind":14,"rank":10,"price":1948,"flag":0}
+{"label":"ITEMNO_BAG11","id":67108896,"name":"Saturn Satchel","cat":4,"kind":14,"rank":11,"price":2693,"flag":0}
+{"label":"ITEMNO_BAG12","id":67108897,"name":"Quartz Bag","cat":4,"kind":14,"rank":12,"price":3080,"flag":0}
+{"label":"ITEMNO_BAG13","id":67108898,"name":"Uranus Satchel","cat":4,"kind":14,"rank":13,"price":4284,"flag":0}
+{"label":"ITEMNO_BAG14","id":67108899,"name":"Topaz Bag","cat":4,"kind":14,"rank":14,"price":4865,"flag":0}
+{"label":"ITEMNO_BAG15","id":67108900,"name":"Neptune Satchel","cat":4,"kind":14,"rank":15,"price":6763,"flag":0}
+{"label":"ITEMNO_BAG16","id":67108901,"name":"Mythril Bag","cat":4,"kind":14,"rank":16,"price":7701,"flag":0}
+{"label":"ITEMNO_BAG17","id":67108902,"name":"Pluto Satchel","cat":4,"kind":14,"rank":17,"price":9506,"flag":0}
+{"label":"ITEMNO_BAG18","id":67108903,"name":"Adamantine Bag","cat":4,"kind":14,"rank":18,"price":10435,"flag":0}
+{"label":"ITEMNO_BAG19","id":67108904,"name":"Solar Satchel","cat":4,"kind":14,"rank":19,"price":11363,"flag":0}
+{"label":"ITEMNO_BAG20","id":67108905,"name":"Galactic Satchel","cat":4,"kind":14,"rank":20,"price":12750,"flag":0}
+{"label":"ITEMNO_BAG21","id":67108906,"name":"Unnamed Bag","cat":4,"kind":14,"rank":21,"price":14382,"flag":1024}
+{"label":"ITEMNO_BELT01","id":67108865,"name":"Sturdy Belt","cat":4,"kind":13,"rank":1,"price":286,"flag":0}
+{"label":"ITEMNO_BELT02","id":67108866,"name":"Amber Belt","cat":4,"kind":13,"rank":2,"price":330,"flag":0}
+{"label":"ITEMNO_BELT03","id":67108867,"name":"Aphrodite Sash","cat":4,"kind":13,"rank":3,"price":462,"flag":0}
+{"label":"ITEMNO_BELT04","id":67108868,"name":"Calcite Belt","cat":4,"kind":13,"rank":4,"price":528,"flag":0}
+{"label":"ITEMNO_BELT05","id":67108869,"name":"Belle de Dom Sash","cat":4,"kind":13,"rank":5,"price":737,"flag":0}
+{"label":"ITEMNO_BELT06","id":67108870,"name":"Fluoric Belt","cat":4,"kind":13,"rank":6,"price":847,"flag":0}
+{"label":"ITEMNO_BELT07","id":67108871,"name":"Cassandra Sash","cat":4,"kind":13,"rank":7,"price":1188,"flag":0}
+{"label":"ITEMNO_BELT08","id":67108872,"name":"Amphibole Belt","cat":4,"kind":13,"rank":8,"price":1353,"flag":0}
+{"label":"ITEMNO_BELT09","id":67108873,"name":"Duftwolke Sash","cat":4,"kind":13,"rank":9,"price":1848,"flag":0}
+{"label":"ITEMNO_BELT10","id":67108874,"name":"Feldspar Belt","cat":4,"kind":13,"rank":10,"price":2101,"flag":0}
+{"label":"ITEMNO_BELT11","id":67108875,"name":"Edelweiss Sash","cat":4,"kind":13,"rank":11,"price":2904,"flag":0}
+{"label":"ITEMNO_BELT12","id":67108876,"name":"Quartz Belt","cat":4,"kind":13,"rank":12,"price":3322,"flag":0}
+{"label":"ITEMNO_BELT13","id":67108877,"name":"Francois Rabelais Sash","cat":4,"kind":13,"rank":13,"price":4620,"flag":0}
+{"label":"ITEMNO_BELT14","id":67108878,"name":"Topaz Belt","cat":4,"kind":13,"rank":14,"price":5247,"flag":0}
+{"label":"ITEMNO_BELT15","id":67108879,"name":"Gloire des Mousseux Sash","cat":4,"kind":13,"rank":15,"price":7293,"flag":0}
+{"label":"ITEMNO_BELT16","id":67108880,"name":"Mythril Belt","cat":4,"kind":13,"rank":16,"price":8305,"flag":0}
+{"label":"ITEMNO_BELT17","id":67108881,"name":"Helmut Schmidt Sash","cat":4,"kind":13,"rank":17,"price":10252,"flag":0}
+{"label":"ITEMNO_BELT18","id":67108882,"name":"Adamantine Belt","cat":4,"kind":13,"rank":18,"price":11253,"flag":0}
+{"label":"ITEMNO_BELT19","id":67108883,"name":"Intrigue Sash","cat":4,"kind":13,"rank":19,"price":12254,"flag":0}
+{"label":"ITEMNO_BELT20","id":67108884,"name":"Jeanne d'Arc Sash","cat":4,"kind":13,"rank":20,"price":13750,"flag":0}
+{"label":"ITEMNO_BELT21","id":67108885,"name":"Unnamed Belt","cat":4,"kind":13,"rank":21,"price":15510,"flag":1024}
+{"label":"ITEMNO_BLADE01","id":50331649,"name":"Blood Blade","cat":3,"kind":7,"rank":1,"price":260,"flag":0}
+{"label":"ITEMNO_BLADE02","id":50331650,"name":"Amber Blade","cat":3,"kind":7,"rank":2,"price":300,"flag":0}
+{"label":"ITEMNO_BLADE03","id":50331651,"name":"Beast Fang","cat":3,"kind":7,"rank":3,"price":420,"flag":0}
+{"label":"ITEMNO_BLADE04","id":50331652,"name":"Calcite Blade","cat":3,"kind":7,"rank":4,"price":480,"flag":0}
+{"label":"ITEMNO_BLADE05","id":50331653,"name":"Shell Shredder","cat":3,"kind":7,"rank":5,"price":670,"flag":0}
+{"label":"ITEMNO_BLADE06","id":50331654,"name":"Fluoric Blade","cat":3,"kind":7,"rank":6,"price":770,"flag":0}
+{"label":"ITEMNO_BLADE07","id":50331655,"name":"Demon's Cleaver","cat":3,"kind":7,"rank":7,"price":1080,"flag":0}
+{"label":"ITEMNO_BLADE08","id":50331656,"name":"Amphibole Blade","cat":3,"kind":7,"rank":8,"price":1230,"flag":0}
+{"label":"ITEMNO_BLADE09","id":50331657,"name":"Snakebite","cat":3,"kind":7,"rank":9,"price":1680,"flag":0}
+{"label":"ITEMNO_BLADE10","id":50331658,"name":"Feldspar Blade","cat":3,"kind":7,"rank":10,"price":1910,"flag":0}
+{"label":"ITEMNO_BLADE11","id":50331659,"name":"Wing Harvester","cat":3,"kind":7,"rank":11,"price":2640,"flag":0}
+{"label":"ITEMNO_BLADE12","id":50331660,"name":"Quartz Blade","cat":3,"kind":7,"rank":12,"price":3020,"flag":0}
+{"label":"ITEMNO_BLADE13","id":50331661,"name":"Fury Piercer","cat":3,"kind":7,"rank":13,"price":4200,"flag":0}
+{"label":"ITEMNO_BLADE14","id":50331662,"name":"Topaz Blade","cat":3,"kind":7,"rank":14,"price":4770,"flag":0}
+{"label":"ITEMNO_BLADE15","id":50331663,"name":"Fonon Blade","cat":3,"kind":7,"rank":15,"price":6630,"flag":0}
+{"label":"ITEMNO_BLADE16","id":50331664,"name":"Mythril Blade","cat":3,"kind":7,"rank":16,"price":7550,"flag":0}
+{"label":"ITEMNO_BLADE17","id":50331665,"name":"Purified Blade","cat":3,"kind":7,"rank":17,"price":9320,"flag":0}
+{"label":"ITEMNO_BLADE18","id":50331666,"name":"Adamantine Blade","cat":3,"kind":7,"rank":18,"price":10230,"flag":0}
+{"label":"ITEMNO_BLADE19","id":50331667,"name":"Demon's Bane","cat":3,"kind":7,"rank":19,"price":11140,"flag":0}
+{"label":"ITEMNO_BLADE20","id":50331668,"name":"Dragon Slayer","cat":3,"kind":7,"rank":20,"price":12500,"flag":0}
+{"label":"ITEMNO_BLADE21","id":50331669,"name":"Unnamed Blade","cat":3,"kind":7,"rank":21,"price":15910,"flag":1024}
+{"label":"ITEMNO_BOOTS01","id":117440513,"name":"Battle Boots","cat":7,"kind":22,"rank":1,"price":309,"flag":0}
+{"label":"ITEMNO_BOOTS02","id":117440514,"name":"Amber Boots","cat":7,"kind":22,"rank":2,"price":357,"flag":0}
+{"label":"ITEMNO_BOOTS04","id":117440515,"name":"Calcite Boots","cat":7,"kind":22,"rank":4,"price":571,"flag":0}
+{"label":"ITEMNO_BOOTS06","id":117440516,"name":"Fluoric Boots","cat":7,"kind":22,"rank":6,"price":916,"flag":0}
+{"label":"ITEMNO_BOOTS08","id":117440517,"name":"Amphibole Boots","cat":7,"kind":22,"rank":8,"price":1464,"flag":0}
+{"label":"ITEMNO_BOOTS10","id":117440518,"name":"Feldspar Boots","cat":7,"kind":22,"rank":10,"price":2273,"flag":0}
+{"label":"ITEMNO_BOOTS12","id":117440519,"name":"Quartz Boots","cat":7,"kind":22,"rank":12,"price":3594,"flag":0}
+{"label":"ITEMNO_BOOTS14","id":117440520,"name":"Topaz Boots","cat":7,"kind":22,"rank":14,"price":5676,"flag":0}
+{"label":"ITEMNO_BOOTS16","id":117440521,"name":"Mythril Boots","cat":7,"kind":22,"rank":16,"price":8985,"flag":0}
+{"label":"ITEMNO_BOOTS18","id":117440522,"name":"Adamantine Boots","cat":7,"kind":22,"rank":18,"price":12174,"flag":0}
+{"label":"ITEMNO_BOOTS21","id":117440523,"name":"Unnamed Boots","cat":7,"kind":22,"rank":21,"price":15827,"flag":1024}
+{"label":"ITEMNO_CHAMOMILE","id":16777235,"name":"Chamomile","cat":1,"kind":3,"rank":2,"price":10000,"flag":1}
+{"label":"ITEMNO_CRYS_ABIUP_SAME","id":184549436,"name":"Repeating Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABLMANY2","id":184549433,"name":"Twin Blade Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABLMANY3","id":184549434,"name":"Trident Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_BG","id":184549406,"name":"Seer's Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_BREAKGUARD","id":184549421,"name":"Disruptor's Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_BURNING","id":184549409,"name":"Smoldering Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_CHARGE","id":184549424,"name":"Roaring Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_DYING","id":184549418,"name":"Glacite of Reversal","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_ELM_ATK","id":184549415,"name":"Elemental-Attuned Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_ELM_DEF","id":184549417,"name":"Elemental-Dispersing Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_HEAL","id":184549405,"name":"Vampire's Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_HERO","id":184549425,"name":"Juggernaut's Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_ITEMTIME","id":184549407,"name":"Adept's Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_LEARN","id":184549416,"name":"Apprentice's Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_PARALYZE","id":184549408,"name":"Numbing Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_PHOENIX","id":184549426,"name":"Phoenix Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_POISON","id":184549411,"name":"Envenoming Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_PRIVENT","id":184549419,"name":"Preserver's Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_REFLECT","id":184549422,"name":"Mirrored Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_SGHALF","id":184549420,"name":"Miser's Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_SLOW","id":184549410,"name":"Burdening Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_STATUS","id":184549404,"name":"Prodigy's Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_STUNLONG","id":184549423,"name":"Dazing Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_TRIBE0","id":184549413,"name":"Terrestrial Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_TRIBE1","id":184549414,"name":"Celestial Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ABL_WASTE","id":184549412,"name":"Wearying Glacite","cat":11,"kind":28,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BREAK_CHARGE","id":184549384,"name":"Guardbreaker's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILD10","id":184549446,"name":"Grandmaster Smith's Acerite","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILD3","id":184549443,"name":"Novice Smith's Acerite","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILD6","id":184549444,"name":"Journeyman Smith's Acerite","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILD9","id":184549445,"name":"Master Smith's Acerite","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL10","id":184549448,"name":"Armory Acerite II","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL15","id":184549449,"name":"Armory Acerite III","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL20","id":184549450,"name":"Armory Acerite IV","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL25","id":184549451,"name":"Armory Acerite V","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL30","id":184549452,"name":"Armory Acerite VI","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL35","id":184549453,"name":"Armory Acerite VII","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL40","id":184549454,"name":"Armory Acerite VIII","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL45","id":184549455,"name":"Armory Acerite IX","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL5","id":184549447,"name":"Armory Acerite I","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILDTOTAL50","id":184549456,"name":"Armory Acerite X","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_BUILD_DOWN","id":184549458,"name":"Haggler's Acerite","cat":11,"kind":31,"rank":0,"price":0,"flag":36}
+{"label":"ITEMNO_CRYS_COUNT_TREASURE","id":184549381,"name":"Clairvoyant's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_CRACK10","id":184549459,"name":"Sovereign Acerite","cat":11,"kind":31,"rank":0,"price":0,"flag":68}
+{"label":"ITEMNO_CRYS_CRACK_DOUBLE","id":184549457,"name":"Alchemist's Acerite","cat":11,"kind":31,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_DOUBLEMYSTIC1","id":184549395,"name":"Ventite of Blade and Paper","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_DOUBLEMYSTIC2","id":184549396,"name":"Ventite of Dagger and Fist","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_DOUBLEMYSTIC3","id":184549397,"name":"Ventite of Guardian and Lance","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_DROPUP_100UNDER","id":184549439,"name":"Organizing Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_DROPUP_EQUIP","id":184549435,"name":"Ignicite of Affinity","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_DROPUP_NEW","id":184549440,"name":"Pioneering Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_DROPUP_NODROP1","id":184549438,"name":"Hopeful Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_DROPUP_NODROP2","id":184549441,"name":"Longing Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_DROPUP_UNIQUE","id":184549442,"name":"Anomalous Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_ENCOUNT_CHAIN","id":184549380,"name":"Marathoner's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_FIRST_STUN","id":184549389,"name":"Scout's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_HEALUP","id":184549392,"name":"Hero's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_MYSTIC_CHARGE","id":184549390,"name":"Luminary's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_MYSTIC_GUARD","id":184549388,"name":"Defender's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_OPEN_RANK2","id":184549427,"name":"Intermediate Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_OPEN_RANK3","id":184549428,"name":"Superior Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_OPEN_RANK4","id":184549429,"name":"Elite Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_PRESS01","id":184549461,"name":"Warrior's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_PRESS02","id":184549462,"name":"Wizard's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_RANK_CHAOS","id":184549394,"name":"Lunatic's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_RANK_EVIL","id":184549393,"name":"Villain's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_REVENGE_SOUL","id":184549460,"name":"Avenger's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_SAMEUP","id":184549437,"name":"Mimicking Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_SHIFT_SKILL","id":184549463,"name":"Virtuoso's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_SKY_RECOVERY","id":184549387,"name":"Acrobat's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_SNIPE_CHARGE","id":184549383,"name":"Sharpshooter's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_SOUL_CHARGE","id":184549382,"name":"Paladin's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_SOUL_DIVIDE","id":184549391,"name":"Survivor's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_SPEEDUP01","id":184549377,"name":"Wanderer's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_SPEEDUP02","id":184549378,"name":"Courier's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_SPEEDUP03","id":184549379,"name":"Sprinter's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_UP_RANK2","id":184549430,"name":"Aspirant's Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_UP_RANK3","id":184549431,"name":"Expert's Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_UP_RANK4","id":184549432,"name":"Champion's Ignicite","cat":11,"kind":30,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_WEAK_CHAIN","id":184549385,"name":"Oppressor's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_CRYS_WONDERING_ENEMY","id":184549386,"name":"Daredevil's Ventite","cat":11,"kind":29,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_DAGGER01","id":50331691,"name":"Shadow Daggers","cat":3,"kind":9,"rank":1,"price":286,"flag":0}
+{"label":"ITEMNO_DAGGER01_SYS","id":50331775,"name":"Initial Event Item","cat":3,"kind":9,"rank":0,"price":1,"flag":520}
+{"label":"ITEMNO_DAGGER02","id":50331692,"name":"Amber Daggers","cat":3,"kind":9,"rank":2,"price":330,"flag":0}
+{"label":"ITEMNO_DAGGER03","id":50331693,"name":"Foreign Daggers","cat":3,"kind":9,"rank":3,"price":462,"flag":0}
+{"label":"ITEMNO_DAGGER04","id":50331694,"name":"Calcite Daggers","cat":3,"kind":9,"rank":4,"price":528,"flag":0}
+{"label":"ITEMNO_DAGGER05","id":50331695,"name":"Scorching Daggers","cat":3,"kind":9,"rank":5,"price":737,"flag":0}
+{"label":"ITEMNO_DAGGER06","id":50331696,"name":"Fluoric Daggers","cat":3,"kind":9,"rank":6,"price":847,"flag":0}
+{"label":"ITEMNO_DAGGER07","id":50331697,"name":"Gleaming Daggers","cat":3,"kind":9,"rank":7,"price":1188,"flag":0}
+{"label":"ITEMNO_DAGGER08","id":50331698,"name":"Amphibole Daggers","cat":3,"kind":9,"rank":8,"price":1353,"flag":0}
+{"label":"ITEMNO_DAGGER09","id":50331699,"name":"Cumbrous Daggers","cat":3,"kind":9,"rank":9,"price":1848,"flag":0}
+{"label":"ITEMNO_DAGGER10","id":50331700,"name":"Feldspar Daggers","cat":3,"kind":9,"rank":10,"price":2101,"flag":0}
+{"label":"ITEMNO_DAGGER11","id":50331701,"name":"Silent Daggers","cat":3,"kind":9,"rank":11,"price":2904,"flag":0}
+{"label":"ITEMNO_DAGGER12","id":50331702,"name":"Quartz Daggers","cat":3,"kind":9,"rank":12,"price":3322,"flag":0}
+{"label":"ITEMNO_DAGGER13","id":50331703,"name":"Spirit Daggers","cat":3,"kind":9,"rank":13,"price":4620,"flag":0}
+{"label":"ITEMNO_DAGGER14","id":50331704,"name":"Topaz Daggers","cat":3,"kind":9,"rank":14,"price":5247,"flag":0}
+{"label":"ITEMNO_DAGGER15","id":50331705,"name":"Flashing Daggers","cat":3,"kind":9,"rank":15,"price":7293,"flag":0}
+{"label":"ITEMNO_DAGGER16","id":50331706,"name":"Mythril Daggers","cat":3,"kind":9,"rank":16,"price":8305,"flag":0}
+{"label":"ITEMNO_DAGGER16_EVE","id":50331776,"name":"Kurogane Daggers","cat":3,"kind":9,"rank":15,"price":7777,"flag":4}
+{"label":"ITEMNO_DAGGER17","id":50331707,"name":"Stygian Daggers","cat":3,"kind":9,"rank":17,"price":10252,"flag":0}
+{"label":"ITEMNO_DAGGER18","id":50331708,"name":"Adamantine Daggers","cat":3,"kind":9,"rank":18,"price":11253,"flag":0}
+{"label":"ITEMNO_DAGGER19","id":50331709,"name":"Ephemeral Wings","cat":3,"kind":9,"rank":19,"price":12254,"flag":0}
+{"label":"ITEMNO_DAGGER20","id":50331710,"name":"Lunar Tempests","cat":3,"kind":9,"rank":20,"price":13750,"flag":0}
+{"label":"ITEMNO_DAGGER21","id":50331711,"name":"Unnamed Daggers","cat":3,"kind":9,"rank":21,"price":17501,"flag":1024}
+{"label":"ITEMNO_DARK_BOTTLE","id":16777229,"name":"Dark Bottle","cat":1,"kind":2,"rank":6,"price":200,"flag":1}
+{"label":"ITEMNO_DLC_004","id":167772202,"name":"School Days Velvet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_005","id":167772204,"name":"School Days Laphicet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_006","id":167772207,"name":"School Days Eleanor","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_007","id":167772203,"name":"School Days Rokurou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_008","id":167772206,"name":"School Days Magilou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_009","id":167772205,"name":"School Days Eizen","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_010","id":167772186,"name":"Summer Break Velvet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_011","id":167772188,"name":"Summer Break Laphicet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_012","id":167772191,"name":"Summer Break Eleanor","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_013","id":167772187,"name":"Summer Break Rokurou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_014","id":167772190,"name":"Summer Break Magilou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_015","id":167772189,"name":"Summer Break Eizen","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_016","id":167772173,"name":"EXTRA Skit No. 13","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_017","id":167772194,"name":"Sea Scourge Laphicet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_018","id":167772197,"name":"Sea Scourge Eleanor","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_019","id":167772193,"name":"Sea Scourge Rokurou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_020","id":167772196,"name":"Sea Scourge Magilou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_021","id":167772195,"name":"Sea Scourge Eizen","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_022","id":167772198,"name":"Traditional Japonese Velvet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_023","id":167772200,"name":"Traditional Japonese Eleanor","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_024","id":167772199,"name":"Traditional Japonese Magilou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_025","id":167772223,"name":"Menagerie Mode Velvet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_026","id":167772225,"name":"Menagerie Mode Eleanor","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_027","id":167772224,"name":"Menagerie Mode Magilou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_028","id":167772208,"name":"At Your Service Velvet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_029","id":167772210,"name":"At Your Service Laphicet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_030","id":167772213,"name":"At Your Service Eleanor","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_031","id":167772209,"name":"At Your Service Rokurou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_032","id":167772212,"name":"At Your Service Magilou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_033","id":167772211,"name":"At Your Service Eizen","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_034","id":167772214,"name":"Fairytale Velvet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_035","id":167772215,"name":"Fairytale Laphicet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_039","id":167772226,"name":"Tales Legacies Velvet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_040","id":167772228,"name":"Tales Legacies Laphicet","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_041","id":167772231,"name":"Tales Legacies Eleanor","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_042","id":167772227,"name":"Tales Legacies Rokurou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_043","id":167772230,"name":"Tales Legacies Magilou","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_044","id":167772229,"name":"Tales Legacies Eizen","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_055","id":167772216,"name":"Berseria Doll Set (Girls)","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_056","id":167772217,"name":"Berseria Doll Set (Boys)","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_057","id":167772218,"name":"Front Bangs Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_058","id":167772219,"name":"Rear Hairstyle Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_059","id":167772201,"name":"Angel Wings Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_060","id":167772220,"name":"Very Short Hair Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_061","id":167772221,"name":"Short Bob Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_062","id":167772232,"name":"Mieu Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_063","id":167772222,"name":"Geoboard Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_076","id":167772219,"name":"Rear Hairstyle Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_077","id":167772185,"name":"Red Herbs of Goodness","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_078","id":167772233,"name":"Lv. Up +5 (1)","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_079","id":167772234,"name":"Lv. Up +5 (2)","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_080","id":167772235,"name":"Lv. Up +5 (3)","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_081","id":167772236,"name":"Lv. Up +5 (4)","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_082","id":167772237,"name":"Lv. Up +10 (1)","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_083","id":167772238,"name":"Lv. Up +10 (2)","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_101","id":167772178,"name":"Adventure Item Pack 1","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_102","id":167772179,"name":"Adventure Item Pack 2","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_103","id":167772180,"name":"Adventure Item Pack 3","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_104","id":167772181,"name":"Adventure Item Pack 4","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_105","id":167772182,"name":"Adventure Item Pack 5","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_106","id":167772183,"name":"Adventure Item Pack 6","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_107","id":167772239,"name":"Super Adventuring Assistance Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_108","id":167772240,"name":"Super Growth Support Herb Set","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_001","id":167772161,"name":"EXTRA Skit No. 1","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_002","id":167772162,"name":"EXTRA Skit No. 2","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_003","id":167772163,"name":"EXTRA Skit No. 3","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_004","id":167772164,"name":"EXTRA Skit No. 4","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_005","id":167772165,"name":"EXTRA Skit No. 5","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_006","id":167772166,"name":"EXTRA Skit No. 6","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_007","id":167772167,"name":"EXTRA Skit No. 7","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_008","id":167772168,"name":"EXTRA Skit No. 8","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_009","id":167772169,"name":"EXTRA Skit No. 9","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_010","id":167772170,"name":"EXTRA Skit No. 10","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_011","id":167772171,"name":"EXTRA Skit No. 11","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_012","id":167772172,"name":"EXTRA Skit No. 12","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_013","id":167772173,"name":"EXTRA Skit No. 13","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_014","id":167772174,"name":"EXTRA Skit No. 14","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_015","id":167772175,"name":"EXTRA Skit No. 15","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_016","id":167772176,"name":"EXTRA Skit No. 16","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DLC_EXTRA_CHAT_017","id":167772177,"name":"EXTRA Skit No. 17","cat":10,"kind":34,"rank":0,"price":0,"flag":4125}
+{"label":"ITEMNO_DOLL01","id":50331733,"name":"Weathered Guardian","cat":3,"kind":11,"rank":1,"price":283,"flag":0}
+{"label":"ITEMNO_DOLL02","id":50331734,"name":"Amber Doll","cat":3,"kind":11,"rank":2,"price":327,"flag":0}
+{"label":"ITEMNO_DOLL03","id":50331735,"name":"Chocolate Idol","cat":3,"kind":11,"rank":3,"price":458,"flag":0}
+{"label":"ITEMNO_DOLL04","id":50331736,"name":"Calcite Doll","cat":3,"kind":11,"rank":4,"price":523,"flag":0}
+{"label":"ITEMNO_DOLL05","id":50331737,"name":"Guardian Doll","cat":3,"kind":11,"rank":5,"price":730,"flag":0}
+{"label":"ITEMNO_DOLL06","id":50331738,"name":"Fluoric Doll","cat":3,"kind":11,"rank":6,"price":839,"flag":0}
+{"label":"ITEMNO_DOLL07","id":50331739,"name":"Lulu Doll","cat":3,"kind":11,"rank":7,"price":1177,"flag":0}
+{"label":"ITEMNO_DOLL08","id":50331740,"name":"Amphibole Doll","cat":3,"kind":11,"rank":8,"price":1341,"flag":0}
+{"label":"ITEMNO_DOLL09","id":50331741,"name":"Gradient Doll","cat":3,"kind":11,"rank":9,"price":1831,"flag":0}
+{"label":"ITEMNO_DOLL10","id":50331742,"name":"Feldspar Doll","cat":3,"kind":11,"rank":10,"price":2082,"flag":0}
+{"label":"ITEMNO_DOLL11","id":50331743,"name":"Witching Hour","cat":3,"kind":11,"rank":11,"price":2878,"flag":0}
+{"label":"ITEMNO_DOLL12","id":50331744,"name":"Quartz Doll","cat":3,"kind":11,"rank":12,"price":3292,"flag":0}
+{"label":"ITEMNO_DOLL13","id":50331745,"name":"Accordion Doll","cat":3,"kind":11,"rank":13,"price":4578,"flag":0}
+{"label":"ITEMNO_DOLL14","id":50331746,"name":"Topaz Doll","cat":3,"kind":11,"rank":14,"price":5199,"flag":0}
+{"label":"ITEMNO_DOLL15","id":50331747,"name":"Secret Agent Doll","cat":3,"kind":11,"rank":15,"price":7227,"flag":0}
+{"label":"ITEMNO_DOLL16","id":50331748,"name":"Mythril Doll","cat":3,"kind":11,"rank":16,"price":8230,"flag":0}
+{"label":"ITEMNO_DOLL17","id":50331749,"name":"Two-Sided Doll","cat":3,"kind":11,"rank":17,"price":10159,"flag":0}
+{"label":"ITEMNO_DOLL18","id":50331750,"name":"Adamantine Doll","cat":3,"kind":11,"rank":18,"price":11151,"flag":0}
+{"label":"ITEMNO_DOLL19","id":50331751,"name":"Corpore Sano","cat":3,"kind":11,"rank":19,"price":12143,"flag":0}
+{"label":"ITEMNO_DOLL20","id":50331752,"name":"Doppelganger","cat":3,"kind":11,"rank":20,"price":13625,"flag":0}
+{"label":"ITEMNO_DOLL21","id":50331753,"name":"Unnamed Guardian","cat":3,"kind":11,"rank":21,"price":17342,"flag":1024}
+{"label":"ITEMNO_DUN_ESCAPE_BOTTLE","id":16777242,"name":"Denore Bottle","cat":1,"kind":2,"rank":2,"price":500,"flag":0}
+{"label":"ITEMNO_ELIXIR","id":16777221,"name":"Elixir","cat":1,"kind":2,"rank":11,"price":530000,"flag":3}
+{"label":"ITEMNO_FISHING_BAIT_000","id":16777245,"name":"Hawkroach","cat":1,"kind":36,"rank":1,"price":10,"flag":64}
+{"label":"ITEMNO_FISHING_BAIT_001","id":16777246,"name":"Cat-Eared Wriggler","cat":1,"kind":36,"rank":5,"price":30,"flag":64}
+{"label":"ITEMNO_FISHING_BAIT_002","id":16777247,"name":"Emperor Ant","cat":1,"kind":36,"rank":10,"price":100,"flag":64}
+{"label":"ITEMNO_GARMENT01","id":83886102,"name":"Battle Garment","cat":5,"kind":20,"rank":1,"price":299,"flag":0}
+{"label":"ITEMNO_GARMENT02","id":83886103,"name":"Amber Garment","cat":5,"kind":20,"rank":2,"price":345,"flag":0}
+{"label":"ITEMNO_GARMENT03","id":83886104,"name":"Silky Smooth Garment","cat":5,"kind":20,"rank":3,"price":483,"flag":0}
+{"label":"ITEMNO_GARMENT04","id":83886105,"name":"Calcite Garment","cat":5,"kind":20,"rank":4,"price":552,"flag":0}
+{"label":"ITEMNO_GARMENT05","id":83886106,"name":"Middy Blouse","cat":5,"kind":20,"rank":5,"price":771,"flag":0}
+{"label":"ITEMNO_GARMENT06","id":83886107,"name":"Fluoric Garment","cat":5,"kind":20,"rank":6,"price":886,"flag":0}
+{"label":"ITEMNO_GARMENT07","id":83886108,"name":"Garish Pink Shirt","cat":5,"kind":20,"rank":7,"price":1242,"flag":0}
+{"label":"ITEMNO_GARMENT08","id":83886109,"name":"Amphibole Garment","cat":5,"kind":20,"rank":8,"price":1415,"flag":0}
+{"label":"ITEMNO_GARMENT09","id":83886110,"name":"Crimson Veil","cat":5,"kind":20,"rank":9,"price":1932,"flag":0}
+{"label":"ITEMNO_GARMENT10","id":83886111,"name":"Feldspar Garment","cat":5,"kind":20,"rank":10,"price":2197,"flag":0}
+{"label":"ITEMNO_GARMENT11","id":83886112,"name":"Pure White Veil","cat":5,"kind":20,"rank":11,"price":3036,"flag":0}
+{"label":"ITEMNO_GARMENT12","id":83886113,"name":"Quartz Garment","cat":5,"kind":20,"rank":12,"price":3473,"flag":0}
+{"label":"ITEMNO_GARMENT13","id":83886114,"name":"Mystical Feather Garment","cat":5,"kind":20,"rank":13,"price":4830,"flag":0}
+{"label":"ITEMNO_GARMENT14","id":83886115,"name":"Topaz Garment","cat":5,"kind":20,"rank":14,"price":5486,"flag":0}
+{"label":"ITEMNO_GARMENT15","id":83886116,"name":"Elder Garden","cat":5,"kind":20,"rank":15,"price":7625,"flag":0}
+{"label":"ITEMNO_GARMENT16","id":83886117,"name":"Mythril Garment","cat":5,"kind":20,"rank":16,"price":8683,"flag":0}
+{"label":"ITEMNO_GARMENT17","id":83886118,"name":"Survivor's Garb","cat":5,"kind":20,"rank":17,"price":10718,"flag":0}
+{"label":"ITEMNO_GARMENT18","id":83886119,"name":"Adamantine Garment","cat":5,"kind":20,"rank":18,"price":11765,"flag":0}
+{"label":"ITEMNO_GARMENT19","id":83886120,"name":"Uprising Veil","cat":5,"kind":20,"rank":19,"price":12547,"flag":0}
+{"label":"ITEMNO_GARMENT20","id":83886121,"name":"Empress Shield","cat":5,"kind":20,"rank":20,"price":13731,"flag":0}
+{"label":"ITEMNO_GARMENT21","id":83886122,"name":"Unnamed Garment","cat":5,"kind":20,"rank":21,"price":15295,"flag":1024}
+{"label":"ITEMNO_GLOVE01","id":67108970,"name":"Plain Pendant","cat":4,"kind":18,"rank":1,"price":273,"flag":0}
+{"label":"ITEMNO_GLOVE02","id":67108971,"name":"Amber Pendant","cat":4,"kind":18,"rank":2,"price":315,"flag":0}
+{"label":"ITEMNO_GLOVE03","id":67108972,"name":"Memory Locket","cat":4,"kind":18,"rank":3,"price":441,"flag":0}
+{"label":"ITEMNO_GLOVE04","id":67108973,"name":"Calcite Pendant","cat":4,"kind":18,"rank":4,"price":504,"flag":0}
+{"label":"ITEMNO_GLOVE05","id":67108974,"name":"Cross Blocker","cat":4,"kind":18,"rank":5,"price":704,"flag":0}
+{"label":"ITEMNO_GLOVE06","id":67108975,"name":"Fluoric Pendant","cat":4,"kind":18,"rank":6,"price":808,"flag":0}
+{"label":"ITEMNO_GLOVE07","id":67108976,"name":"Stream Chain","cat":4,"kind":18,"rank":7,"price":1134,"flag":0}
+{"label":"ITEMNO_GLOVE08","id":67108977,"name":"Amphibole Pendant","cat":4,"kind":18,"rank":8,"price":1292,"flag":0}
+{"label":"ITEMNO_GLOVE09","id":67108978,"name":"Express Pendant","cat":4,"kind":18,"rank":9,"price":1764,"flag":0}
+{"label":"ITEMNO_GLOVE10","id":67108979,"name":"Feldspar Pendant","cat":4,"kind":18,"rank":10,"price":2006,"flag":0}
+{"label":"ITEMNO_GLOVE11","id":67108980,"name":"Inexhaustible Pendant","cat":4,"kind":18,"rank":11,"price":2772,"flag":0}
+{"label":"ITEMNO_GLOVE12","id":67108981,"name":"Quartz Pendant","cat":4,"kind":18,"rank":12,"price":3171,"flag":0}
+{"label":"ITEMNO_GLOVE13","id":67108982,"name":"Pumper-Upper","cat":4,"kind":18,"rank":13,"price":4410,"flag":0}
+{"label":"ITEMNO_GLOVE14","id":67108983,"name":"Topaz Pendant","cat":4,"kind":18,"rank":14,"price":5008,"flag":0}
+{"label":"ITEMNO_GLOVE15","id":67108984,"name":"Clarity Pendant","cat":4,"kind":18,"rank":15,"price":6962,"flag":0}
+{"label":"ITEMNO_GLOVE16","id":67108985,"name":"Mythril Pendant","cat":4,"kind":18,"rank":16,"price":7928,"flag":0}
+{"label":"ITEMNO_GLOVE17","id":67108986,"name":"Gnome's Force","cat":4,"kind":18,"rank":17,"price":9786,"flag":0}
+{"label":"ITEMNO_GLOVE18","id":67108987,"name":"Adamantine Pendant","cat":4,"kind":18,"rank":18,"price":10742,"flag":0}
+{"label":"ITEMNO_GLOVE19","id":67108988,"name":"Sylph's Invitation","cat":4,"kind":18,"rank":19,"price":11697,"flag":0}
+{"label":"ITEMNO_GLOVE20","id":67108989,"name":"Undine's Heart","cat":4,"kind":18,"rank":20,"price":13125,"flag":0}
+{"label":"ITEMNO_GLOVE21","id":67108990,"name":"Unnamed Pendant","cat":4,"kind":18,"rank":21,"price":14805,"flag":1024}
+{"label":"ITEMNO_GRAPE_GUMMI","id":16777219,"name":"Grape Gel","cat":1,"kind":1,"rank":9,"price":2000,"flag":3}
+{"label":"ITEMNO_HOLY_BOTTLE","id":16777228,"name":"Holy Bottle","cat":1,"kind":2,"rank":3,"price":200,"flag":1}
+{"label":"ITEMNO_HOUR_GLASS","id":16777225,"name":"Hourglass","cat":1,"kind":2,"rank":10,"price":50000,"flag":2}
+{"label":"ITEMNO_LAVENDER","id":16777231,"name":"Lavender","cat":1,"kind":3,"rank":2,"price":10000,"flag":1}
+{"label":"ITEMNO_LEAF01","id":50331670,"name":"Grace Sheet","cat":3,"kind":8,"rank":1,"price":281,"flag":0}
+{"label":"ITEMNO_LEAF02","id":50331671,"name":"Amber Paper","cat":3,"kind":8,"rank":2,"price":324,"flag":0}
+{"label":"ITEMNO_LEAF03","id":50331672,"name":"Plain Paper","cat":3,"kind":8,"rank":3,"price":454,"flag":0}
+{"label":"ITEMNO_LEAF04","id":50331673,"name":"Calcite Paper","cat":3,"kind":8,"rank":4,"price":518,"flag":0}
+{"label":"ITEMNO_LEAF05","id":50331674,"name":"Bamboo Stack","cat":3,"kind":8,"rank":5,"price":724,"flag":0}
+{"label":"ITEMNO_LEAF06","id":50331675,"name":"Fluoric Paper","cat":3,"kind":8,"rank":6,"price":832,"flag":0}
+{"label":"ITEMNO_LEAF07","id":50331676,"name":"Silky Paper","cat":3,"kind":8,"rank":7,"price":1166,"flag":0}
+{"label":"ITEMNO_LEAF08","id":50331677,"name":"Amphibole Paper","cat":3,"kind":8,"rank":8,"price":1328,"flag":0}
+{"label":"ITEMNO_LEAF09","id":50331678,"name":"Secret Histories","cat":3,"kind":8,"rank":9,"price":1814,"flag":0}
+{"label":"ITEMNO_LEAF10","id":50331679,"name":"Feldspar Paper","cat":3,"kind":8,"rank":10,"price":2063,"flag":0}
+{"label":"ITEMNO_LEAF11","id":50331680,"name":"Sharp-Edged Paper","cat":3,"kind":8,"rank":11,"price":2851,"flag":0}
+{"label":"ITEMNO_LEAF12","id":50331681,"name":"Quartz Paper","cat":3,"kind":8,"rank":12,"price":3262,"flag":0}
+{"label":"ITEMNO_LEAF13","id":50331682,"name":"Old Flyers","cat":3,"kind":8,"rank":13,"price":4536,"flag":0}
+{"label":"ITEMNO_LEAF14","id":50331683,"name":"Topaz Paper","cat":3,"kind":8,"rank":14,"price":5152,"flag":0}
+{"label":"ITEMNO_LEAF15","id":50331684,"name":"Direct Appeal Paperwork","cat":3,"kind":8,"rank":15,"price":7160,"flag":0}
+{"label":"ITEMNO_LEAF16","id":50331685,"name":"Mythril Paper","cat":3,"kind":8,"rank":16,"price":8154,"flag":0}
+{"label":"ITEMNO_LEAF17","id":50331686,"name":"Ember Paper","cat":3,"kind":8,"rank":17,"price":10066,"flag":0}
+{"label":"ITEMNO_LEAF18","id":50331687,"name":"Adamantine Paper","cat":3,"kind":8,"rank":18,"price":11048,"flag":0}
+{"label":"ITEMNO_LEAF19","id":50331688,"name":"Ragnarok","cat":3,"kind":8,"rank":19,"price":12031,"flag":0}
+{"label":"ITEMNO_LEAF20","id":50331689,"name":"Lost Parlance","cat":3,"kind":8,"rank":20,"price":13500,"flag":0}
+{"label":"ITEMNO_LEAF21","id":50331690,"name":"Unnamed Paper","cat":3,"kind":8,"rank":21,"price":17183,"flag":1024}
+{"label":"ITEMNO_LIFE_BOTTLE","id":16777223,"name":"Life Bottle","cat":1,"kind":2,"rank":2,"price":300,"flag":2}
+{"label":"ITEMNO_MAP_SHORTCUT_BOTTLE","id":16777243,"name":"Inoph Bottle","cat":1,"kind":2,"rank":2,"price":500,"flag":0}
+{"label":"ITEMNO_MATE_BASE01","id":33554433,"name":"Amber Fragment","cat":2,"kind":5,"rank":0,"price":100,"flag":64}
+{"label":"ITEMNO_MATE_BASE02","id":33554434,"name":"Calcite Fragment","cat":2,"kind":5,"rank":0,"price":400,"flag":64}
+{"label":"ITEMNO_MATE_BASE03","id":33554435,"name":"Fluorite Fragment","cat":2,"kind":5,"rank":0,"price":700,"flag":64}
+{"label":"ITEMNO_MATE_BASE04","id":33554436,"name":"Amphibole Fragment","cat":2,"kind":5,"rank":0,"price":1000,"flag":64}
+{"label":"ITEMNO_MATE_BASE05","id":33554437,"name":"Feldspar Fragment","cat":2,"kind":5,"rank":0,"price":1300,"flag":64}
+{"label":"ITEMNO_MATE_BASE06","id":33554438,"name":"Quartz Fragment","cat":2,"kind":5,"rank":0,"price":1600,"flag":64}
+{"label":"ITEMNO_MATE_BASE07","id":33554439,"name":"Topaz Fragment","cat":2,"kind":5,"rank":0,"price":1900,"flag":64}
+{"label":"ITEMNO_MATE_BASE08","id":33554440,"name":"Mythril Fragment","cat":2,"kind":5,"rank":0,"price":2200,"flag":64}
+{"label":"ITEMNO_MATE_BASE09","id":33554441,"name":"Adamantine Fragment","cat":2,"kind":5,"rank":0,"price":2500,"flag":64}
+{"label":"ITEMNO_MATE_BUILD01","id":33554451,"name":"Coarse Tempering Powder","cat":2,"kind":5,"rank":0,"price":1000,"flag":64}
+{"label":"ITEMNO_MATE_BUILD02","id":33554452,"name":"Standard Tempering Powder","cat":2,"kind":5,"rank":0,"price":10000,"flag":64}
+{"label":"ITEMNO_MATE_BUILD03","id":33554453,"name":"Fine Tempering Powder","cat":2,"kind":5,"rank":0,"price":100000,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_000","id":33554455,"name":"Marbled Prickleboar Meat","cat":2,"kind":6,"rank":1,"price":48,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_001","id":33554456,"name":"Lizard Tail","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_002","id":33554457,"name":"Albatross Meat","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_003","id":33554458,"name":"Mystery Meat","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_004","id":33554459,"name":"Barbatos Butter","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_005","id":33554460,"name":"Mole Meat","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_006","id":33554461,"name":"Rappig Meat","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_007","id":33554462,"name":"Wyvern Tendon","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_008","id":33554463,"name":"Mythic Egg","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_009","id":33554464,"name":"Normin Carrot","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_010","id":33554465,"name":"Cabbage","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_011","id":33554466,"name":"Spinach","cat":2,"kind":6,"rank":1,"price":880,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_012","id":33554467,"name":"Fluffy Milk","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_013","id":33554468,"name":"Celery","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_014","id":33554469,"name":"Zucchini","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_015","id":33554471,"name":"Melon","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_016","id":33554472,"name":"Tofu","cat":2,"kind":6,"rank":1,"price":240,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_017","id":33554473,"name":"Potato","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_018","id":33554474,"name":"Legendary Tofu","cat":2,"kind":6,"rank":1,"price":1120,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_019","id":33554475,"name":"Seashell Pasta","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_020","id":33554476,"name":"Special Miso","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_021","id":33554477,"name":"Tuna","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_022","id":33554478,"name":"Twin Shark","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_023","id":33554479,"name":"Octopus","cat":2,"kind":6,"rank":1,"price":360,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_024","id":33554480,"name":"Dream Herring","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_025","id":33554481,"name":"Rainbow Nautilus","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_026","id":33554482,"name":"Giant Squid","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_027","id":33554470,"name":"Roe","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_028","id":33554483,"name":"Gale and Razor Rice","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_029","id":33554484,"name":"Vanilla Beans","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_100","id":33554485,"name":"Rock Salt","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_101","id":33554486,"name":"Sugar","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_102","id":33554487,"name":"Nutmeg","cat":2,"kind":6,"rank":1,"price":48,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_103","id":33554488,"name":"Pepper","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_104","id":33554489,"name":"Bread Crumbs","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_105","id":33554490,"name":"Lemon","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_106","id":33554491,"name":"Garlic","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_107","id":33554492,"name":"Tomato","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_108","id":33554493,"name":"Mussel","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_109","id":33554494,"name":"Cured Anchovy","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_110","id":33554495,"name":"Doubanjiang","cat":2,"kind":6,"rank":1,"price":240,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_111","id":33554496,"name":"Legendary Doubanjiang","cat":2,"kind":6,"rank":1,"price":1120,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_112","id":33554497,"name":"Soy Sauce","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_113","id":33554498,"name":"Naturally Brewed Soy Sauce","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_114","id":33554499,"name":"Mayonnaise","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_115","id":33554500,"name":"Worcestershire Sauce","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_116","id":33554501,"name":"Okonomi Sauce","cat":2,"kind":6,"rank":1,"price":360,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_117","id":33554502,"name":"Ketchup","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_118","id":33554503,"name":"Wine","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_119","id":33554504,"name":"Balsamic Vinegar","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_120","id":33554505,"name":"Sake","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_121","id":33554506,"name":"Premium Sake","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_122","id":33554507,"name":"Olive Oil","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_123","id":33554508,"name":"Virgin Olive Oil","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_124","id":33554509,"name":"Fresh Milk","cat":2,"kind":6,"rank":1,"price":880,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_125","id":33554510,"name":"Rich Premium Milk","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_126","id":33554511,"name":"Premium Aged Cheese","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_127","id":33554512,"name":"Chocolate Sauce","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_128","id":33554513,"name":"Golden Bouillon","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_FOOD_129","id":33554514,"name":"Leek","cat":2,"kind":6,"rank":0,"price":0,"flag":64}
+{"label":"ITEMNO_MATE_RANK00","id":33554446,"name":"Odorless Fluid","cat":2,"kind":5,"rank":0,"price":3000,"flag":64}
+{"label":"ITEMNO_MATE_RANK01","id":33554447,"name":"Balmy Fluid","cat":2,"kind":5,"rank":0,"price":1000,"flag":64}
+{"label":"ITEMNO_MATE_RANK02","id":33554448,"name":"Mellow Fluid","cat":2,"kind":5,"rank":0,"price":4000,"flag":64}
+{"label":"ITEMNO_MATE_RANK03","id":33554449,"name":"Pungent Fluid","cat":2,"kind":5,"rank":0,"price":7000,"flag":64}
+{"label":"ITEMNO_MATE_RANK04","id":33554450,"name":"Funky Fluid","cat":2,"kind":5,"rank":0,"price":10000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_000","id":33554515,"name":"Chipped Copper Coin","cat":2,"kind":35,"rank":0,"price":100,"flag":64}
+{"label":"ITEMNO_MATE_SELL_001","id":33554516,"name":"Tarnished Silver Coin","cat":2,"kind":35,"rank":0,"price":1500,"flag":64}
+{"label":"ITEMNO_MATE_SELL_002","id":33554517,"name":"Comfrey","cat":2,"kind":35,"rank":0,"price":700,"flag":64}
+{"label":"ITEMNO_MATE_SELL_003","id":33554518,"name":"Lingzhi Mushroom","cat":2,"kind":35,"rank":0,"price":900,"flag":64}
+{"label":"ITEMNO_MATE_SELL_004","id":33554521,"name":"Broken Artifact","cat":2,"kind":35,"rank":0,"price":200,"flag":64}
+{"label":"ITEMNO_MATE_SELL_005","id":33554519,"name":"Lovely Seashell","cat":2,"kind":35,"rank":0,"price":400,"flag":64}
+{"label":"ITEMNO_MATE_SELL_006","id":33554520,"name":"Coral Branch","cat":2,"kind":35,"rank":0,"price":1100,"flag":64}
+{"label":"ITEMNO_MATE_SELL_007","id":33554522,"name":"Ore Fragment","cat":2,"kind":35,"rank":0,"price":200,"flag":64}
+{"label":"ITEMNO_MATE_SELL_008","id":33554523,"name":"Flamestone Chip","cat":2,"kind":35,"rank":0,"price":100,"flag":64}
+{"label":"ITEMNO_MATE_SELL_009","id":33554524,"name":"Rough Gemstone","cat":2,"kind":35,"rank":0,"price":2170000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_100","id":33554528,"name":"Pirate Flag: Nameless","cat":2,"kind":35,"rank":0,"price":600,"flag":64}
+{"label":"ITEMNO_MATE_SELL_101","id":33554529,"name":"Pirate Flag: Storm Crew","cat":2,"kind":35,"rank":0,"price":900,"flag":64}
+{"label":"ITEMNO_MATE_SELL_102","id":33554530,"name":"Pirate Flag: Seiren Crew","cat":2,"kind":35,"rank":0,"price":1300,"flag":64}
+{"label":"ITEMNO_MATE_SELL_103","id":33554531,"name":"Pirate Flag: Sea Snakes","cat":2,"kind":35,"rank":0,"price":1700,"flag":64}
+{"label":"ITEMNO_MATE_SELL_104","id":33554532,"name":"Pirate Flag: Drake & Co.","cat":2,"kind":35,"rank":0,"price":1900,"flag":64}
+{"label":"ITEMNO_MATE_SELL_105","id":33554533,"name":"Pirate Flag: Mirage Crew","cat":2,"kind":35,"rank":0,"price":2200,"flag":64}
+{"label":"ITEMNO_MATE_SELL_106","id":33554534,"name":"Pirate Flag: Barracuda Crew","cat":2,"kind":35,"rank":0,"price":2600,"flag":64}
+{"label":"ITEMNO_MATE_SELL_107","id":33554535,"name":"Pirate Flag: Hound Hunters","cat":2,"kind":35,"rank":0,"price":3100,"flag":64}
+{"label":"ITEMNO_MATE_SELL_108","id":33554536,"name":"Pirate Flag: Morrigan Crew","cat":2,"kind":35,"rank":0,"price":3600,"flag":64}
+{"label":"ITEMNO_MATE_SELL_109","id":33554537,"name":"Pirate Flag: Cachalot Crew","cat":2,"kind":35,"rank":0,"price":4000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_110","id":33554538,"name":"Pirate Flag: Bastion Crew","cat":2,"kind":35,"rank":0,"price":4400,"flag":64}
+{"label":"ITEMNO_MATE_SELL_111","id":33554539,"name":"Pirate Flag: Legionis Crew","cat":2,"kind":35,"rank":0,"price":5000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_112","id":33554540,"name":"Pirate Flag: Atlas Crew","cat":2,"kind":35,"rank":0,"price":5600,"flag":64}
+{"label":"ITEMNO_MATE_SELL_113","id":33554541,"name":"Pirate Flag: Catnip Crew","cat":2,"kind":35,"rank":0,"price":7000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_114","id":33554542,"name":"Pirate Flag: Swashbuckler Crew","cat":2,"kind":35,"rank":0,"price":9000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_115","id":33554543,"name":"Pirate Flag: Renault Crew","cat":2,"kind":35,"rank":0,"price":11000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_116","id":33554544,"name":"Pirate Flag: Rolling Crew","cat":2,"kind":35,"rank":0,"price":16000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_117","id":33554545,"name":"Pirate Flag: Neptune's Navy","cat":2,"kind":35,"rank":0,"price":26000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_118","id":33554546,"name":"Pirate Flag: Cumulonimbus Crew","cat":2,"kind":35,"rank":0,"price":40000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_119","id":33554547,"name":"Pirate Flag: Oceanus Crew","cat":2,"kind":35,"rank":0,"price":60000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_120","id":33554548,"name":"Sea Monster Matter","cat":2,"kind":35,"rank":0,"price":1200,"flag":64}
+{"label":"ITEMNO_MATE_SELL_121","id":33554549,"name":"Ramfish Horn","cat":2,"kind":35,"rank":0,"price":1800,"flag":64}
+{"label":"ITEMNO_MATE_SELL_122","id":33554550,"name":"Nautilus Shell","cat":2,"kind":35,"rank":0,"price":2600,"flag":64}
+{"label":"ITEMNO_MATE_SELL_123","id":33554551,"name":"Rapid Ray Fin","cat":2,"kind":35,"rank":0,"price":3400,"flag":64}
+{"label":"ITEMNO_MATE_SELL_124","id":33554552,"name":"Stalwart Crab Shell","cat":2,"kind":35,"rank":0,"price":3800,"flag":64}
+{"label":"ITEMNO_MATE_SELL_125","id":33554553,"name":"Sea Wolf Fang","cat":2,"kind":35,"rank":0,"price":4400,"flag":64}
+{"label":"ITEMNO_MATE_SELL_126","id":33554554,"name":"Bombill Beak","cat":2,"kind":35,"rank":0,"price":5200,"flag":64}
+{"label":"ITEMNO_MATE_SELL_127","id":33554555,"name":"Lockjaw Fang","cat":2,"kind":35,"rank":0,"price":6200,"flag":64}
+{"label":"ITEMNO_MATE_SELL_128","id":33554556,"name":"Ghost Ship's Anchor","cat":2,"kind":35,"rank":0,"price":7200,"flag":64}
+{"label":"ITEMNO_MATE_SELL_129","id":33554557,"name":"Brookite Fish Fin","cat":2,"kind":35,"rank":0,"price":8000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_130","id":33554558,"name":"Rock-Headed Fish Helmet","cat":2,"kind":35,"rank":0,"price":8800,"flag":64}
+{"label":"ITEMNO_MATE_SELL_131","id":33554559,"name":"Sail-Winged Eagle Feather","cat":2,"kind":35,"rank":0,"price":10000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_132","id":33554560,"name":"Lantern Jellyfish Stinger","cat":2,"kind":35,"rank":0,"price":11200,"flag":64}
+{"label":"ITEMNO_MATE_SELL_133","id":33554561,"name":"Tesla Fish Scale","cat":2,"kind":35,"rank":0,"price":14000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_134","id":33554562,"name":"Oblivion Butterfly Wing-Plate","cat":2,"kind":35,"rank":0,"price":18000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_135","id":33554563,"name":"Bladefish Dorsal Fin","cat":2,"kind":35,"rank":0,"price":22000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_136","id":33554564,"name":"Redbeard Kraken Eye","cat":2,"kind":35,"rank":0,"price":32000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_137","id":33554565,"name":"Yamato Whale Whisker","cat":2,"kind":35,"rank":0,"price":52000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_138","id":33554566,"name":"Poseidon Spine","cat":2,"kind":35,"rank":0,"price":80000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_139","id":33554567,"name":"Glinting Glitterfish Glitter","cat":2,"kind":35,"rank":0,"price":120000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_140","id":33554568,"name":"Dried Fish","cat":2,"kind":35,"rank":0,"price":300,"flag":64}
+{"label":"ITEMNO_MATE_SELL_141","id":33554569,"name":"Flower Badge","cat":2,"kind":35,"rank":0,"price":440,"flag":64}
+{"label":"ITEMNO_MATE_SELL_142","id":33554570,"name":"Animal Figurine","cat":2,"kind":35,"rank":0,"price":640,"flag":64}
+{"label":"ITEMNO_MATE_SELL_143","id":33554571,"name":"Fake Food","cat":2,"kind":35,"rank":0,"price":840,"flag":64}
+{"label":"ITEMNO_MATE_SELL_144","id":33554572,"name":"Lunar Eclipse Tears","cat":2,"kind":35,"rank":0,"price":940,"flag":64}
+{"label":"ITEMNO_MATE_SELL_145","id":33554573,"name":"Small Conqueror Statue","cat":2,"kind":35,"rank":0,"price":1100,"flag":64}
+{"label":"ITEMNO_MATE_SELL_146","id":33554574,"name":"Sleepy-Princess Picture Book","cat":2,"kind":35,"rank":0,"price":1300,"flag":64}
+{"label":"ITEMNO_MATE_SELL_147","id":33554575,"name":"Lucky Cat","cat":2,"kind":35,"rank":0,"price":1540,"flag":64}
+{"label":"ITEMNO_MATE_SELL_148","id":33554576,"name":"Moonstone","cat":2,"kind":35,"rank":0,"price":1800,"flag":64}
+{"label":"ITEMNO_MATE_SELL_149","id":33554577,"name":"Princess Stories Collection","cat":2,"kind":35,"rank":0,"price":2000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_150","id":33554578,"name":"Gemini Shell","cat":2,"kind":35,"rank":0,"price":2200,"flag":64}
+{"label":"ITEMNO_MATE_SELL_151","id":33554579,"name":"Eau de Seduction","cat":2,"kind":35,"rank":0,"price":2500,"flag":64}
+{"label":"ITEMNO_MATE_SELL_152","id":33554580,"name":"Long Dau Dictionary","cat":2,"kind":35,"rank":0,"price":2800,"flag":64}
+{"label":"ITEMNO_MATE_SELL_153","id":33554581,"name":"Kitty Krisps","cat":2,"kind":35,"rank":0,"price":3500,"flag":64}
+{"label":"ITEMNO_MATE_SELL_154","id":33554582,"name":"Awesome Flag","cat":2,"kind":35,"rank":0,"price":4500,"flag":64}
+{"label":"ITEMNO_MATE_SELL_155","id":33554583,"name":"Tataroo Grass","cat":2,"kind":35,"rank":0,"price":5500,"flag":64}
+{"label":"ITEMNO_MATE_SELL_156","id":33554584,"name":"Gel de L'amour","cat":2,"kind":35,"rank":0,"price":8000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_157","id":33554585,"name":"Fine Woodblock Print","cat":2,"kind":35,"rank":0,"price":13000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_158","id":33554586,"name":"Lens","cat":2,"kind":35,"rank":0,"price":20000,"flag":64}
+{"label":"ITEMNO_MATE_SELL_159","id":33554587,"name":"Navigation Tool","cat":2,"kind":35,"rank":0,"price":30000,"flag":64}
+{"label":"ITEMNO_MATE_UNI01","id":33554442,"name":"Bronze Scrap","cat":2,"kind":5,"rank":0,"price":400,"flag":64}
+{"label":"ITEMNO_MATE_UNI02","id":33554443,"name":"Silver Scrap","cat":2,"kind":5,"rank":0,"price":1200,"flag":64}
+{"label":"ITEMNO_MATE_UNI03","id":33554444,"name":"Gold Scrap","cat":2,"kind":5,"rank":0,"price":2000,"flag":64}
+{"label":"ITEMNO_MATE_UNI04","id":33554445,"name":"Platinum Scrap","cat":2,"kind":5,"rank":0,"price":2800,"flag":64}
+{"label":"ITEMNO_MATE_UNI05","id":33554454,"name":"Void Scrap","cat":2,"kind":5,"rank":0,"price":2800,"flag":64}
+{"label":"ITEMNO_MELON_GUMMI","id":16777220,"name":"Melon Gel","cat":1,"kind":1,"rank":12,"price":100000,"flag":2}
+{"label":"ITEMNO_PANACEA_BOTTLE","id":16777222,"name":"Panacea Bottle","cat":1,"kind":2,"rank":3,"price":200,"flag":2}
+{"label":"ITEMNO_PEACH_GUMMI","id":16777218,"name":"Peach Gel","cat":1,"kind":1,"rank":5,"price":500,"flag":3}
+{"label":"ITEMNO_PIERCE01","id":67108949,"name":"Tarnished Earrings","cat":4,"kind":17,"rank":1,"price":263,"flag":0}
+{"label":"ITEMNO_PIERCE02","id":67108950,"name":"Amber Earrings","cat":4,"kind":17,"rank":2,"price":303,"flag":0}
+{"label":"ITEMNO_PIERCE03","id":67108951,"name":"Succubus Horn Earrings","cat":4,"kind":17,"rank":3,"price":424,"flag":0}
+{"label":"ITEMNO_PIERCE04","id":67108952,"name":"Calcite Earrings","cat":4,"kind":17,"rank":4,"price":485,"flag":0}
+{"label":"ITEMNO_PIERCE05","id":67108953,"name":"Mana Earrings","cat":4,"kind":17,"rank":5,"price":677,"flag":0}
+{"label":"ITEMNO_PIERCE06","id":67108954,"name":"Fluoric Earrings","cat":4,"kind":17,"rank":6,"price":778,"flag":0}
+{"label":"ITEMNO_PIERCE07","id":67108955,"name":"Belphegor Earrings","cat":4,"kind":17,"rank":7,"price":1091,"flag":0}
+{"label":"ITEMNO_PIERCE08","id":67108956,"name":"Amphibole Earrings","cat":4,"kind":17,"rank":8,"price":1242,"flag":0}
+{"label":"ITEMNO_PIERCE09","id":67108957,"name":"Asmodeus Earrings","cat":4,"kind":17,"rank":9,"price":1697,"flag":0}
+{"label":"ITEMNO_PIERCE10","id":67108958,"name":"Feldspar Earrings","cat":4,"kind":17,"rank":10,"price":1929,"flag":0}
+{"label":"ITEMNO_PIERCE11","id":67108959,"name":"Beelzebub Earrings","cat":4,"kind":17,"rank":11,"price":2666,"flag":0}
+{"label":"ITEMNO_PIERCE12","id":67108960,"name":"Quartz Earrings","cat":4,"kind":17,"rank":12,"price":3050,"flag":0}
+{"label":"ITEMNO_PIERCE13","id":67108961,"name":"Satan's Wrath Earrings","cat":4,"kind":17,"rank":13,"price":4242,"flag":0}
+{"label":"ITEMNO_PIERCE14","id":67108962,"name":"Topaz Earrings","cat":4,"kind":17,"rank":14,"price":4818,"flag":0}
+{"label":"ITEMNO_PIERCE15","id":67108963,"name":"Leviathan Earrings","cat":4,"kind":17,"rank":15,"price":6696,"flag":0}
+{"label":"ITEMNO_PIERCE16","id":67108964,"name":"Mythril Earrings","cat":4,"kind":17,"rank":16,"price":7626,"flag":0}
+{"label":"ITEMNO_PIERCE17","id":67108965,"name":"Mammon's Rage Earrings","cat":4,"kind":17,"rank":17,"price":9413,"flag":0}
+{"label":"ITEMNO_PIERCE18","id":67108966,"name":"Adamantine Earrings","cat":4,"kind":17,"rank":18,"price":10332,"flag":0}
+{"label":"ITEMNO_PIERCE19","id":67108967,"name":"Lucifer's Pride Earrings","cat":4,"kind":17,"rank":19,"price":11251,"flag":0}
+{"label":"ITEMNO_PIERCE20","id":67108968,"name":"Lucky Rabbit Earrings","cat":4,"kind":17,"rank":20,"price":12625,"flag":0}
+{"label":"ITEMNO_PIERCE21","id":67108969,"name":"Unnamed Earrings","cat":4,"kind":17,"rank":21,"price":14241,"flag":1024}
+{"label":"ITEMNO_PUMPS03","id":117440534,"name":"Command Shoes","cat":7,"kind":24,"rank":3,"price":475,"flag":0}
+{"label":"ITEMNO_PUMPS05","id":117440535,"name":"Cute Pumps","cat":7,"kind":24,"rank":5,"price":757,"flag":0}
+{"label":"ITEMNO_PUMPS07","id":117440536,"name":"Cast Heels","cat":7,"kind":24,"rank":7,"price":1220,"flag":0}
+{"label":"ITEMNO_PUMPS09","id":117440537,"name":"Featherlight Steps","cat":7,"kind":24,"rank":9,"price":1898,"flag":0}
+{"label":"ITEMNO_PUMPS11","id":117440538,"name":"Runner's High","cat":7,"kind":24,"rank":11,"price":2983,"flag":0}
+{"label":"ITEMNO_PUMPS13","id":117440539,"name":"Hover Jet Boots","cat":7,"kind":24,"rank":13,"price":4746,"flag":0}
+{"label":"ITEMNO_PUMPS15","id":117440540,"name":"Shimmery Shoes","cat":7,"kind":24,"rank":15,"price":7492,"flag":0}
+{"label":"ITEMNO_PUMPS17","id":117440541,"name":"Pegasus Wings","cat":7,"kind":24,"rank":17,"price":10532,"flag":0}
+{"label":"ITEMNO_PUMPS19","id":117440542,"name":"Grounded Shoes","cat":7,"kind":24,"rank":19,"price":12328,"flag":0}
+{"label":"ITEMNO_PUMPS20","id":117440543,"name":"Queen Ellis Heels","cat":7,"kind":24,"rank":20,"price":13492,"flag":0}
+{"label":"ITEMNO_RED_CAMOMILE","id":16777241,"name":"Red Chamomile","cat":1,"kind":3,"rank":8,"price":20000,"flag":1}
+{"label":"ITEMNO_RED_LAVENDER","id":16777237,"name":"Red Lavender","cat":1,"kind":3,"rank":8,"price":20000,"flag":1}
+{"label":"ITEMNO_RED_ROSEMARY","id":16777239,"name":"Red Rosemary","cat":1,"kind":3,"rank":8,"price":20000,"flag":1}
+{"label":"ITEMNO_RED_SAFFRON","id":16777240,"name":"Red Saffron","cat":1,"kind":3,"rank":8,"price":20000,"flag":1}
+{"label":"ITEMNO_RED_SAGE","id":16777236,"name":"Red Sage","cat":1,"kind":3,"rank":8,"price":20000,"flag":1}
+{"label":"ITEMNO_RED_VERVAIN","id":16777238,"name":"Red Verbena","cat":1,"kind":3,"rank":8,"price":20000,"flag":1}
+{"label":"ITEMNO_RIBBON01","id":67108928,"name":"Frayed Ribbon","cat":4,"kind":16,"rank":1,"price":278,"flag":0}
+{"label":"ITEMNO_RIBBON02","id":67108929,"name":"Amber Ribbon","cat":4,"kind":16,"rank":2,"price":321,"flag":0}
+{"label":"ITEMNO_RIBBON03","id":67108930,"name":"Agitato","cat":4,"kind":16,"rank":3,"price":449,"flag":0}
+{"label":"ITEMNO_RIBBON04","id":67108931,"name":"Calcite Ribbon","cat":4,"kind":16,"rank":4,"price":514,"flag":0}
+{"label":"ITEMNO_RIBBON05","id":67108932,"name":"Tranquillo","cat":4,"kind":16,"rank":5,"price":717,"flag":0}
+{"label":"ITEMNO_RIBBON06","id":67108933,"name":"Fluoric Ribbon","cat":4,"kind":16,"rank":6,"price":824,"flag":0}
+{"label":"ITEMNO_RIBBON07","id":67108934,"name":"Simple Ribbon","cat":4,"kind":16,"rank":7,"price":1156,"flag":0}
+{"label":"ITEMNO_RIBBON08","id":67108935,"name":"Amphibole Ribbon","cat":4,"kind":16,"rank":8,"price":1316,"flag":0}
+{"label":"ITEMNO_RIBBON09","id":67108936,"name":"Capriccioso","cat":4,"kind":16,"rank":9,"price":1798,"flag":0}
+{"label":"ITEMNO_RIBBON10","id":67108937,"name":"Feldspar Ribbon","cat":4,"kind":16,"rank":10,"price":2044,"flag":0}
+{"label":"ITEMNO_RIBBON11","id":67108938,"name":"Con Fuoco","cat":4,"kind":16,"rank":11,"price":2825,"flag":0}
+{"label":"ITEMNO_RIBBON12","id":67108939,"name":"Quartz Ribbon","cat":4,"kind":16,"rank":12,"price":3231,"flag":0}
+{"label":"ITEMNO_RIBBON13","id":67108940,"name":"Spiritoso","cat":4,"kind":16,"rank":13,"price":4494,"flag":0}
+{"label":"ITEMNO_RIBBON14","id":67108941,"name":"Topaz Ribbon","cat":4,"kind":16,"rank":14,"price":5104,"flag":0}
+{"label":"ITEMNO_RIBBON15","id":67108942,"name":"Cantabile","cat":4,"kind":16,"rank":15,"price":7094,"flag":0}
+{"label":"ITEMNO_RIBBON16","id":67108943,"name":"Mythril Ribbon","cat":4,"kind":16,"rank":16,"price":8079,"flag":0}
+{"label":"ITEMNO_RIBBON17","id":67108944,"name":"Brillante","cat":4,"kind":16,"rank":17,"price":9972,"flag":0}
+{"label":"ITEMNO_RIBBON18","id":67108945,"name":"Adamant Ribbon","cat":4,"kind":16,"rank":18,"price":10946,"flag":0}
+{"label":"ITEMNO_RIBBON19","id":67108946,"name":"Perdendosi","cat":4,"kind":16,"rank":19,"price":11920,"flag":0}
+{"label":"ITEMNO_RIBBON20","id":67108947,"name":"Grandioso","cat":4,"kind":16,"rank":20,"price":13375,"flag":0}
+{"label":"ITEMNO_RIBBON21","id":67108948,"name":"Unnamed Ribbon","cat":4,"kind":16,"rank":21,"price":15087,"flag":1024}
+{"label":"ITEMNO_RING01","id":100663298,"name":"Void Ring","cat":6,"kind":21,"rank":1,"price":324,"flag":0}
+{"label":"ITEMNO_RING01_RES","id":100663297,"name":"Resistance Ring","cat":6,"kind":21,"rank":1,"price":312,"flag":0}
+{"label":"ITEMNO_RING02","id":100663299,"name":"Fire Ring","cat":6,"kind":21,"rank":2,"price":360,"flag":0}
+{"label":"ITEMNO_RING03","id":100663300,"name":"Earth Ring","cat":6,"kind":21,"rank":3,"price":468,"flag":0}
+{"label":"ITEMNO_RING04","id":100663301,"name":"Aqua Ring","cat":6,"kind":21,"rank":4,"price":576,"flag":0}
+{"label":"ITEMNO_RING05","id":100663302,"name":"Wind Ring","cat":6,"kind":21,"rank":5,"price":660,"flag":0}
+{"label":"ITEMNO_RING06","id":100663305,"name":"Shock Ward","cat":6,"kind":21,"rank":8,"price":1056,"flag":0}
+{"label":"ITEMNO_RING07","id":100663303,"name":"Flame Ward","cat":6,"kind":21,"rank":6,"price":756,"flag":0}
+{"label":"ITEMNO_RING08","id":100663304,"name":"Slow Ward","cat":6,"kind":21,"rank":7,"price":864,"flag":0}
+{"label":"ITEMNO_RING09","id":100663306,"name":"Poison Ward","cat":6,"kind":21,"rank":9,"price":1380,"flag":0}
+{"label":"ITEMNO_RING10","id":100663307,"name":"Fatigue Ward","cat":6,"kind":21,"rank":10,"price":1776,"flag":0}
+{"label":"ITEMNO_RING10_RES","id":100663308,"name":"Force Ring","cat":6,"kind":21,"rank":10,"price":2292,"flag":0}
+{"label":"ITEMNO_RING11","id":100663309,"name":"Animalia Ring","cat":6,"kind":21,"rank":11,"price":2976,"flag":0}
+{"label":"ITEMNO_RING12","id":100663310,"name":"Shell Ring","cat":6,"kind":21,"rank":12,"price":3624,"flag":0}
+{"label":"ITEMNO_RING13","id":100663311,"name":"Blob Ring","cat":6,"kind":21,"rank":13,"price":4716,"flag":0}
+{"label":"ITEMNO_RING14","id":100663312,"name":"Legless Ring","cat":6,"kind":21,"rank":14,"price":5724,"flag":0}
+{"label":"ITEMNO_RING15","id":100663313,"name":"Pinion Ring","cat":6,"kind":21,"rank":15,"price":7452,"flag":0}
+{"label":"ITEMNO_RING15_RES","id":100663314,"name":"Barrier Ring","cat":6,"kind":21,"rank":15,"price":9684,"flag":0}
+{"label":"ITEMNO_RING16","id":100663315,"name":"Anthro Ring","cat":6,"kind":21,"rank":16,"price":11184,"flag":0}
+{"label":"ITEMNO_RING17","id":100663316,"name":"Plated Ring","cat":6,"kind":21,"rank":17,"price":13092,"flag":0}
+{"label":"ITEMNO_RING18","id":100663317,"name":"Lich Ring","cat":6,"kind":21,"rank":18,"price":13368,"flag":0}
+{"label":"ITEMNO_RING19","id":100663318,"name":"Demon Ring","cat":6,"kind":21,"rank":19,"price":14328,"flag":0}
+{"label":"ITEMNO_RING20","id":100663319,"name":"Lindworm Ring","cat":6,"kind":21,"rank":20,"price":15000,"flag":0}
+{"label":"ITEMNO_RING21","id":100663320,"name":"Unnamed Ring","cat":6,"kind":21,"rank":21,"price":15960,"flag":1024}
+{"label":"ITEMNO_ROSEMARY","id":16777233,"name":"Rosemary","cat":1,"kind":3,"rank":2,"price":10000,"flag":1}
+{"label":"ITEMNO_SAFFRON","id":16777234,"name":"Saffron","cat":1,"kind":3,"rank":2,"price":10000,"flag":1}
+{"label":"ITEMNO_SAGE","id":16777230,"name":"Sage","cat":1,"kind":3,"rank":2,"price":10000,"flag":1}
+{"label":"ITEMNO_SHARK_BOTTLE","id":16777226,"name":"Drop Bottle","cat":1,"kind":2,"rank":9,"price":100000,"flag":2}
+{"label":"ITEMNO_SHOES03","id":117440524,"name":"Hard Shoes","cat":7,"kind":23,"rank":3,"price":487,"flag":0}
+{"label":"ITEMNO_SHOES05","id":117440525,"name":"Burning Dash","cat":7,"kind":23,"rank":5,"price":777,"flag":0}
+{"label":"ITEMNO_SHOES07","id":117440526,"name":"Spiked Shoes","cat":7,"kind":23,"rank":7,"price":1253,"flag":0}
+{"label":"ITEMNO_SHOES09","id":117440527,"name":"Resistance Shoes","cat":7,"kind":23,"rank":9,"price":1949,"flag":0}
+{"label":"ITEMNO_SHOES11","id":117440528,"name":"Protective Hops","cat":7,"kind":23,"rank":11,"price":3062,"flag":0}
+{"label":"ITEMNO_SHOES13","id":117440529,"name":"Military Hike","cat":7,"kind":23,"rank":13,"price":4872,"flag":0}
+{"label":"ITEMNO_SHOES15","id":117440530,"name":"Hypervelocity Boots","cat":7,"kind":23,"rank":15,"price":7691,"flag":0}
+{"label":"ITEMNO_SHOES17","id":117440531,"name":"Kaiser Road","cat":7,"kind":23,"rank":17,"price":10811,"flag":0}
+{"label":"ITEMNO_SHOES19","id":117440532,"name":"Gigant Shoes","cat":7,"kind":23,"rank":19,"price":12656,"flag":0}
+{"label":"ITEMNO_SHOES20","id":117440533,"name":"Turbulent Shoes","cat":7,"kind":23,"rank":20,"price":13850,"flag":0}
+{"label":"ITEMNO_SOUL_BOTTLE","id":16777244,"name":"Soul Bottle","cat":1,"kind":2,"rank":6,"price":20000,"flag":2}
+{"label":"ITEMNO_SPEAR01","id":50331712,"name":"Worn Spear","cat":3,"kind":10,"rank":1,"price":268,"flag":0}
+{"label":"ITEMNO_SPEAR02","id":50331713,"name":"Amber Spear","cat":3,"kind":10,"rank":2,"price":309,"flag":0}
+{"label":"ITEMNO_SPEAR03","id":50331714,"name":"War Pike","cat":3,"kind":10,"rank":3,"price":433,"flag":0}
+{"label":"ITEMNO_SPEAR04","id":50331715,"name":"Calcite Spear","cat":3,"kind":10,"rank":4,"price":494,"flag":0}
+{"label":"ITEMNO_SPEAR05","id":50331716,"name":"Halberd","cat":3,"kind":10,"rank":5,"price":690,"flag":0}
+{"label":"ITEMNO_SPEAR06","id":50331717,"name":"Fluoric Spear","cat":3,"kind":10,"rank":6,"price":793,"flag":0}
+{"label":"ITEMNO_SPEAR07","id":50331718,"name":"Mana Lance","cat":3,"kind":10,"rank":7,"price":1112,"flag":0}
+{"label":"ITEMNO_SPEAR08","id":50331719,"name":"Amphibole Spear","cat":3,"kind":10,"rank":8,"price":1267,"flag":0}
+{"label":"ITEMNO_SPEAR09","id":50331720,"name":"Trident","cat":3,"kind":10,"rank":9,"price":1730,"flag":0}
+{"label":"ITEMNO_SPEAR10","id":50331721,"name":"Feldspar Spear","cat":3,"kind":10,"rank":10,"price":1967,"flag":0}
+{"label":"ITEMNO_SPEAR11","id":50331722,"name":"Naginata","cat":3,"kind":10,"rank":11,"price":2719,"flag":0}
+{"label":"ITEMNO_SPEAR12","id":50331723,"name":"Quartz Spear","cat":3,"kind":10,"rank":12,"price":3111,"flag":0}
+{"label":"ITEMNO_SPEAR13","id":50331724,"name":"Valkyrie","cat":3,"kind":10,"rank":13,"price":4326,"flag":0}
+{"label":"ITEMNO_SPEAR14","id":50331725,"name":"Topaz Spear","cat":3,"kind":10,"rank":14,"price":4913,"flag":0}
+{"label":"ITEMNO_SPEAR15","id":50331726,"name":"Guandao","cat":3,"kind":10,"rank":15,"price":6829,"flag":0}
+{"label":"ITEMNO_SPEAR16","id":50331727,"name":"Mythril Spear","cat":3,"kind":10,"rank":16,"price":7776,"flag":0}
+{"label":"ITEMNO_SPEAR17","id":50331728,"name":"Ray Lance","cat":3,"kind":10,"rank":17,"price":9600,"flag":0}
+{"label":"ITEMNO_SPEAR18","id":50331729,"name":"Adamantine Spear","cat":3,"kind":10,"rank":18,"price":10537,"flag":0}
+{"label":"ITEMNO_SPEAR19","id":50331730,"name":"Final Scepter","cat":3,"kind":10,"rank":19,"price":11474,"flag":0}
+{"label":"ITEMNO_SPEAR20","id":50331731,"name":"Gáe Bolg","cat":3,"kind":10,"rank":20,"price":12875,"flag":0}
+{"label":"ITEMNO_SPEAR21","id":50331732,"name":"Nameless Spear","cat":3,"kind":10,"rank":21,"price":16387,"flag":1024}
+{"label":"ITEMNO_TALISMAN01","id":67108907,"name":"Twin Charm","cat":4,"kind":15,"rank":1,"price":260,"flag":0}
+{"label":"ITEMNO_TALISMAN02","id":67108908,"name":"Amber Talisman","cat":4,"kind":15,"rank":2,"price":300,"flag":0}
+{"label":"ITEMNO_TALISMAN03","id":67108909,"name":"Foreign Talisman","cat":4,"kind":15,"rank":3,"price":420,"flag":0}
+{"label":"ITEMNO_TALISMAN04","id":67108910,"name":"Calcite Talisman","cat":4,"kind":15,"rank":4,"price":480,"flag":0}
+{"label":"ITEMNO_TALISMAN05","id":67108911,"name":"Marine Charm","cat":4,"kind":15,"rank":5,"price":670,"flag":0}
+{"label":"ITEMNO_TALISMAN06","id":67108912,"name":"Fluoric Talisman","cat":4,"kind":15,"rank":6,"price":770,"flag":0}
+{"label":"ITEMNO_TALISMAN07","id":67108913,"name":"Death Ward","cat":4,"kind":15,"rank":7,"price":1080,"flag":0}
+{"label":"ITEMNO_TALISMAN08","id":67108914,"name":"Amphibole Talisman","cat":4,"kind":15,"rank":8,"price":1230,"flag":0}
+{"label":"ITEMNO_TALISMAN09","id":67108915,"name":"Exquisite Charm","cat":4,"kind":15,"rank":9,"price":1680,"flag":0}
+{"label":"ITEMNO_TALISMAN10","id":67108916,"name":"Feldspar Talisman","cat":4,"kind":15,"rank":10,"price":1910,"flag":0}
+{"label":"ITEMNO_TALISMAN11","id":67108917,"name":"Purity Charm","cat":4,"kind":15,"rank":11,"price":2640,"flag":0}
+{"label":"ITEMNO_TALISMAN12","id":67108918,"name":"Quartz Talisman","cat":4,"kind":15,"rank":12,"price":3020,"flag":0}
+{"label":"ITEMNO_TALISMAN13","id":67108919,"name":"Stoic Idol","cat":4,"kind":15,"rank":13,"price":4200,"flag":0}
+{"label":"ITEMNO_TALISMAN14","id":67108920,"name":"Topaz Talisman","cat":4,"kind":15,"rank":14,"price":4770,"flag":0}
+{"label":"ITEMNO_TALISMAN15","id":67108921,"name":"Misfortune Ward","cat":4,"kind":15,"rank":15,"price":6630,"flag":0}
+{"label":"ITEMNO_TALISMAN16","id":67108922,"name":"Mythril Talisman","cat":4,"kind":15,"rank":16,"price":7550,"flag":0}
+{"label":"ITEMNO_TALISMAN17","id":67108923,"name":"Soothing Knife","cat":4,"kind":15,"rank":17,"price":9320,"flag":0}
+{"label":"ITEMNO_TALISMAN18","id":67108924,"name":"Adamantine Talisman","cat":4,"kind":15,"rank":18,"price":10230,"flag":0}
+{"label":"ITEMNO_TALISMAN19","id":67108925,"name":"Long Life Charm","cat":4,"kind":15,"rank":19,"price":11140,"flag":0}
+{"label":"ITEMNO_TALISMAN20","id":67108926,"name":"Perfect Bulwark","cat":4,"kind":15,"rank":20,"price":12500,"flag":0}
+{"label":"ITEMNO_TALISMAN21","id":67108927,"name":"Unnamed Talisman","cat":4,"kind":15,"rank":21,"price":14100,"flag":1024}
+{"label":"ITEMNO_T_COIN","id":150994995,"name":"Earned","cat":9,"kind":32,"rank":0,"price":0,"flag":524}
+{"label":"ITEMNO_VALUE_APPLE","id":150994972,"name":"Fortune Apple","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BBBADGE","id":150994961,"name":"Bloodwing Butterfly Insignia","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOARD_000","id":150994951,"name":"Geoboard","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOARD_001","id":150994952,"name":"Geoboard (Guardian)","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOARD_002","id":150994953,"name":"Geoboard (Tatami)","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOARD_003","id":150994954,"name":"Geoboard (Pirate)","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOSS_FISH_001","id":150995005,"name":"Gold-Colored Salvelinus","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOSS_FISH_002","id":150995006,"name":"Coral-Colored Giant Oarfish","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOSS_FISH_003","id":150995007,"name":"Amber-Colored Horseshoe Crab","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOSS_FISH_004","id":150995008,"name":"Jade-Colored Swordfish","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOSS_FISH_005","id":150995009,"name":"Pearl-Colored Arowana","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_BOSS_FISH_006","id":150995010,"name":"Lapis-Colored Coelacanth","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_COMB","id":150994955,"name":"Laphicet's Comb","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_COMPASS","id":150994959,"name":"Compass","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_DAIL_TAIL","id":150994957,"name":"Dyle's Tail","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_DRAGON_ANCIENT_BOOK","id":150994973,"name":"Ancient Avarost Book","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_DUN_ESCAPE","id":150994948,"name":"Bottomless Denore Bottle","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_EDONA_LETTER","id":150994990,"name":"Edna's Reply","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_FAKED_PASS","id":150994960,"name":"Travel Permit","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_FORTRESS_KEY","id":150994958,"name":"Fortress Gate Key","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_INSECT","id":150994964,"name":"Mysterious Bug","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_KANONUSI_ANCIENT_BOOK","id":150994962,"name":"Villa Book","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_KATZ_PASSPORT","id":150994994,"name":"Katz Invitation","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_KNN_GIMMICK_001","id":150994999,"name":"Spirit Orb of Dawn","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_KNN_GIMMICK_002","id":150995000,"name":"Spirit Orb of Twilight","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_KNN_GIMMICK_003","id":150995001,"name":"Spirit Orb of Celestial Violet","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_KNN_GIMMICK_004","id":150995002,"name":"Spirit Orb of Azure Skies","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_KNN_GIMMICK_005","id":150995003,"name":"Spirit Orb of the Pale Moon","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_KNN_GIMMICK_006","id":150995004,"name":"Spirit Orb of Soaring Trees","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_KURO_SEIRAN","id":150994971,"name":"Kurogane Stormquell","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_LIVE_NOTE","id":150994974,"name":"Research on Ancient Legacies","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_LONGROPE","id":150994956,"name":"Rope","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_MANUSCRIPT","id":150994969,"name":"Copy of Innominat's Book","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_MAP_SHORTCUT","id":150994949,"name":"Bottomless Inoph Bottle","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_MIDUGAME","id":150994966,"name":"Ancient Water Jug","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_MOANA_KEY","id":150994992,"name":"Key to Kamoana's Treasure","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_MOTHER_MEDICINE","id":150994984,"name":"Mom's Medicine","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_NOLMIN_BLACK","id":150994988,"name":"Black Nor Doll","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_NOLMIN_BLUE","id":150994986,"name":"Blue Nor Doll","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_NOLMIN_GREEN","id":150994987,"name":"Green Nor Doll","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_NOLMIN_RED","id":150994985,"name":"Red Nor Doll","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_NORMIN_PASSPORT","id":150994996,"name":"Terror Island Eyewitness Info","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_OIL","id":150994993,"name":"Kindling","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_ORICHALCUM","id":150994967,"name":"Orichalcum Block","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_ORI_SEIRAN","id":150994970,"name":"Orichalcum Stormquell","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_PHENIX_LETTER","id":150994989,"name":"Challenge to Eizen","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_PRM_GIMMICK_001","id":150994997,"name":"Teardrop-Shaped Gemstone","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_PRM_GIMMICK_002","id":150994998,"name":"Flower-Shaped Gemstone","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_RECIPE_01","id":150994975,"name":"Omega Elixir Recipe 1","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_RECIPE_02","id":150994977,"name":"Omega Elixir Recipe 2","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_RECIPE_03","id":150994979,"name":"Omega Elixir Recipe 3","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_RECIPE_04","id":150994981,"name":"Omega Elixir Recipe 4","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_RECIPE_05","id":150994983,"name":"Omega Elixir Recipe 5","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_RONGDAU_METAL","id":150994976,"name":"Long Dau's Dust","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_SALETOMA","id":150994965,"name":"Sale'tomah Flowers","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_SHEEP_EGG","id":150994980,"name":"Cloud-Sheep Egg","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_SIEGFRIED_NOTE","id":150994991,"name":"Siegfried's Manual","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_SORCERER_RING","id":150994947,"name":"Sorcerer's Ring","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_UNICORN_HORN","id":150994978,"name":"Unicorn Horn","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_URIBOA","id":150994950,"name":"Prickleboar Meat","cat":9,"kind":32,"rank":0,"price":0,"flag":4}
+{"label":"ITEMNO_VALUE_WHOSE_LETTER","id":150994968,"name":"Dropped Letter","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_WORLD_MAP","id":150994945,"name":"World Map","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VALUE_YGGDRASILL","id":150994982,"name":"World Tree Leaf","cat":9,"kind":32,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VERVAIN","id":16777232,"name":"Verbena","cat":1,"kind":3,"rank":2,"price":10000,"flag":1}
+{"label":"ITEMNO_VEST01","id":83886081,"name":"Natural Waistcoat","cat":5,"kind":19,"rank":1,"price":291,"flag":0}
+{"label":"ITEMNO_VEST02","id":83886082,"name":"Amber Waistcoat","cat":5,"kind":19,"rank":2,"price":336,"flag":0}
+{"label":"ITEMNO_VEST03","id":83886083,"name":"Waistcoat","cat":5,"kind":19,"rank":3,"price":470,"flag":0}
+{"label":"ITEMNO_VEST04","id":83886084,"name":"Calcite Waistcoat","cat":5,"kind":19,"rank":4,"price":538,"flag":0}
+{"label":"ITEMNO_VEST05","id":83886085,"name":"Thorny Waistcoat","cat":5,"kind":19,"rank":5,"price":750,"flag":0}
+{"label":"ITEMNO_VEST06","id":83886086,"name":"Fluoric Waistcoat","cat":5,"kind":19,"rank":6,"price":862,"flag":0}
+{"label":"ITEMNO_VEST07","id":83886087,"name":"Jet-Black Waistcoat","cat":5,"kind":19,"rank":7,"price":1210,"flag":0}
+{"label":"ITEMNO_VEST08","id":83886088,"name":"Amphibole Waistcoat","cat":5,"kind":19,"rank":8,"price":1378,"flag":0}
+{"label":"ITEMNO_VEST09","id":83886089,"name":"Kingly Waistcoat","cat":5,"kind":19,"rank":9,"price":1882,"flag":0}
+{"label":"ITEMNO_VEST10","id":83886090,"name":"Feldspar Waistcoat","cat":5,"kind":19,"rank":10,"price":2139,"flag":0}
+{"label":"ITEMNO_VEST11","id":83886091,"name":"Colorful Waistcoat","cat":5,"kind":19,"rank":11,"price":2957,"flag":0}
+{"label":"ITEMNO_VEST12","id":83886092,"name":"Quartz Waistcoat","cat":5,"kind":19,"rank":12,"price":3382,"flag":0}
+{"label":"ITEMNO_VEST13","id":83886093,"name":"Summertime Waistcoat","cat":5,"kind":19,"rank":13,"price":4704,"flag":0}
+{"label":"ITEMNO_VEST14","id":83886094,"name":"Topaz Waistcoat","cat":5,"kind":19,"rank":14,"price":5342,"flag":0}
+{"label":"ITEMNO_VEST15","id":83886095,"name":"Aquamarine Waistcoat","cat":5,"kind":19,"rank":15,"price":7426,"flag":0}
+{"label":"ITEMNO_VEST16","id":83886096,"name":"Mythril Waistcoat","cat":5,"kind":19,"rank":16,"price":8456,"flag":0}
+{"label":"ITEMNO_VEST17","id":83886097,"name":"Reflex Waistcoat","cat":5,"kind":19,"rank":17,"price":10438,"flag":0}
+{"label":"ITEMNO_VEST18","id":83886098,"name":"Adamantine Waistcoat","cat":5,"kind":19,"rank":18,"price":11458,"flag":0}
+{"label":"ITEMNO_VEST19","id":83886099,"name":"Zero Impact Waistcoat","cat":5,"kind":19,"rank":19,"price":12219,"flag":0}
+{"label":"ITEMNO_VEST20","id":83886100,"name":"Mumbane","cat":5,"kind":19,"rank":20,"price":13373,"flag":0}
+{"label":"ITEMNO_VEST21","id":83886101,"name":"Unnamed Vestments","cat":5,"kind":19,"rank":21,"price":14896,"flag":1024}
+{"label":"ITEMNO_VISUAL_ATT_001","id":134217740,"name":"Danger Jr.","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_002","id":134217741,"name":"Huggable Sophie","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_003","id":134217742,"name":"Mini-Jude","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_004","id":134217743,"name":"Mini-Milla","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_005","id":134217744,"name":"Mini-Ludger","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_006","id":134217745,"name":"Mini-Lloyd","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_007","id":134217746,"name":"Mini-Marta","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_008","id":134217747,"name":"Mini-Normin","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_009","id":134217748,"name":"Angel Wings","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_010","id":134217749,"name":"Devil Wings","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_011","id":134217750,"name":"Frameless Glasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_012","id":134217751,"name":"Round Glasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_013","id":134217752,"name":"Sunglasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_014","id":134217753,"name":"Colored Sunglasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_015","id":134217754,"name":"X-Ray Glasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_016","id":134217755,"name":"Square Glasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_017","id":134217756,"name":"Black Sunglasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_018","id":134217757,"name":"Monocle","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_019","id":134217758,"name":"Hat","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_020","id":134217759,"name":"Top Hat","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_021","id":134217760,"name":"Ten Gallon Hat","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_022","id":134217761,"name":"Shiba Inu Ears","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_023","id":134217762,"name":"Black Shiba Inu Ears","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_024","id":134217763,"name":"White Bunny Ears","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_025","id":134217764,"name":"Black Bunny Ears","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_026","id":134217765,"name":"Elf Ears","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_027","id":134217766,"name":"Rosy Cheeks","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_028","id":134217767,"name":"Bushy Eyebrows","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_029","id":134217768,"name":"Swordsman's Eyepatch","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_030","id":134217769,"name":"Bedhead","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_031","id":134217770,"name":"Sideburns","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_032","id":134217771,"name":"Afro Puff","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_033","id":134217772,"name":"Pompadour","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_034","id":134217773,"name":"Right-Swept Bangs","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_035","id":134217774,"name":"Left-Swept Bangs","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_036","id":134217775,"name":"Angel Halo","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_037","id":134217776,"name":"Horns","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_038","id":134217777,"name":"Noise-Canceling Headphones","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_039","id":134217778,"name":"Devil Tail","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_040","id":134217779,"name":"Shiba Inu Tail","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_041","id":134217780,"name":"Black Shiba Inu Tail","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_042","id":134217781,"name":"Rose Corsage","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_043","id":134217782,"name":"Fluffy Repede","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_044","id":134217783,"name":"Fluffy Rollo","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_045","id":134217784,"name":"Angry Glasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_046","id":134217785,"name":"Laughing Glasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_047","id":134217786,"name":"Crying Glasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_048","id":134217787,"name":"Pirate's Eyepatch","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_049","id":134217788,"name":"Pirate Hat","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_050","id":134217789,"name":"Mustache","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_051","id":134217790,"name":"Pirate's Brooch","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_052","id":134217791,"name":"Hibiscus Corsage","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_053","id":134217792,"name":"Winter Hat","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_054","id":134217793,"name":"Earmuffs","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_055","id":134217794,"name":"Royal Crown","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_056","id":134217795,"name":"Spyglass","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_057","id":134217796,"name":"Ride-Along Bienfu","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_058","id":134217797,"name":"Attentive Grimoirh","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_059","id":134217798,"name":"Drop Earring (Left)","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_060","id":134217799,"name":"Drop Earring (Right)","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_061","id":134217800,"name":"Aviator Sunglasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_062","id":134217801,"name":"Collar","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_063","id":134217802,"name":"Single Flare Plug (Left Ear)","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_064","id":134217803,"name":"Single Flare Plug (Right Ear)","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_065","id":134217804,"name":"Earring (Left)","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_066","id":134217805,"name":"Earring (Right)","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_067","id":134217806,"name":"Eizen's Glasses","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_068","id":134217833,"name":"Lizard Tail","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_069","id":134217850,"name":"Servant's Bow Tie","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_070","id":134217851,"name":"Servant's Ribbon Tie","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_071","id":134217913,"name":"Therapy Cat","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_072","id":134217914,"name":"Bookworm Sorey","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_ATT_073","id":134218363,"name":"Fish King's Crown","cat":8,"kind":27,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_001","id":134217739,"name":"Regular Outfit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_002","id":134217830,"name":"Jacketless Outfit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_003","id":134217831,"name":"Hot Spring Outfit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_004","id":134217832,"name":"Color Variant Outfit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_005","id":134217849,"name":"Waiter Uniform (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_006","id":134217901,"name":"Swimwear (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_007","id":134217902,"name":"Winter Clothes (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_008","id":134217910,"name":"Boss Clothes (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_009","id":134218342,"name":"Normin Phoenix Suit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_010","id":134218343,"name":"Fire Normin Suit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_011","id":134218344,"name":"Water Normin Suit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_012","id":134218345,"name":"Wind Normin Suit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_013","id":134218346,"name":"Earth Normin Suit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_EIZ_014","id":134218347,"name":"Void Normin Suit (Eizen)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_001","id":134217737,"name":"Regular Outfit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_002","id":134217824,"name":"Jacketless Outfit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_003","id":134217825,"name":"Hot Spring Outfit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_004","id":134217826,"name":"Color Variant Outfit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_005","id":134217847,"name":"Waitress Uniform (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_006","id":134217896,"name":"Exorcist Uniform (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_007","id":134217897,"name":"Swimwear (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_008","id":134217898,"name":"Winter Clothes (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_010","id":134218356,"name":"Normin Phoenix Suit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_011","id":134218357,"name":"Fire Normin Suit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_012","id":134218358,"name":"Water Normin Suit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_013","id":134218359,"name":"Wind Normin Suit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_014","id":134218360,"name":"Earth Normin Suit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ELN_015","id":134218361,"name":"Void Normin Suit (Eleanor)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_001","id":134217735,"name":"Regular Outfit (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_002","id":134217818,"name":"Jacketless Outfit (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_003","id":134217819,"name":"Hot Spring Clothes (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_004","id":134217820,"name":"Color Variant Outfit (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_005","id":134217843,"name":"Normin Phoenix Suit (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_006","id":134217845,"name":"Waiter Uniform (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_007","id":134217888,"name":"Bienfu Garb (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_008","id":134217891,"name":"Villager Clothes (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_009","id":134217892,"name":"Swimwear (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_010","id":134217893,"name":"Winter Clothes (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_011","id":134217909,"name":"Battle Music Garb (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_012","id":134217915,"name":"Flame Normin Suit (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_013","id":134217916,"name":"Water Normin Suit (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_014","id":134217917,"name":"Wind Normin Suit (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_015","id":134217918,"name":"Earth Normin Suit (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_FIS_016","id":134217919,"name":"Void Normin Suit (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_001","id":134217738,"name":"Regular Outfit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_002","id":134217827,"name":"Jacketless Outfit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_003","id":134217828,"name":"Hot Spring Outfit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_004","id":134217829,"name":"Color Variant Outfit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_005","id":134217848,"name":"Waitress Uniform (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_006","id":134217899,"name":"Swimwear (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_007","id":134217900,"name":"Winter Clothes (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_008","id":134217911,"name":"Battle Music Garb (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_009","id":134218349,"name":"Normin Phoenix Suit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_010","id":134218350,"name":"Fire Normin Suit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_011","id":134218351,"name":"Water Normin Suit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_012","id":134218352,"name":"Wind Normin Suit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_013","id":134218353,"name":"Earth Normin Suit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_MGL_014","id":134218354,"name":"Void Normin Suit (Magilou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_001","id":134217736,"name":"Regular Outfit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_002","id":134217821,"name":"Jacketless Outfit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_003","id":134217822,"name":"Hot Spring Outfit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_004","id":134217823,"name":"Color Variant Outfit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_005","id":134217846,"name":"Waiter Uniform (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_006","id":134217894,"name":"Swimwear (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_007","id":134217895,"name":"Winter Clothes (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_008","id":134217908,"name":"Battle Music Garb (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_009","id":134218335,"name":"Normin Phoenix Suit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_010","id":134218336,"name":"Flame Normin Suit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_011","id":134218337,"name":"Water Normin Suit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_012","id":134218338,"name":"Wind Normin Suit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_013","id":134218339,"name":"Earth Normin Suit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_ROK_014","id":134218340,"name":"Void Normin Suit (Rokurou)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_001","id":134217734,"name":"Regular Outfit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_002","id":134217813,"name":"Villager Clothes (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_003","id":134217814,"name":"Prisoner Clothes (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_004","id":134217815,"name":"Jacketless Outfit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_005","id":134217816,"name":"Hot Spring Outfit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_006","id":134217817,"name":"Color Variant Outfit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_007","id":134217844,"name":"Waitress Uniform (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_008","id":134217889,"name":"Swimwear (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_009","id":134217890,"name":"Winter Clothes (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_010","id":134217905,"name":"Battle Music Garb 1 (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_011","id":134217906,"name":"Battle Music Garb 2 (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_012","id":134217907,"name":"Battle Music Garb 3 (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_013","id":134217920,"name":"Battle Music Garb 4 (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_014","id":134218328,"name":"Normin Phoenix Suit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_015","id":134218329,"name":"Flame Normin Suit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_016","id":134218330,"name":"Water Normin Suit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_017","id":134218331,"name":"Wind Normin Suit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_018","id":134218332,"name":"Earth Normin Suit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_COS_VEL_019","id":134218333,"name":"Void Normin Suit (Velvet)","cat":8,"kind":25,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_EIZ_001","id":134217733,"name":"Normal Style (Eizen)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_EIZ_002","id":134217812,"name":"Slicked-Back Hair (Eizen)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_EIZ_003","id":134217842,"name":"Normin Phoenix Hat (Eizen)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_EIZ_004","id":134217877,"name":"Fire Normin Hat (Eizen)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_EIZ_005","id":134217878,"name":"Water Normin Hat (Eizen)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_EIZ_006","id":134217879,"name":"Wind Normin Hat (Eizen)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_EIZ_007","id":134217880,"name":"Earth Normin Hat (Eizen)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_EIZ_008","id":134217881,"name":"Void Normin Hat (Eizen)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_EIZ_009","id":134217887,"name":"Bienfu Hat (Eizen)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_001","id":134217731,"name":"Normal Style (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_002","id":134217810,"name":"Slicked-Back Hair (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_003","id":134217835,"name":"Color Variant Style (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_004","id":134217840,"name":"Normin Phoenix Hat (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_005","id":134217867,"name":"Fire Normin Hat (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_006","id":134217868,"name":"Water Normin Hat (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_007","id":134217869,"name":"Wind Normin Hat (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_008","id":134217870,"name":"Earth Normin Hat (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_009","id":134217871,"name":"Void Normin Hat (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ELN_010","id":134217885,"name":"Bienfu Hat (Eleanor)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_001","id":134217729,"name":"Normal Style (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_002","id":134217808,"name":"Slicked-Back Hair (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_003","id":134217838,"name":"Normin Phoenix Hat (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_004","id":134217857,"name":"Fire Normin Hat (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_005","id":134217858,"name":"Water Normin Hat (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_006","id":134217859,"name":"Wind Normin Hat (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_007","id":134217860,"name":"Earth Normin Hat (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_008","id":134217861,"name":"Void Normin Hat (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_009","id":134217883,"name":"Bienfu Hat (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_FIS_010","id":134217904,"name":"Winter Style (<Character Id=\"CID_FIS00a\"/>)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_001","id":134217732,"name":"Normal Style (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_002","id":134217811,"name":"Slicked-Back Hair (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_003","id":134217836,"name":"Color Variant Style (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_004","id":134217841,"name":"Normin Phoenix Hat (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_005","id":134217872,"name":"Fire Normin Hat (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_006","id":134217873,"name":"Water Normin Hat (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_007","id":134217874,"name":"Wind Normin Hat (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_008","id":134217875,"name":"Earth Normin Hat (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_009","id":134217876,"name":"Void Normin Hat (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_010","id":134217886,"name":"Bienfu Hat (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_MGL_011","id":134217903,"name":"Hatless Style (Magilou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ROK_001","id":134217730,"name":"Normal Style (Rokurou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ROK_002","id":134217809,"name":"Slicked-Back Hair (Rokurou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ROK_003","id":134217839,"name":"Normin Phoenix Hat (Rokurou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ROK_004","id":134217862,"name":"Fire Normin Hat (Rokurou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ROK_005","id":134217863,"name":"Water Normin Hat (Rokurou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ROK_006","id":134217864,"name":"Wind Normin Hat (Rokurou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ROK_007","id":134217865,"name":"Earth Normin Hat (Rokurou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ROK_008","id":134217866,"name":"Void Normin Hat (Rokurou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_ROK_009","id":134217884,"name":"Bienfu Hat (Rokurou)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_001","id":134217728,"name":"Normal Style (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_002","id":134217807,"name":"Slicked-Back Hair (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_003","id":134217834,"name":"Villager Style (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_004","id":134217837,"name":"Normin Phoenix Hat (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_005","id":134217852,"name":"Fire Normin Hat (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_006","id":134217853,"name":"Water Normin Hat (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_007","id":134217854,"name":"Wind Normin Hat (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_008","id":134217855,"name":"Earth Normin Hat (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_009","id":134217856,"name":"Void Normin Hat (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_VISUAL_HAIR_VEL_010","id":134217882,"name":"Bienfu Hat (Velvet)","cat":8,"kind":26,"rank":0,"price":0,"flag":20}
+{"label":"ITEMNO_WRISTLET01","id":50331754,"name":"Iron Fist","cat":3,"kind":12,"rank":1,"price":273,"flag":0}
+{"label":"ITEMNO_WRISTLET02","id":50331755,"name":"Amber Bracelet","cat":3,"kind":12,"rank":2,"price":315,"flag":0}
+{"label":"ITEMNO_WRISTLET03","id":50331756,"name":"Wristlet","cat":3,"kind":12,"rank":3,"price":441,"flag":0}
+{"label":"ITEMNO_WRISTLET04","id":50331757,"name":"Calcite Bracelet","cat":3,"kind":12,"rank":4,"price":504,"flag":0}
+{"label":"ITEMNO_WRISTLET05","id":50331758,"name":"Armstrong","cat":3,"kind":12,"rank":5,"price":704,"flag":0}
+{"label":"ITEMNO_WRISTLET06","id":50331759,"name":"Fluoric Bracelet","cat":3,"kind":12,"rank":6,"price":808,"flag":0}
+{"label":"ITEMNO_WRISTLET07","id":50331760,"name":"Möbius Loop","cat":3,"kind":12,"rank":7,"price":1134,"flag":0}
+{"label":"ITEMNO_WRISTLET08","id":50331761,"name":"Amphibole Bracelet","cat":3,"kind":12,"rank":8,"price":1292,"flag":0}
+{"label":"ITEMNO_WRISTLET09","id":50331762,"name":"Gatling Arms","cat":3,"kind":12,"rank":9,"price":1764,"flag":0}
+{"label":"ITEMNO_WRISTLET10","id":50331763,"name":"Feldspar Bracelet","cat":3,"kind":12,"rank":10,"price":2006,"flag":0}
+{"label":"ITEMNO_WRISTLET11","id":50331764,"name":"Blood Breaker","cat":3,"kind":12,"rank":11,"price":2772,"flag":0}
+{"label":"ITEMNO_WRISTLET12","id":50331765,"name":"Quartz Bracelet","cat":3,"kind":12,"rank":12,"price":3171,"flag":0}
+{"label":"ITEMNO_WRISTLET13","id":50331766,"name":"Perpetuity","cat":3,"kind":12,"rank":13,"price":4410,"flag":0}
+{"label":"ITEMNO_WRISTLET14","id":50331767,"name":"Topaz Bracelet","cat":3,"kind":12,"rank":14,"price":5008,"flag":0}
+{"label":"ITEMNO_WRISTLET15","id":50331768,"name":"Finger of God","cat":3,"kind":12,"rank":15,"price":6962,"flag":0}
+{"label":"ITEMNO_WRISTLET16","id":50331769,"name":"Mythril Bracelet","cat":3,"kind":12,"rank":16,"price":7928,"flag":0}
+{"label":"ITEMNO_WRISTLET17","id":50331770,"name":"Dragon's Bite","cat":3,"kind":12,"rank":17,"price":9786,"flag":0}
+{"label":"ITEMNO_WRISTLET18","id":50331771,"name":"Adamantine Bracelet","cat":3,"kind":12,"rank":18,"price":10742,"flag":0}
+{"label":"ITEMNO_WRISTLET19","id":50331772,"name":"Titan's Knuckles","cat":3,"kind":12,"rank":19,"price":11697,"flag":0}
+{"label":"ITEMNO_WRISTLET20","id":50331773,"name":"Broken Shackle","cat":3,"kind":12,"rank":20,"price":13125,"flag":0}
+{"label":"ITEMNO_WRISTLET21","id":50331774,"name":"Unnamed Bracelet","cat":3,"kind":12,"rank":21,"price":16706,"flag":1024}
