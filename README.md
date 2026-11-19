@@ -52,3 +52,8 @@ Build a release with `./build_release.ps1` (needs the .NET SDK and the game inst
 - Boss-check and goal detection use the game's scenario counter and still need a full playthrough to verify.
 - DeathLink in `next_battle` mode: scripted story battles may revive the party instead of a game over, so a
   death received just before such a battle has no lasting effect (`immediate` mode always uses a plain battle).
+
+## License
+
+MIT, see `LICENSE`. Bundles [TalesOfTools](https://github.com/DaZombieKiller/TalesOfTools) (MIT) for reading the game archives.
+Unofficial fan project, not affiliated with Bandai Namco. No game files are included.
